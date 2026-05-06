@@ -1,8 +1,3 @@
-好的，为您提取了这段关于“周末放松与规则化管理”深度辩论的完整对话。这段内容探讨了在现代社会压力下，是将周末作为“空白画布”随性而活，还是像“工厂车间”一样严格管理更有助于恢复精力。
-
-### 深度辩论：周末的建筑学——充电还是负担？
-**Deep Dive: The Architecture of the Weekend — Recharge or Routine?**
-
 ---
 
 **Host A:** Hello everyone, welcome to the English Podcast Journey. Welcome to the debate.

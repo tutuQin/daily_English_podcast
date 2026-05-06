@@ -1,8 +1,3 @@
-以下是为您逐句提取的对话内容及其翻译，整理为中英文对照格式：
-
-**Critiquing an English Learning Script: From Generic to Specific**
-**播客点评：从泛泛而谈到精准教学**
-
 ---
 
 **Host A:** Hello everyone, welcome to the English Podcast Journey. Today’s critique examines a script aimed at helping English language learners overcome the comparison trap.
