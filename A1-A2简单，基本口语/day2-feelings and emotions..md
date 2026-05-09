@@ -34,8 +34,8 @@ Ah. Feelings.
 Emotions. These are very, very important words.
 情绪。这些是非常非常重要的词汇。
 
-They are like the engine of our lives.
-它们就像我们生活的引擎。
+They are like the **engine** of our lives.
+它们就像我们生活的。
 
 A: They are.
 确实如此。
@@ -43,8 +43,8 @@ A: They are.
 You know when we learn English, we often look at lists of words.
 你知道当我们学习英语时，我们经常看词汇表。
 
-Yes, we do. We learn words for objects.
-是的，我们确实如此。我们学习代表物体的词。
+Yes, we do. We learn words for **objects**.
+是的，我们确实如此。我们学习代表**物体**的词。
 
 We learn table, or chair, or car. Exactly.
 我们学习桌子，或者椅子，或者汽车。完全正确。
@@ -52,8 +52,8 @@ We learn table, or chair, or car. Exactly.
 We learn computer and telephone. Right.
 我们学习电脑和电话。对。
 
-We learn the names of things we can touch. This is the hardware of language.
-我们学习我们能触摸到的东西的名称。这是语言的硬件。
+We learn the names of things we can touch. This is the **hardware** of language.
+我们学习我们能触摸到的东西的名称。这是语言的**硬件**。
 
 It is useful. I mean, we need to know what a table is.
 它很有用。我的意思是，我们需要知道桌子是什么。
@@ -67,14 +67,14 @@ You cannot touch a feeling. No, you cannot.
 You cannot hold an emotion in your hand. But they are very real.
 你无法把情绪握在手里。但它们非常真实。
 
-They are very real. Feelings help us express who we are.
-它们非常真实。感受帮助我们表达自己是谁。
+They are very real. Feelings help us **express** who we are.
+它们非常真实。感受帮助我们**表达**自己是谁。
 
-Yes. They help us say what is inside us.
-是的。它们帮助我们说出我们内心的想法。
+Yes. They help us say what is **inside** us.
+是的。它们帮助我们说出我们**内心**的想法。
 
-If I only know the word for table, well I can buy furniture.
-如果我只知道桌子这个词，好吧，我可以买家具。
+If I only know the word for table, well I can buy **furniture**.
+如果我只知道桌子这个词，好吧，我可以买**家具**。
 
 Right. But I cannot tell you who I am.
 对。但我无法告诉你我是谁。
@@ -82,8 +82,8 @@ Right. But I cannot tell you who I am.
 A: That is a great point. Talking about feelings helps us connect with other people.
 这点说得太好了。谈论感受有助于我们与他人建立联系。
 
-It does. It builds a bridge between me and you.
-确实如此。它在你我之间架起了一座桥梁。
+It does. It builds a **bridge** between me and you.
+确实如此。它在你我之间架起了一座**桥梁**。
 
 Yes. Think about it this way.
 是的。这样想吧。
@@ -103,20 +103,20 @@ It builds a real connection.
 B: So today in this deep dive, we will look at many different feelings.
 所以今天的深度探索中，我们将审视许多不同的感受。
 
-We will look at good feelings. And we will look at difficult feelings too.
-我们将探讨美好的感受。我们也会探讨艰难的感受。
+We will look at good feelings. And we will look at **difficult feelings** too.
+我们将探讨美好的感受。我们也会探讨**艰难的感受**。
 
-We will look at the feelings we have from the moment we wake up until the moment we go to sleep.
-我们将审视从我们醒来那刻起直到我们入睡那刻所拥有的感受。
+We will look at the feelings we have from the moment we wake up **until** the moment we go to sleep.
+我们将审视从我们醒来那刻起**直到**我们入睡那刻所拥有的感受。
 
-I love that. And we want to create a warm, friendly atmosphere for you today.
+I love that. And we want to create a warm, friendly **atmosphere** for you today.
 我喜欢这个主意。今天我们想为大家营造一个温暖友好的氛围。
 
-Yes. This is a safe place to practice English.
-是的。这是一个练习英语的安全地方。
+Yes. This is a **safe place** to practice English.
+是的。这是一个练习英语的**安全地方**。
 
-A: Absolutely. And remember, simple English is okay.
-绝对的。请记住，简单的英语也完全可以。
+A: **Absolutely**. And remember, simple English is okay.
+**绝对的**。请记住，简单的英语也完全可以。
 
 It is more than okay. You do not need big, difficult words to talk about your heart.
 不仅是可以，而是非常好。你不需要用大词、难词来谈论你的内心。
@@ -124,17 +124,17 @@ It is more than okay. You do not need big, difficult words to talk about your he
 Simple words are powerful. Very powerful.
 简单的词汇就很有力量。非常有力量。
 
-Sometimes just saying I am happy is the best sentence in the world.
-有时候，仅仅说“我很开心”就是世界上最美好的句子。
+Sometimes just saying I am happy is the best **sentence** in the world.
+有时候，仅仅说“我很开心”就是世界上最美好的**句子**。
 
-That is right. So, um, let us start at the very beginning.
-没错。所以，嗯，让我们从最开始说起。
+That is right. So, um, let us start at the **very beginning.**
+没错。所以，嗯，让我们从**最开始**说起。
 
 Let us look at the morning.
 我们来看看早晨。
 
-B: Okay, let's unpack this. Think about your day.
-好的，让我们来拆解一下。回想一下你的一天。
+B: Okay, let's **unpack** this. Think about your day.
+好的，让我们来**拆解**一下。回想一下你的一天。
 
 Think about Monday morning. Oh, Monday morning.
 回想一下周一早晨。哦，周一早晨。
@@ -172,20 +172,20 @@ Right. You move very slowly.
 Yes.
 是的。
 
-The bed is warm, the room is cold, you just want to stay under the blanket.
-床很暖和，房间很冷，你只想呆在毯子底下。
+The bed is warm, the room is cold, you just want to stay under the **blanket**.
+床很暖和，房间很冷，你只想呆在**毯子**底下。
 
 B: Exactly.
 完全正确。
 
-Your brain is not working fast yet, you are moving in slow motion.
-你的大脑还没有开始快速运转，你的动作像是慢镜头。
+Your brain is not working fast yet, you are moving in slow **motion.**
+你的大脑还没有开始快速运转，你的动作像是慢**镜头/画面**。
 
-I think many people feel sleepy on Monday mornings. It is very hard to get out of bed.
-我想很多人在周一早上都会感到困倦。很难从床上爬起来。
+I think many people feel **sleepy** on Monday mornings. It is very hard to get out of bed.
+我想很多人在周一早上都会感到**困倦**。很难从床上爬起来。
 
-It is. It is a physical feeling, but it affects our mood.
-是的。这是一种生理上的感觉，但它会影响我们的情绪。
+It is. It is a physical feeling, but it **affects** our mood.
+是的。这是一种生理上的感觉，但它会**影响**我们的情绪。
 
 Yes, it changes how we think. You feel slow before the day starts.
 是的，它会改变我们的思维方式。在新的一天开始之前你觉得很迟缓。
@@ -196,20 +196,20 @@ You might think, oh no, I have to work today.
 A: But well, we cannot stay in bed all day. No, we cannot.
 但是，嗯，我们不能整天呆在床上。不，我们不能。
 
-When we have jobs, we have school, we have families, we have to change our mood.
-当我们有工作、有学业、有家庭时，我们必须改变我们的情绪。
+When we have jobs, we have school, we have families, we have to change our **mood**.
+当我们有工作、有学业、有家庭时，我们必须改变我们的**情绪**。
 
-We have to transition. Right.
-我们必须过渡。对。
+We have to **transition**. Right.
+我们必须**过渡**。对。
 
 We have to change how we feel. We need to move from sleepy to something else.
 我们必须改变我们的感觉。我们需要从困倦转变为其他状态。
 
-We need to wake up our minds. So what is the opposite of sleepy?
-我们需要唤醒我们的大脑。那么“困倦”的反义词是什么？
+We need to wake up our minds. So what is the **opposite** of **sleepy**?
+我们需要唤醒我们的大脑。那么“**困倦**”的**反义词**是什么？
 
-B: What is the goal here? The opposite is energetic.
-这里的目标是什么？反义词是充满活力的。
+B: What is the goal here? The opposite is **energetic**.
+这里的目标是什么？反义词是**充满活力的**。
 
 Energetic. I like that word.
 充满活力的。我喜欢这个词。
@@ -217,20 +217,20 @@ Energetic. I like that word.
 It sounds strong. It is strong.
 听起来很强有力。确实很强有力。
 
-To be energetic means you have energy. You want to move.
-充满活力意味着你有能量。你想要活动。
+To be energetic means you have energy. You want to **move**.
+充满活力意味着你有能量。你想要**活动。**
 
 Yes.
 是的。
 
-You are ready to work, you are awake, your eyes are open wide.
-你准备好工作了，你清醒了，你的眼睛睁得大大的。
+You are ready to work, you are awake, your eyes are open **wide**.
+你准备好工作了，你清醒了，你的**眼睛睁得大大的。**
 
-And we also want to be positive. Yes, positive.
-而且我们也想保持积极。是的，积极的。
+And we also want to be **positive**. Yes, positive.
+而且我们也想保持**积极**。是的，积极的。
 
-Being positive is about your mind.
-保持积极是关于你的心态。
+Being positive is about your **mind**.
+保持积极是关于你的**心态**。
 
 A: Okay. Being energetic is about your body.
 好的。充满活力是关于你的身体。
@@ -271,8 +271,8 @@ Yes.
 It wakes you up, the smell of the coffee helps, the warm cup helps.
 它能唤醒你，咖啡的香味有帮助，温暖的杯子也有帮助。
 
-So the coffee helps you feel ready for the week ahead.
-所以咖啡能帮你为接下来的一周做好准备。
+So the coffee helps you feel ready for the **week ahead.**
+所以咖啡能帮你为**接下来的一周**做好准备。
 
 A: It is like a switch. Click, now I am awake.
 它就像一个开关。咔哒，现在我醒了。
@@ -286,8 +286,8 @@ It signals to your body that the sleep time is finished, the work time is starti
 Let's look at the language here. We have three key words: Sleepy, positive, energetic.
 让我们看看这里的语言。我们有三个关键词：困倦的、积极的、充满活力的。
 
-These are adjectives. They describe how we feel.
-这些是形容词。它们描述我们的感受。
+These are **adjectives**. They describe how we feel.
+这些是**形容词**。它们描述我们的感受。
 
 Right. Let's practice a simple sentence structure.
 对。让我们练习一个简单的句子结构。
@@ -346,8 +346,8 @@ Or how should you feel? You should feel focused.
 Focused. That is a strong word.
 专注。这是一个强有力的词。
 
-What does it mean to be focused? To be focused means you pay attention to one thing.
-专注是什么意思？专注意味着你把注意力集中在一件事上。
+What does it mean to be focused? To be focused means you **pay attention to** one thing.
+专注是什么意思？专注意味着你把**注意力**集中在一件事上。
 
 One thing. Okay.
 一件事。好的。
@@ -415,8 +415,8 @@ That is an interesting question. Actually no, a little stress can be good.
 Really? How is stress good?
 真的吗？压力怎么会是好事？
 
-We call it good stress. It can be a motivator.
-我们称之为良性压力。它可以是一种动力。
+We call it good stress. It can be a **motivator**.
+我们称之为良性压力。它可以是一种**动力**。
 
 A motivator.
 动力。
@@ -427,8 +427,8 @@ B: Yes. It helps you move faster.
 Ah, I see. If I have no stress, maybe I will work too slowly.
 啊，我明白了。如果我没有压力，也许我会工作得太慢。
 
-Exactly. If you have no stress, you might watch television instead of working.
-完全正确。如果你没有压力，你可能就会去看电视而不是工作了。
+Exactly. If you have no stress, you might watch **television** **instead of** working.
+完全正确。如果你没有压力，你可能就会去看**电视**而不是**工作了。
 
 Good stress helps you focus. It gives you energy to finish the task.
 良性压力帮你保持专注。它给你完成任务的能量。
@@ -448,8 +448,8 @@ A: You are done. You send the email, you close the book.
 Yes, the work is finished. Now how do you feel?
 是的，工作完成了。现在你感觉如何？
 
-Oh, I feel wonderful. I feel relieved.
-哦，我感觉好极了。我感到如释重负。
+Oh, I feel wonderful. I feel **relieved**.
+哦，我感觉好极了。我感到**如释重负**。
 
 Relieved. This is a very important word.
 如释重负。这是一个非常重要的词。
@@ -460,8 +460,8 @@ It is a great feeling. Relieved means the worry stops.
 The stress goes away. You can breathe deeply again.
 压力消失了。你又可以深呼吸了。
 
-Ah, that is relief. It is the feeling of putting down a heavy bag.
-啊，那就是解脱。那就像放下了一个沉重包袱的感觉。
+Ah, that is **relief**. It is the feeling of putting down a heavy bag.
+啊，那就是**解脱**。那就像放下了一个沉重包袱的感觉。
 
 B: Yeah. You carry the heavy bag all day.
 是的。你提着那个沉重的包袱一整天。
@@ -469,8 +469,8 @@ B: Yeah. You carry the heavy bag all day.
 Now you put it down, you are relieved. And there is another feeling too.
 现在你把它放下了，你如释重负。而且还有另一种感觉。
 
-You feel accomplished. Accomplished.
-你感到有成就感。有成就感。
+You feel **accomplished**. Accomplished.
+你感到有**成就感**。有成就感。
 
 That is a longer word. Let's unpack that.
 这是一个较长的词。让我们来拆解一下。
@@ -484,8 +484,8 @@ To feel accomplished means you know you did a good job. You achieved something.
 You succeeded. You look at your work and say, I did that.
 你成功了。你看着你的工作说，那是我做的。
 
-A: It makes you feel proud. Yes, pride is part of it.
-它让你感到自豪。是的，自豪感是其中一部分。
+A: It makes you feel **proud**. Yes, **pride** is part of it.
+它让你感到**自豪**。是的，**自豪**感是其中一部分。
 
 So first you are focused, then maybe you are stressed. And finally, you are relieved and accomplished.
 所以首先你很专注，然后也许你会有压力。最后，你感到如释重负并充满成就感。
@@ -505,8 +505,8 @@ B: That is very true. Learning a language is full of feelings.
 It is not just about memory, it is about emotion.
 这不仅仅是关乎记忆，还关乎情绪。
 
-There are ups and downs, high points and low points, mountains and valleys.
-这里有起伏，有高潮也有低谷，有山峰也有峡谷。
+There are ups and downs, high points and **low points**, mountains and **valleys**.
+这里有起伏，有高潮也**有低谷**，有山峰也有**峡谷**。
 
 Let's talk about a high point. Imagine you learn a new word.
 让我们来谈谈高潮部分。想象一下你学了一个新单词。
@@ -517,8 +517,8 @@ Or imagine you understand this conversation perfectly.
 Or imagine you use a new word in a sentence and it is correct.
 或者想象你在一个句子里使用了一个新词，而且是用对了。
 
-A: That is a small victory. A small win.
-那就是一个小小的胜利。一个小赢。
+A: That is a small **victory**. A small win.
+那就是一个小小的**胜利**。一个小赢。
 
 Yes. And how do you feel in that moment?
 是的。那一刻你感觉如何？
@@ -541,14 +541,14 @@ You want to talk more. But we do not always feel confident.
 B: No, we don't. Sometimes learning is hard.
 不，我们并非如此。有时学习很困难。
 
-Sometimes we do not understand. Sometimes the grammar is very difficult.
-有时我们听不懂。有时语法非常难。
+Sometimes we do not understand. Sometimes the **grammar** is very difficult.
+有时我们听不懂。有时**语法**非常难。
 
 Or the person speaks too fast. Or there are too many new words.
 或者对方语速太快。或者有太多的生词。
 
-And then we feel confused. Confused.
-然后我们就会感到困惑。困惑。
+And then we feel confused. **Confused**.
+然后我们就会感到困惑。**困惑**。
 
 It means you do not know what is happening. You do not understand the meaning.
 这意味着你不知道发生了什么。你不明白意思。
@@ -577,8 +577,8 @@ If you are confused, it means you are trying to learn something new.
 That is a great way to think about it.
 这是一种很好的思考方式。
 
-B: If you already understood everything, you would not be learning. So, be patient.
-如果你已经懂了所有东西，那你就不需要学习了。所以，耐心点。
+B: If you already understood everything, you would not be learning. So, **be patient.**
+如果你已经懂了所有东西，那你就不需要学习了。所以，**耐心点**。
 
 If you are confused, ask for help, listen again, read again. That is good advice.
 如果你感到困惑，寻求帮助，再听一遍，再读一遍。这是个好建议。
@@ -586,7 +586,7 @@ If you are confused, ask for help, listen again, read again. That is good advice
 But sometimes, we make a mistake. We say the wrong word.
 但有时候，我们会犯错。我们说错词了。
 
-Or we use the wrong grammar. And then we feel embarrassed.
+Or we use the wrong **grammar**. And then we feel **embarrassed**.
 或者我们用错了语法。然后我们感到尴尬。
 
 Embarrassed. Your face might turn red, you feel shy, you want to hide.
@@ -601,14 +601,14 @@ I hate feeling embarrassed. It is an uncomfortable feeling.
 I know. Nobody likes it.
 我知道。没人喜欢这种感觉。
 
-But we can put a positive spin on this. A positive spin.
-但我们可以用积极的眼光来看待它。积极的眼光。
+But we can put **a positive spin** on this. A positive spin（旋转，积极正向的旋转）.
+但我们可以**用积极的眼光**来看待它。积极的眼光。
 
 What do you mean? We can look at it in a good way.
 什么意思？我们可以往好处想。
 
-We can change our perspective. You can use the mistake to grow.
-我们可以改变我们的视角。你可以利用错误来成长。
+We can change our **perspective**. You can use the mistake to grow.
+我们可以改变我们的**视角**。你可以利用错误来成长。
 
 Ah, I see. Mistakes are okay.
 啊，我明白了。犯错没关系。
@@ -616,8 +616,8 @@ Ah, I see. Mistakes are okay.
 B: Mistakes are necessary. You cannot learn without mistakes.
 犯错是必要的。不犯错是学不到东西的。
 
-Think about a baby learning to walk. The baby falls down many times.
-想象一个正在学走路的婴儿。婴儿会跌倒很多次。
+Think about a baby learning to walk. The baby **falls down** many times.
+想象一个正在学走路的婴儿。婴儿会**跌倒**很多次。
 
 That is true. But the baby stands up again.
 那是真的。但婴儿会再次站起来。
@@ -649,16 +649,16 @@ Yes, social feelings. Feelings when we are with others.
 Imagine you are meeting a new person for the first time. Maybe a new English speaker.
 想象你第一次见一个新朋友。也许是一个新说英语的人。
 
-Maybe a new boss. First impressions are important, the first moment is big.
-也许是一位新老板。第一印象很重要，最初的那一刻很关键。
+Maybe a new boss. First **impressions** are important, the first moment is big.
+也许是一位新老板。第一**印象**很重要，最初的那一刻很关键。
 
-B: How do we usually feel? Usually, we feel nervous.
+B: How do we usually feel? Usually, we feel **nervous**.
 我们通常感觉如何？通常，我们感到紧张。
 
 Nervous. It is a little bit like being stressed.
 紧张的。这有点像感到有压力。
 
-Your heart beats fast, thump thump thump. Yes.
+Your heart beats fast, **thump** thump thump. Yes.
 你的心跳加快，扑通扑通扑通。是的。
 
 Your hands might be cold. You worry, you think, will they like me?
@@ -691,8 +691,8 @@ You say hello, they say hello, you smile, they smile. You start to talk, you lau
 B: Then you become relaxed. Relaxed.
 然后你就变得放松了。放松的。
 
-That is a nice word. You are calm, you are comfortable.
-这是个好词。你很平静，你很舒服。
+That is a nice word. You are **calm**, you are comfortable.
+这是个好词。你很**平静**，你很舒服。
 
 Your heart beats normally. And you feel happy.
 你的心跳正常。而且你感到开心。
@@ -715,11 +715,11 @@ Yeah. But life is not always happy.
 That is true. Sometimes we have difficult days.
 这是事实。有时我们会度过艰难的日子。
 
-Sometimes the weather is rainy in our hearts. Sometimes we have negative emotions.
-有时我们心里也会下雨。有时我们会有负面情绪。
+Sometimes the weather is rainy in our hearts. Sometimes we have **negative emotions.**
+有时我们心里也会下雨。有时我们会有**负面情绪。**
 
-It is important to talk about them too. We might feel discouraged.
-谈论它们也很重要。我们可能会感到气馁。
+It is important to talk about them too. We might feel **discouraged**.
+谈论它们也很重要。我们可能会感到**气馁。**
 
 Discouraged.
 气馁的。
@@ -727,8 +727,8 @@ Discouraged.
 B: That is a big word. Let's look at the parts.
 这是个大词。让我们看看它的组成部分。
 
-Courage means bravery. Dis means no.
-Courage 意思是勇气。Dis 表示否定。
+Courage means **bravery**. Dis means no.
+Courage 意思是**勇气**。Dis 表示否定。
 
 Yeah. So discouraged means you lose your bravery.
 是的。所以 discouraged（气馁）意味着你失去了勇气。
@@ -796,8 +796,8 @@ It gives you new energy. It helps you keep going.
 There are other feelings for difficult days too. We can feel calm and have courage.
 在艰难的日子里还有其他感受。我们可以感到平静并拥有勇气。
 
-B: Calm means peace inside. Even if the world is noisy, you are quiet inside.
-平静意味着内心的和平。即使世界喧嚣，你内心也很安静。
+B: Calm means peace inside. Even if the world is **noisy**, you are quiet inside.
+平静意味着内心的和平。即使世界**喧嚣**，你内心也很安静。
 
 Courage means being brave. It means doing something even if it is hard.
 勇气意味着勇敢。它意味着即使很难也要去做某事。
@@ -805,14 +805,14 @@ Courage means being brave. It means doing something even if it is hard.
 How do we find calm and courage when life is hard? It comes from inner peace, it comes from inside you.
 当生活艰难时，我们如何找到平静和勇气？它来自内心的平静，它来自你内心深处。
 
-It comes from believing in yourself. Our sources mention finding strength through faith or inner belief.
-它来自对自己的信念。我们的资料提到通过信仰或内在信念找到力量。
+It comes from believing in yourself. Our sources mention finding strength through **faith** or inner belief.
+它来自对自己的信念。我们的资料提到通过**信仰**或内在信念找到力量。
 
 Yes. For many people, this is very powerful.
 是的。对许多人来说，这非常有力量。
 
-A: When things are overwhelming, when things are too heavy, faith or belief can help.
-当事情令人难以承受，当压力太重时，信仰或信念能有所帮助。
+A: When things are **overwhelming**, when things are too heavy, faith or belief can help.
+当事情**令人难以承受**，当压力太重时，信仰或信念能有所帮助。
 
 It helps you stand up again. It helps to know that the difficult times will pass.
 它能帮你重新站起来。知道困难时期总会过去这很有帮助。
@@ -841,20 +841,20 @@ Knowing people believe in you makes you feel good. It helps you keep going.
 It is like a warm hug.
 这就像一个温暖的拥抱。
 
-So even on difficult days, we can feel hope, we can feel courage, we can feel valued.
-所以即使在艰难的日子里，我们也能感受到希望，感受到勇气，感到被重视。
+So even on difficult days, we can feel hope, we can feel courage, we can feel **valued**.
+所以即使在艰难的日子里，我们也能感受到希望，感受到勇气，感到**被重视**。
 
 Yes. Those are strong feelings.
 是的。这些是强烈的感情。
 
-They are stronger than frustration.
-它们比沮丧更强大。
+They are stronger than **frustration**.
+它们比沮丧更**强大**。
 
-A: Now, let's change the mood again. Let's talk about fun feelings and physical feelings.
-现在，让我们再次改变气氛。我们来谈谈有趣的感受和生理感受。
+A: Now, let's change the **mood** again. Let's talk about fun feelings and **physical** feelings.
+现在，让我们再次改变气**氛**。我们来谈谈有趣的感受和**生理**感受。
 
-I like fun feelings. Let's take a break from the hard stuff.
-我喜欢有趣的感受。让我们从沉重的话题中休息一下。
+I like fun feelings. Let's take a break from the **hard stuff.**
+我喜欢有趣的感受。让我们从**沉重的话题**中休息一下。stuff英文中最“万金油”的单词之一，在口语和非正式书面语中使用频率极高。它的核心含义是“**东西、事情、素材**”，但翻译时需要根据它指代的具体对象来变化。
 
 Have you ever been in nature? In a green forest, or by the blue ocean?
 你曾经置身于大自然中吗？在绿色的森林里，或者在蓝色的海洋边？
@@ -913,11 +913,11 @@ I love this word. It is very funny, but it is very real.
 Let's explain it. It is a mix of two words.
 我们来解释一下。它是两个词的混合。
 
-B: It is a combination. Yes.
-这是一个组合。是的。
+B: It is a **combination**. Yes.
+这是一个**组合**。是的。
 
-It is a mix of hungry and angry. Grumpy means in a bad mood.
-它是 hungry（饥饿的）和 angry（生气的）的混合体。Grumpy（脾气暴躁的）意思是心情不好。
+It is a mix of hungry and angry. **Grumpy** means in a bad mood.
+它是 hungry（饥饿的）和 angry（**生气的**）的混合体。Grumpy（脾气暴躁的）意思是心情不好。
 
 It means you are not happy.
 这意味着你不开心。
@@ -931,8 +931,8 @@ You are angry because you are hungry. Exactly.
 Your body needs energy. Your brain needs sugar.
 你的身体需要能量。你的大脑需要糖分。
 
-So you become irritable. I get hangry sometimes.
-所以你变得易怒。我有时也会饿怒。
+So you become **irritable**. I get hangry sometimes.
+所以你变得**易怒**。我有时也会饿怒。
 
 When I do not eat lunch, do not talk to me.
 当我不吃午饭时，别跟我说话。
@@ -943,11 +943,11 @@ A: I am hangry, I might say something not nice. But then, there is a solution.
 You eat. You eat a sandwich.
 你吃东西。你吃个三明治。
 
-You eat a good meal. And the feeling changes instantly.
+You eat a good meal. And the feeling changes **instantly**.
 你吃顿好饭。然后感觉瞬间就变了。
 
-You transition. You become satisfied.
-你过渡了。你变得满足了。
+You transition. You become **satisfied**.
+你过渡了。你变得**满足**了。
 
 Satisfied. That means the hunger is gone, you feel full.
 满足的。那意味着饥饿感消失了，你觉得饱了。
@@ -970,23 +970,23 @@ It is a simple physical feeling, but it changes how we see the world.
 It is hard to be positive when you are hangry. We have talked about so many feelings today.
 当你饿怒时，很难保持积极的心态。今天我们讨论了太多的感受。
 
-We have traveled through the whole day. We have looked at the spectrum of life.
-我们浏览了一整天的历程。我们观察了生命的光谱。
+We have traveled through the whole day. We have looked at the **spectrum** of life.
+我们浏览了一整天的历程。我们观察了生命的**光谱**。
 
 The spectrum. That means the full range.
 光谱。那意味着全范围。
 
-A: All the variations, like a rainbow. Yes.
-所有的变化，就像彩虹一样。是的。
+A: All the **variations**, like a rainbow. Yes.
+所有的**变化**，就像彩虹一样。是的。
 
-Think about the contrast. Contrast means the difference between two things.
-想想对比。对比意味着两件事物之间的差异。
+Think about the **contrast**. Contrast means the difference between two things.
+想想**对比**。对比意味着两件事物之间的差异。
 
 Like black and white. Or hot and cold.
 就像黑与白。或者热与冷。
 
-Exactly. Think about being exhausted.
-完全正确。想想感到筋疲力尽。
+Exactly. Think about being **exhausted**.
+完全正确。想想感到**筋疲力尽**。
 
 Exhausted. That means very, very tired.
 筋疲力尽的。这意味着非常非常累。
@@ -994,26 +994,26 @@ Exhausted. That means very, very tired.
 Maybe at the end of a long day. You have no energy left.
 也许在漫长的一天结束时。你一点力气都没了。
 
-Now compare that to being inspired. Inspired.
-现在将它与受到启发做个比较。受到启发的。
+Now compare that to being inspired. **Inspired**.
+现在将它与受到启发做个比较。受到**启发的**。
 
 B: That is when you see something beautiful. Like a sunset.
 那就是当你看到美丽的事物时。比如日落。
 
-Or a great painting. Or you hear a wonderful story.
-或者一幅伟大的画作。或者你听到了一个美妙的故事。
+Or a great **painting**. Or you hear a wonderful story.
+或者一幅伟大的**画作**。或者你听到了一个美妙的故事。
 
 You feel excitement in your heart. You want to create something, you want to do something new.
 你心里感到兴奋。你想创造点什么，你想做点新事情。
 
-So we have exhausted and we have inspired. We have sad and we have happy.
-所以我们有筋疲力尽，也有受到启发。我们有悲伤，也有快乐。
+So we have **exhausted** and we have inspired. We have sad and we have happy.
+所以我们有**筋疲力尽**，也有受到启发。我们有悲伤，也有快乐。
 
 We have stressed and we have relaxed. All of these emotions make life colorful.
 我们有压力，也有放松。所有这些情感让生活变得丰富多彩。
 
-A: If we only had one feeling, life would be boring. If we were always just okay, life would be flat.
-如果我们只有一种感觉，生活就会很无聊。如果我们总是处于“还行”的状态，生活就会平淡无奇。
+A: If we only had one feeling, life would be boring. If we were always just okay, life would be **flat**.
+如果我们只有一种感觉，生活就会很无聊。如果我们总是处于“还行”的状态，生活就会**平淡无奇。**
 
 Yes. The feelings make the story of our lives.
 是的。感受构成了我们生活的故事。
@@ -1036,8 +1036,8 @@ We talked about being confident. Believing in yourself.
 We talked about being happy. We talked about being inspired.
 我们讨论了感到快乐。我们讨论了受到启发。
 
-Feeling that excitement to do something. We talked about being relaxed.
-感觉到想去做某事的兴奋。我们讨论了感到放松。
+Feeling that **excitement to do something**. We talked about being relaxed.
+感觉到想**去做某事的兴奋**。我们讨论了感到放松。
 
 Feeling calm and comfortable. These are great words to use every day.
 感到平静和舒适。这些都是每天可以使用的好词。
@@ -1063,8 +1063,8 @@ How are you feeling today? Right now.
 In this moment. Are you energetic?
 在这一刻。你精力充沛吗？
 
-Are you sleepy? Are you motivated?
-你觉得困倦吗？你有动力吗？
+Are you sleepy? Are you **motivated**?
+你觉得困倦吗？你有**动力**吗？
 
 Are you hangry? We want you to answer.
 你是不是饿得发脾气？我们希望你来回答。

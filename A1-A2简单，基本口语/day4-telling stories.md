@@ -37,7 +37,7 @@ And simple stories are beautiful.
 A: Yes they are. When you tell a story, um, you practice many skills.
 是的，它们很美。当你讲故事时，嗯，你练习了许多技能。
 
-It is like exercise for your English. Like going to the gym for your brain.
+It is like **exercise** for your English. Like going to the gym for your brain.
 这就像是你的英语在做运动。就像大脑去了健身房。
 
 B: Right, you practice the past tense, you talk about things that happened before.
@@ -46,8 +46,8 @@ B: Right, you practice the past tense, you talk about things that happened befor
 Yesterday, last week, last year. You also practice describing things.
 昨天，上周，去年。你还练习了描述事物。
 
-You use describing words, words like adjectives. Was it big, was it small?
-你使用描述性的词语，像形容词这样的词。它是大还是小？
+You use describing words, words like **adjectives**. Was it big, was it small?
+你使用描述性的词语，像**形容词**这样的词。它是大还是小？
 
 Was it happy, was it sad?
 是开心还是悲伤？
@@ -76,8 +76,8 @@ Or, you know, you can tell a story about your dog. Simple stories are often the 
 B: They are very real. Yeah.
 它们非常真实。是的。
 
-Today, we have some source material to look at. We have notes from two people.
-今天，我们有一些素材要看。我们有两个人的笔记。
+Today, we have some source **material** to look at. We have notes from two people.
+今天，我们有一些**素材**要看。我们有两个人的笔记。
 
 Their names are Emily and Paul.
 他们的名字是艾米丽和保罗。
@@ -142,7 +142,7 @@ Emily went to the park. Yes.
 Yeah. Went.
 对。去了（went）。
 
-This is the past tense of go. Yesterday I went.
+This is the **past tense** of go. Yesterday I went.
 这是 go 的过去式。昨天我去了。
 
 Last week she went. This is a very common word in stories.
@@ -172,14 +172,14 @@ Suddenly, Buster saw something. Saw.
 This is the past tense of see. He saw something.
 这是 see 的过去式。他看到了一些东西。
 
-What did he see? He saw a squirrel.
-他看到了什么？他看到了一只松鼠。
+What did he see? He saw a **squirrel**.
+他看到了什么？他看到了一只**松鼠**。
 
 B: Ah. A squirrel.
 啊。一只松鼠。
 
-This is a small animal. It lives in trees, it has a long bushy tail.
-这是一种小动物。它住在树上，有一条长长的毛茸茸的尾巴。
+This is a small animal. It lives in trees, it has a long **bushy tail.**
+这是一种小动物。它住在树上，有一条长长的**毛茸茸的尾巴**。
 
 And it runs very fast. Squirrels are very fast.
 而且它跑得非常快。松鼠非常快。
@@ -286,8 +286,8 @@ Paul went to a new restaurant, it was an Italian restaurant, they serve food fro
 B: Italian food is very popular. Pizza.
 意大利食物非常受欢迎。披萨。
 
-Pasta. What did Paul eat?
-意大利面。保罗吃了什么？
+**Pasta**. What did Paul eat?
+**意大利面**。保罗吃了什么？
 
 Paul ate pasta.
 保罗吃了意大利面。
@@ -329,7 +329,7 @@ The people were nice, the music was good, it felt warm and welcoming.
 人们很好，音乐很好听，让人感觉温暖且受欢迎。
 
 Paul used a phrase. He said the restaurant had good vibes.
-保罗用了一个短语。他说这家餐厅有很好的氛围（good vibes）。
+保罗用了一个短语。他说这家餐厅有很好的**氛围（good vibes）。**
 
 Good vibes.
 好氛围（Good vibes）。
@@ -355,8 +355,8 @@ They are different places, one is outside, one is inside. But they are similar t
 How are they similar? They are both about small things.
 哪里相似？它们都是关于小事的。
 
-B: A squirrel is a small thing. A bowl of pasta is a small thing.
-一只松鼠是一件小事。一碗意大利面是一件小事。
+B: A squirrel is a small thing. **A bowl of** pasta is a small thing.
+一只松鼠是一件小事。**一碗**意大利面是一件小事。
 
 But these small things made Emily and Paul happy. Exactly.
 但这些小事让艾米丽和保罗很高兴。完全正确。
@@ -385,7 +385,7 @@ Yes we can. Now let's move to our next section.
 This part is a little bit more serious. Serious stories are important too.
 这部分稍微严肃一点。严肃的故事也很重要。
 
-This section is about learning and persistence.
+This section is about learning and **persistence**.
 这部分是关于学习和坚持的。
 
 A: Persistence. That is a very strong word.
@@ -424,11 +424,11 @@ It sounds fun, but it is not easy. Baking bread is difficult.
 Emily told a story about her first time.
 艾米丽讲了一个关于她第一次烤面包的故事。
 
-She tried to make bread, she mixed the flour, she mixed the water, she put the bread in the oven.
-她试着做面包，她混合面粉，她混合水，她把面包放进烤箱里。
+She tried to make bread, she mixed the flour, she mixed the water, she put the bread in the **oven**.
+她试着做面包，她混合面粉，她混合水，她把面包放进**烤箱**里。
 
-B: She waited, she was excited. But when she took the bread out... There was a problem. Yes, there was a problem. What was the problem? The bread was bad. It was very bad. Emily said it was hard as a rock.
-她等待着，她很兴奋。但当她拿出面包时……出了点问题。是的，出了问题。是什么问题？面包烤坏了。非常糟糕。艾米丽说它硬得像石头一样。
+B: She waited, she was excited. But when she took the bread out... There was a problem. Yes, there was a problem. What was the problem? The bread was bad. It was very bad. Emily said it was hard as a **rock**.
+她等待着，她很兴奋。但当她拿出面包时……出了点问题。是的，出了问题。是什么问题？面包烤坏了。非常糟糕。艾米丽说它硬得像**石头**一样。
 
 A: Hard as a rock. That is a common expression.
 硬得像石头（Hard as a rock）。这是一种常见的表达。
@@ -436,7 +436,7 @@ A: Hard as a rock. That is a common expression.
 It means it was very, very hard. You could not eat it.
 意思是它非常非常硬。你根本没法吃。
 
-If you bit it, you might hurt your teeth. That is a big failure.
+If you bit it, you might hurt your teeth. That is a big **failure**.
 如果你咬一口，可能会伤到牙齿。那真是一次大失败。
 
 She tried, and she failed.
@@ -475,8 +475,8 @@ B: It is a simple structure, but it teaches us a big lesson.
 Don't stop. We also have a story from Paul about learning.
 不要停止。我们也有一个保罗关于学习的故事。
 
-But Paul was not in the kitchen, he was at his desk. Paul had a problem with his computer.
-但保罗不在厨房，他在他的书桌前。保罗的电脑出了问题。
+But Paul was not in the **kitchen**, he was at his desk. Paul had a problem with his computer.
+但保罗不在**厨房**，他在他的书桌前。保罗的电脑出了问题。
 
 His computer was broken.
 他的电脑坏了。
@@ -559,8 +559,8 @@ Just like Emily, just like Paul. Keep trying, keep practicing, that is the secre
 A: Exactly. Now let's talk about something lighter. Let's talk about being funny. Oh I love funny stories, we all like to laugh. This section is called funny and embarrassing moments. We have a new word here. Embarrassing. Or embarrassed. This is a very useful word. What does it mean?
 完全正确。现在让我们谈谈轻松点的话题。我们来谈谈搞笑的事。哦，我喜欢搞笑的故事，我们都喜欢笑。这一部分叫作搞笑和尴尬的时刻。这里我们有个新词。尴尬的（Embarrassing）或感到尴尬的（embarrassed）。这是一个非常有用的词。它是什么意思？
 
-B: Embarrassed means you feel shy because you did something silly. Maybe your face turns red, you feel a little foolish.
-尴尬的意思是你因为做了蠢事而感到害羞。也许你的脸红了，你觉得自己有点傻。
+B: Embarrassed means you feel shy because you did something **silly**. Maybe your face turns red, you feel a little **foolish**.
+尴尬的意思是你因为做了**蠢事**而感到害羞。也许你的脸红了，你觉得自己有点**傻**。
 
 We all have embarrassing moments, every person has them. Emily shared a story about the beach.
 我们都有尴尬的时刻，每个人都有。艾米丽分享了一个关于海滩的故事。
@@ -589,8 +589,8 @@ Yes, a big wave came. Splash, it hit her.
 Did she fall?
 她摔倒了吗？
 
-She fell into the water, she was completely wet, her hair was wet, her clothes were wet.
-她跌进了水里，浑身湿透了，她的头发湿了，衣服也湿了。
+She fell into the water, she was completely wet, her hair was **wet**, her clothes were wet.
+她跌进了水里，浑身湿透了，她的头发**湿**了，衣服也湿了。
 
 That can be embarrassing. People were probably watching her.
 那可能会很尴尬。人们可能都在看着她。
@@ -616,8 +616,8 @@ It makes the moment better.
 B: Paul has a funny story too. But he was not at the beach, he was at the supermarket.
 保罗也有一个有趣的故事。但他不在海滩，他在超市里。
 
-A grocery store. He was buying food.
-一家杂货店。他在买食物。
+A **grocery** store. He was buying food.
+一家**杂货店**。他在买食物。
 
 What did Paul do?
 保罗做了什么？
@@ -664,8 +664,8 @@ He stopped singing immediately.
 A: And how did he feel? He felt embarrassed, he felt very shy, his face turned red.
 那他感觉如何？他感到很尴尬，他觉得非常害羞，他的脸变红了。
 
-He realized he was being silly.
-他意识到自己犯傻了。
+He realized he was being **silly**.
+他意识到自己犯**傻**了。
 
 He quickly finished his shopping, he bought his food, and he left the store.
 他迅速完成了购物，买了食物，然后离开了商店。
@@ -679,7 +679,7 @@ Because they deal with feelings. Right.
 We have funny, we have embarrassed, we have laughed.
 我们有搞笑的，有尴尬的，有开怀大笑。
 
-And they show that we are all human, everyone falls down sometimes, everyone makes mistakes.
+And they show that we are all human, **everyone falls down sometimes, everyone makes mistakes.**
 它们表明我们都是普通人，每个人都有跌倒的时候，每个人都会犯错。
 
 A: When you share a funny story, people like you, they laugh with you.
@@ -742,10 +742,10 @@ That is a very nice story. It is simple, he helped her.
 A: It is a short sentence, but it is a beautiful action. Emily also shared a story about helping.
 短短的一句话，却是一个美丽的举动。艾米丽也分享了一个关于帮助的故事。
 
-She has a neighbor, a person who lives next to her. Her neighbor came home from the store, she had many bags.
-她有一个邻居，就住在她隔壁。她的邻居从商店回家，手里拿着很多袋子。
+She has a **neighbor**, a person who lives **next to** her. Her neighbor came home from the store, she had many bags.
+她有一个**邻居**，就住在她隔壁。她的邻居从商店回家，手里拿着很多袋子。
 
-Groceries. Bags of food, were they heavy?
+**Groceries**. Bags of food, were they heavy?
 杂货。装满食物的袋子，它们重吗？
 
 B: Yes, they were very heavy. The neighbor could not carry them all.
@@ -790,8 +790,8 @@ He went up high, he saw tall trees, he saw the green forest, he saw the sky from
 A: Why do they tell these stories? They tell these stories because nature is beautiful.
 为什么他们讲这些故事？他们讲这些故事是因为大自然是美丽的。
 
-Yes. And nature gives us a fresh perspective.
-是的。而且大自然给了我们一个新的视角（perspective）。
+Yes. And nature gives us a fresh **perspective**.
+是的。而且大自然给了我们一个新的**视角**（perspective）。
 
 Perspective. That is a good word.
 视角。这是个好词。
@@ -805,8 +805,8 @@ B: When you leave your house, you see the world differently. You see new colors,
 You can tell a story about a place you visited. Think about a trip you took.
 你可以讲一个关于你去过的地方的故事。想想你的一次旅行。
 
-Did you go to a city? Did you go to the countryside?
-你去了城市吗？你去了乡下吗？
+Did you go to a city? Did you go to the **countryside**?
+你去了城市吗？你去了**乡下**吗？
 
 You can use simple sentences. I went to the mountains, it was quiet, it was beautiful.
 你可以用简单的句子。我去了山里，很安静，很美丽。
@@ -820,8 +820,8 @@ A: Use the past tense, use describing words. This builds a picture for the liste
 Exactly. Now we have one more section to discuss.
 完全正确。现在我们还有最后一部分要讨论。
 
-This might be the most important one. This section is about overcoming challenges.
-这可能是最重要的一部。这一部分是关于克服挑战的。
+This might be the most important one. This section is about **overcoming** challenges.
+这可能是最重要的一部。这一部分是关于**克服**挑战的。
 
 B: A challenge is something difficult, something hard to do. It is like a test.
 挑战（challenge）是困难的事情，很难做的事情。就像一次测试。
@@ -829,8 +829,8 @@ B: A challenge is something difficult, something hard to do. It is like a test.
 Emily shared a story about her work. She had a challenge at her job.
 艾米丽分享了一个关于她工作的故事。她在工作中遇到了挑战。
 
-What did she have to do? She had to give a presentation.
-她必须做什么？她必须做一个演示报告（presentation）。
+What did she have to do? She had to give a **presentation**.
+她必须做什么？她必须做一个**演示报告**（presentation）。
 
 She had to speak in front of many people.
 她不得不在许多人面前讲话。
@@ -856,8 +856,8 @@ B: No. She took action, she prepared.
 She prepared. That means she got ready.
 准备。意思是她做好了准备。
 
-She studied her notes, she practiced speaking at home, she practiced in front of a mirror.
-她学习了她的笔记，她在家练习讲话，她在镜子前练习。
+She studied her notes, she practiced speaking at home, she practiced in front of a **mirror**.
+她学习了她的笔记，她在家练习讲话，她在**镜子**前练习。
 
 And what was the result? What happened?
 结果如何？发生了什么？
@@ -871,8 +871,8 @@ And Emily was happy. So the feeling went from nervous to happy.
 Yes. Because she worked hard, she prepared.
 是的。因为她努力了，她做了准备。
 
-B: Now, Paul had a different challenge. Paul bought a new bookshelf.
-现在，保罗遇到了不同的挑战。保罗买了一个新书架。
+B: Now, Paul had a different challenge. Paul bought a new **bookshelf**.
+现在，保罗遇到了不同的挑战。保罗买了一个**新书架**。
 
 A bookshelf. For his books, buying a bookshelf is easy.
 书架。用来放他的书，买书架很容易。
@@ -889,14 +889,14 @@ Paul had a big box of wood. He opened the box.
 But there was a problem. What was missing?
 但有个问题。少了什么？
 
-A: There were no instructions. There was no paper to tell him how to build it.
+A: There were no **instructions**. There was no paper to tell him how to build it.
 没有说明书。没有纸告诉他怎么组装。
 
 No pictures. Nothing.
 没有图片。什么都没有。
 
-Just the wood and the screws. Just the wood.
-只有木头和螺丝。只有木头。
+Just the wood and the **screws**. Just the wood.
+只有木头和**螺丝**。只有木头。
 
 He didn't know what to do. That is very frustrating, I would be angry.
 他不知道该怎么办。这非常令人沮丧，我会生气的。
@@ -928,8 +928,8 @@ A: Yes. He built the bookshelf.
 It was strong, it looked good. Both of these stories teach us something.
 很结实，看起来不错。这两个故事都教会了我们一些东西。
 
-The presentation and the bookshelf. They show that preparation and patience help us do hard things.
-演示报告和书架。它们表明准备和耐心能帮助我们完成困难的事情。
+The **presentation** and the bookshelf. They show that **preparation** and patience help us do hard things.
+**演示报告**和书架。它们表明**准备**和耐心能帮助我们完成困难的事情。
 
 And learning English is a hard thing. It is a challenge.
 而学习英语是一件困难的事情。这是一个挑战。
@@ -958,11 +958,11 @@ Stories about persistence. We laughed about falling in the water and singing in 
 Funny stories about being human.
 关于普通人的有趣故事。
 
-A: And we talked about helping people and traveling to new places. Stories about connection and perspective.
-我们还谈论了帮助他人和去新地方旅行。关于联系和视角的故事。
+A: And we talked about helping people and traveling to new places. Stories about connection and **perspective**.
+我们还谈论了帮助他人和去新地方旅行。关于联系和**视角的故事**。
 
-So what does this all mean for our listeners? Let's summarize the key takeaways.
-那么这一切对我们的听众意味着什么呢？让我们总结一下关键要点。
+So what does this all mean for our listeners? Let's summarize the key **takeaways**.
+那么这一切对我们的听众意味着什么呢？让我们总结一下关键**要点**。
 
 What should you remember from this deep dive? Okay.
 你从这次深度探索中应该记住什么？好的。
@@ -982,8 +982,8 @@ Even the small things are interesting, a walk in the park is interesting.
 Takeaway number two. Use simple words.
 要点二。使用简单的词语。
 
-You do not need big, difficult words. You do not need academic words.
-你不需要又大又难的词。你不需要学术词汇。
+You do not need big, difficult words. You do not need **academic** words.
+你不需要又大又难的词。你不需要**学术**词汇。
 
 You can say I went, I saw, I felt. Simple is good.
 你可以说我去了，我看到了，我感觉到了。简单就很好。

@@ -7,8 +7,8 @@ B: Uh, it is really wonderful to have you here with us today.
 I am very happy to be back.
 我很高兴能回来。
 
-A: Yes, and today, we have a very, um, exciting destination for our deep dive.
-是的，今天，我们有一个非常，嗯，令人兴奋的深度探索目的地。
+A: Yes, and today, we have a very, um, exciting **destination** for our deep dive.
+是的，今天，我们有一个非常，嗯，令人兴奋的深度探索**目的地**。
 
 We are not going to a classroom today.
 我们今天不去教室。
@@ -49,8 +49,8 @@ Three ways. Okay, can you explain them to us?
 A: Of course. First, you can speak with people.
 当然。首先，你可以和人交谈。
 
-There are workers in the stores, and they are there to talk to you, they are paid to be friendly.
-商店里有工作人员，他们在那里就是为了和你说话的，他们拿了报酬就会表现得很友好。
+There are workers in the stores, and they are there to talk to you, they are **paid** to be friendly.
+商店里有工作人员，他们在那里就是为了和你说话的，他们拿了**报酬**就会表现得很友好。
 
 That is very true. It is their job to help us.
 这是非常真实的。帮助我们是他们的工作。
@@ -61,8 +61,8 @@ Second, you can read. There are signs everywhere in a mall.
 B: Right, like signs for the stores.
 对，比如商店的标志。
 
-A: Yes, and you can read signs for prices, you can read signs for sales, you can read signs for directions.
-是的，你可以阅读价格标志，你可以阅读促销标志，你可以阅读指示牌。
+A: Yes, and you can read signs for prices, you can read signs for **sales**, you can read signs for directions.
+是的，你可以阅读价格标志，你可以阅读**促销**标志，你可以阅读指示牌。
 
 It is like a big reading book, but you can walk inside it.
 它就像一本大阅读书，但你可以走在里面。
@@ -76,23 +76,23 @@ B: And um, what is the third way?
 A: The third way is listening. Listening to the people.
 第三种方式是倾听。听人们说话。
 
-B: Yes. You can listen to interactions.
-是的。你可以听互动。
+B: Yes. You can listen to **interactions**.
+是的。你可以听**互动**。
 
-You can hear how other people buy things. You can hear how they order food.
-你可以听到其他人是如何买东西的。你可以听到他们是如何点餐的。
+You can hear how other people buy things. You can hear how they **order food.**
+你可以听到其他人是如何买东西的。你可以听到他们是如何**点餐**的。
 
 A: Oh, I see. It is real-world English.
 哦，我明白了。这是真实世界的英语。
 
-It is not English from a textbook. It is English from life.
-它不是教科书上的英语。它是生活中的英语。
+It is not English from a **textbook**. It is English from life.
+它不是**教科书**上的英语。它是生活中的英语。
 
 That sounds great. So today is a practical guide.
 听起来很棒。所以今天是一份实用指南。
 
-We will learn useful phrases for shopping and for eating.
-我们将学习购物和就餐的有用短语。
+We will learn useful **phrases** for shopping and for eating.
+我们将学习购物和就餐的有用**短语**。
 
 B: Exactly.
 完全正确。
@@ -112,8 +112,8 @@ It is bright. There is music playing.
 You walk through the door. What happens first?
 你走过这扇门。首先会发生什么？
 
-B: Usually a store clerk will see you. A clerk?
-通常店员会看到你。店员？
+B: Usually a store **clerk** will see you. A clerk?
+通常店员会看到你。**店员**？
 
 A: Yes, a clerk is the person who works in the store. They want to be friendly.
 是的，店员就是在商店里工作的人。他们想要表现得友好。
@@ -133,8 +133,8 @@ A: They will likely ask, "Can I help you? " "Can I help you?
 B: Yes. It is a very simple question.
 是的。这是一个非常简单的问题。
 
-They are asking if you need assistance. They want to know if you are looking for something specific.
-他们在问你是否需要帮助。他们想知道你是否在寻找什么特定的东西。
+They are asking if you need **assistance**. They want to know if you are looking for something specific.
+他们在问你是否需要**帮助**。他们想知道你是否在寻找什么特定的东西。
 
 A: Okay, so I hear the question "Can I help you? ".
 好的，那么我听到了“我能帮您吗？”这个问题。
@@ -142,14 +142,14 @@ A: Okay, so I hear the question "Can I help you? ".
 How should I respond?
 我应该怎么回答？
 
-B: Well, it depends on your situation. We have two scenarios here.
-嗯，这取决于你的情况。我们这里有两种情景。
+B: Well, it depends on your situation. We have two **scenarios** here.
+嗯，这取决于你的情况。我们这里有两种**情景**。
 
 Scenario A is when you know what you want. You have a plan.
 情景 A 是当你知道自己想要什么时。你有一个计划。
 
-A: Okay, let's say I need a new jacket. I know I need a jacket. I do not want to waste time. In that case, you can use the phrase, "I am looking for... " "I am looking for. "
-好的，假设我需要一件新夹克。我知道我需要一件夹克。我不想浪费时间。在那种情况下，你可以使用这个短语：“我在找……”“我在找。”
+A: Okay, let's say I need a new jacket. I know I need a jacket. I do not want to waste time. In that case, you can use the **phrase**, "I am looking for... " "I am looking for. "
+好的，假设我需要一件新夹克。我知道我需要一件夹克。我不想浪费时间。在那种情况下，你可以使用这个**短语**：“我在找……”“我在找。”
 
 B: Exactly. So you would say, "I am looking for a jacket.
 完全正确。所以你可以说：“我在找一件夹克。
@@ -178,8 +178,8 @@ B: But let's talk about Scenario B.
 A: Yes, Scenario B is very common. This is when you do not have a specific plan.
 是的，情景 B 非常常见。这是当你没有一个具体的计划时。
 
-You are just browsing. Browsing?
-你只是在随便看看。浏览（随便看看）？
+You are just **browsing**. Browsing?
+你只是在随便看看。**浏览**（随便看看）？
 
 What does browsing mean?
 随便看看是什么意思？
@@ -196,8 +196,8 @@ A: Right. Sometimes I just want to walk around.
 I do not want the clerk to follow me. I just want to look quietly.
 我不想店员跟着我。我只是想安静地看看。
 
-In this situation, when the clerk asks "Can I help you? ", you can say this magic phrase: "I am just looking.
-在这种情况下，当店员问“我能帮您吗？”时，你可以说这句神奇的短语：“我只是随便看看。
+In this situation, when the clerk asks "Can I help you? ", you can say this **magic** phrase: "I am just looking.
+在这种情况下，当店员问“我能帮您吗？”时，你可以说这句**神奇**的短语：“我只是随便看看。
 
 " "I am just looking. "
 ”“我只是随便看看。”
@@ -217,7 +217,7 @@ A: No, not at all. It is very polite.
 It is a normal thing to say in a store. I like that.
 这是在商店里一句很平常的话。我喜欢这样。
 
-It takes the pressure off. I can relax.
+It **takes the pressure off**. I can relax.
 它减轻了压力。我可以放松了。
 
 It really does.
@@ -274,8 +274,8 @@ A: Yes. You can also say, "How much does this cost?
 " "How much does this cost? " Both are perfect.
 ”“这个要花多少钱？”两者都很完美。
 
-They mean exactly the same thing. You can use whichever one is easier for you to remember.
-它们的意思完全一样。你可以用你觉得比较容易记住的那个。
+They mean exactly the same thing. You can use **whichever** one is easier for you to remember.
+它们的意思完全一样。你可以用你觉得比较容易记住的**那个**。
 
 Let's practice them again. "How much is this?
 让我们再练习一遍。“这个多少钱？
@@ -292,14 +292,14 @@ B: "How much is this? " "How much does this cost?
 A: Okay, I have the price now.
 好的，我现在知道价格了。
 
-B: But I love to save money. I love a good deal.
-但我喜欢省钱。我喜欢划算的买卖。
+B: But I love to save money. I love a good **deal.**
+但我喜欢省钱。我喜欢划算的**买卖。**
 
 We all love a good deal. Saving money is a good feeling.
 我们都喜欢划算的买卖。省钱的感觉很好。
 
-Sometimes stores have lower prices for a short time. This is called a sale.
-有时商店会在短时间内降低价格。这叫做促销（打折）。
+Sometimes stores have lower prices for a short time. This is called a **sale.**
+有时商店会在短时间内降低价格。这叫做**促销（打折）。**
 
 A sale. I see signs for sales sometimes.
 促销。我有时会看到促销的牌子。
@@ -322,8 +322,8 @@ B: You can ask, "Is this on sale? " "Is this on sale?
 " It is a really good question to ask. Maybe the price is lower than you think.
 ”这是一个非常好的问题。也许价格比你想象的还要低。
 
-Maybe there is a special promotion. Can I ask about discounts generally?
-也许有特别的促销活动。我可以一般性地询问折扣吗？
+Maybe there is a **special promotion**. Can I ask about **discounts** generally?
+也许有特别的**促销活动**。我可以一般性地询问**折扣**吗？
 
 Maybe the store has a coupon.
 也许店里有优惠券。
@@ -331,8 +331,8 @@ Maybe the store has a coupon.
 A: Yes, you can. You can ask, "Do you have any discounts today?
 是的，你可以。你可以问：“你们今天有什么折扣吗？
 
-" "Do you have any discounts today? " Do not be afraid to ask this.
-”“你们今天有什么折扣吗？”不要害怕问这个问题。
+" "Do you have any **discounts** today? " Do not be afraid to ask this.
+”“你们今天有什么**折扣**吗？”不要害怕问这个问题。
 
 The worst thing they can say is no.
 他们能说的最坏的结果就是没有。
@@ -385,8 +385,8 @@ B: And where do I go to do this? I cannot change my shirt in the middle of the s
 A: No, definitely not. You need to go to a special room.
 不，绝对不行。你需要去一个专门的房间。
 
-These are called fitting rooms. Fitting rooms.
-这些被称为试衣间。试衣间。
+These are called fitting rooms. **Fitting rooms.**
+这些被称为试衣间。**试衣间**。
 
 Or sometimes they are called dressing rooms.
 或者有时候它们被称为更衣室。
@@ -397,8 +397,8 @@ B: Dressing rooms. Are they different?
 A: No, they are the same place. Fitting room or dressing room.
 不，它们是同一个地方。试衣间或更衣室。
 
-It is a private room with a mirror and a door. Or maybe a curtain.
-这是一个有镜子和门的私密房间。或者可能是一个帘子。
+It is a private room with **a mirror** and a door. Or maybe a **curtain.**
+这是一个有**镜子**和门的私密房间。或者可能是一个**帘子**。
 
 B: Okay. So I ask, "Can I try this on?
 好的。所以我问“我可以试穿这个吗？
@@ -445,8 +445,8 @@ Your friend might say yes, or they might say, "Hmm, not really. "
 A: What if the answer is bad? What if the shirt does not fit well?
 如果答案是不好怎么办？如果这件衬衫不太合身怎么办？
 
-B: Well, this happens often in the fitting room. Maybe the shirt is too tight.
-嗯，这在试衣间里经常发生。也许这件衬衫太紧了。
+B: Well, this happens often in the fitting room. Maybe the shirt is too **tight**.
+嗯，这在试衣间里经常发生。也许这件衬衫**太紧了**。
 
 Maybe it is too loose. Or maybe you just do not like the color.
 也许它太松了。或者也许你只是不喜欢这个颜色。
@@ -463,8 +463,8 @@ Ask for what you need. The clerk can bring you a different shirt.
 Let's say the shirt is too big. It is huge.
 假设这件衬衫太大了。非常大。
 
-It looks like a tent. Then you ask, "Do you have this in a smaller size?
-看起来像个帐篷。那你可以问：“你们有这个小一号的吗？
+It looks like a **tent**. Then you ask, "Do you have this in a smaller size?
+看起来像个**帐篷**。那你可以问：“你们有这个小一号的吗？
 
 "
 ”
@@ -478,11 +478,11 @@ A: And what if it is too small? It is too tight.
 Then you ask, "Do you have this in a bigger size? " "Do you have this in a bigger size?
 那你可以问：“你们有这个大一号的吗？”“你们有这个大一号的吗？
 
-" Perfect. These questions are lifesavers.
-”完美。这些问题真是救星。
+" Perfect. These questions are **lifesavers**.
+”完美。这些问题真是**救星**。
 
-They help you find the perfect fit.
-它们能帮你找到最合身的。
+They help you find the **perfect fit.**
+它们能帮你找到**最合身的**。
 
 What if the size is okay, but I do not like the color?
 如果尺码没问题，但我不喜欢这个颜色怎么办？
@@ -526,8 +526,8 @@ You need to be ready to answer quickly. I sometimes get nervous at the counter b
 What is the first question?
 第一个问题是什么？
 
-A: Usually, they ask about payment. They will say, "Will that be cash or card? " "Will that be cash or card? " Cash means paper money and coins. Card means a credit card or debit card. So I can just answer, "Card, please," or "Cash, please. "
-通常，他们会询问支付方式。他们会说：“请问是用现金还是刷卡？”“请问是用现金还是刷卡？”现金指的是纸币和硬币。卡指的是信用卡或借记卡。所以我可以直接回答：“刷卡，谢谢”或者“现金，谢谢”。
+A: Usually, they ask about **payment**. They will say, "Will that be cash or card? " "Will that be cash or card? " Cash means paper money and coins. Card means a credit card or **debit** card. So I can just answer, "Card, please," or "**Cash**, please. "
+通常，他们会询问支付方式。他们会说：“请问是用现金还是刷卡？”“请问是用现金还是刷卡？”现金指的是纸币和硬币。卡指的是信用卡或**借记卡**。所以我可以直接回答：“刷卡，谢谢”或者**“现金，**谢谢”。
 
 B: Exactly. Keep it short.
 完全正确。保持简短。
@@ -541,14 +541,14 @@ What is the second question?
 A: They will usually ask, "Do you need a bag? " "Do you need a bag? " Sometimes people bring their own bags now, to help the environment. So you can say, "Yes, please," if you want a bag. Or you can say, "No thank you," if you have your own. Very simple. "Yes, please" or "No, thank you. "
 他们通常会问：“您需要袋子吗？”“您需要袋子吗？”现在有时候人们为了环保会自带袋子。所以如果你需要袋子，你可以说：“是的，谢谢。”如果你有自己的袋子，你也可以说：“不用了，谢谢”。非常简单。“是的，谢谢”或“不用了，谢谢”。
 
-B: After you pay, the cashier will give you something very important. The item I bought.
+B: After you pay, the **cashier** will give you something very important. The item I bought.
 在你付款后，收银员会给你一件非常重要的东西。我买的东西。
 
 A: Well, yes, they give you the shirt. But they give you something else.
 嗯，是的，他们会给你衬衫。但他们还会给你别的东西。
 
-A piece of paper. The receipt.
-一张纸。购物小票（收据）。
+A piece of paper. The **receipt**.
+一张纸。**购物小票**（收据）。
 
 Ah, the receipt. It has the price and the date on it.
 啊，购物小票。上面有价格和日期。
@@ -559,8 +559,8 @@ B: Yes. Why is the receipt so important?
 I usually just throw it away.
 我通常直接就把它扔了。
 
-A: Oh, please do not throw it away. The receipt is your proof of purchase.
-哦，请不要把它扔掉。购物小票是你的购买凭证。
+A: Oh, please do not throw it away. The receipt is your **proof of purchase.**
+哦，请不要把它扔掉。购物小票是你的**购买凭证**。
 
 It proves you bought the item at that store on that day. Why do I need to prove that?
 它证明你那天在那家店买了这件商品。为什么我需要证明这个？
@@ -640,8 +640,8 @@ I am getting tired. And I am getting hungry.
 Shopping is hard work. When you are hungry at the mall, where do you go?
 购物是个体力活。当你在购物中心饿了的时候，你会去哪里？
 
-A: The food court.
-美食广场。
+A: The food **court**.
+美食**广场**。
 
 B: Yes, the food court. This is the area with many different fast-food counters.
 是的，美食广场。这是一个有很多不同的快餐柜台的区域。
@@ -733,8 +733,8 @@ A: In a public place, we usually call them restrooms. So you ask, "Where are the
 " "Where are the restrooms? " It is a direct question.
 ”“洗手间在哪里？”这是一个直接的问题。
 
-It is very clear. Can I say, "Where is the toilet?
-非常清楚。我能说，“厕所在哪里（Where is the toilet）”吗？
+It is very clear. Can I say, "Where is the **toilet**?
+非常清楚。我能说，“**厕所**在哪里（Where is the toilet）”吗？
 
 " You can, but restroom is a little more polite in public in many English-speaking countries.
 可以，但在许多说英语的国家，在公共场合说 restroom 会更有礼貌一点。
