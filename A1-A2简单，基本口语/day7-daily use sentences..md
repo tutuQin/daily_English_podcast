@@ -40,8 +40,8 @@ You hear them in coffee shops, you hear them in movies.
 A: At work. Right, at work, on the bus, everywhere.
 在工作中。对，在工作中，在公交车上，无处不在。
 
-And yet, they are often difficult for learners. You might know a lot of individual words.
-然而，它们对学习者来说通常很难。你可能知道很多单个的词。
+And yet, they are often difficult for learners. You might know a lot of **individual** words.
+然而，它们对学习者来说通常很难。你可能知道很多单个的词。**个人**
 
 You might know the names of colors, like blue or red. Or animals, cat, dog.
 你可能知道颜色的名字，比如蓝色或红色。或者动物，猫、狗。
@@ -58,8 +58,8 @@ Many learners get stuck. They know the words, but they cannot connect them.
 They feel frozen.
 他们感觉僵住了。
 
-A: It is the backbone of conversation. Think about your body.
-它是对话的支柱。想想你的身体。
+A: It is the **backbone** of conversation. Think about your body.
+它是对话的支柱。想想你的身体。 **backbone骨干**
 
 You have a backbone in your back, it holds you up. It helps you stand straight.
 你背部有脊椎，它支撑着你。它帮你站直。
@@ -67,23 +67,23 @@ You have a backbone in your back, it holds you up. It helps you stand straight.
 B: Exactly. These sentences hold the conversation up.
 完全正确。这些句子支撑着对话。
 
-Without them, the conversation falls down.
-没有它们，对话就会崩塌。
+Without them, the conversation **falls down.**
+没有它们，对话就会**崩塌**。
 
 I really love that image, it helps to see it in your mind.
 我真的很喜欢那个意象，它能帮你在脑海里将其具象化。
 
-And looking at our source material for today, there is another great analogy.
-看看我们今天的素材，还有一个很棒的比喻。
+And looking at our source material for today, there is another great **analogy.**
+看看我们今天的素材，还有一个很棒的**比喻。**类比
 
-It is called the bricks versus the wall. Can we unpack that?
-叫做砖块与墙的比喻。我们能拆解一下吗？
+It is called the **bricks** versus the wall. Can we unpack that?
+叫做**砖块**与墙的比喻。我们能拆解一下吗？
 
 A: Yes, let's look at that. Imagine you want to build a house.
 好的，让我们来看看。想象你想建一栋房子。
 
-You have a big pile of bricks. The bricks are the individual words.
-你有一大堆砖块。这些砖块就是单个的词。
+You have **a big pile of** bricks. The bricks are the individual words.
+你有**一大堆**砖块。这些砖块就是单个的词。**pile桩，堆**
 
 So words like cat, run, blue. House, table, eat.
 比如猫、跑、蓝色。房子、桌子、吃。
@@ -100,8 +100,8 @@ But a pile of bricks is not a house. It is not.
 You cannot live in a pile of bricks. You need to know how to put them together.
 你不能住在一堆砖块里。你需要知道如何把它们拼在一起。
 
-You need cement. You need a design.
-你需要水泥。你需要一个设计图。
+You need **cement**. You need a design.
+你需要**水泥**。你需要一个设计图。
 
 A: Right. You need a structure.
 对。你需要一个结构。
@@ -112,8 +112,8 @@ The sentences are the wall. If you just throw bricks at someone, you are not com
 You are just throwing words. And nobody wants to be hit with a brick, that would hurt.
 你只是在乱扔词汇。而且没人想被砖块砸中，那会很痛的。
 
-B: No indeed. We want to build a wall.
-确实不想。我们想建一堵墙。
+B: No **indeed**. We want to build a wall.
+**确实**不想。我们想建一堵墙。
 
 We want to build a structure that stands up strong.
 我们想建一个牢固屹立的结构。
@@ -199,8 +199,8 @@ We have a perfect example of this from our sources. It is about being hungry.
 It is about wanting to eat. This is a very common mistake.
 关于想吃东西。这是一个非常常见的错误。
 
-B: In many languages, like Spanish, French, Italian, or Portuguese, when you want to eat, you use a specific phrase.
-在许多语言中，比如西班牙语、法语、意大利语或葡萄牙语中，当你想吃东西时，你会使用一个特定的短语。
+B: In many languages, like Spanish, French, Italian, or **Portuguese**, when you want to eat, you use a specific phrase.
+在许多语言中，比如西班牙语、法语、意大利语或**葡萄牙语ˈpôrCHəˌɡēz**中，当你想吃东西时，你会使用一个特定的短语。
 
 In those languages you say something that translates to "I have hunger".
 在这些语言中，你说的翻译过来就是“I have hunger（我有饥饿）”。
@@ -208,8 +208,8 @@ In those languages you say something that translates to "I have hunger".
 A: "I have hunger. " You possess the hunger.
 “我有饥饿。”你拥有这种饥饿感。
 
-Like you possess a book or a phone. Right.
-就像你拥有一本书或一部手机。对。
+Like you **possess** a book or a phone. Right.
+就像你**拥有**一本书或一部手机。对。
 
 "I have hunger.
 “我有饥饿。
@@ -262,11 +262,11 @@ B: I have heard another example of this with age. In some languages you say, "I 
 " Yes, that is very common. "I have 20 years.
 是的，这很常见。“我有20年。
 
-" But in English, if you say "I have 20 years," it sounds like you are in prison.
-”但是在英语中，如果你说“I have 20 years”，听起来就像你被关在监狱里（判了20年）。
+" But in English, if you say "I have 20 years," it sounds like you are in **prison.**
+”但是在英语中，如果你说“I have 20 years”，听起来就像你被关在**监狱**里（判了20年）。
 
-A: That is funny. It sounds like a judge gave you a punishment. So in English, for age, we also use "to be. " We say "I am 20 years old. "
-这真好笑。听起来像是法官给了你惩罚。所以在英语中，关于年龄，我们也用“to be”。我们说“I am 20 years old（我20岁了）”。
+A: That is funny. It sounds like a judge gave you a **punishment**. So in English, for age, we also use "to be. " We say "I am 20 years old. "
+这真好笑。听起来像是法官给了你**惩罚**。所以在英语中，关于年龄，我们也用“to be”。我们说“I am 20 years old（我20岁了）”。
 
 B: Exactly. "I am.
 完全正确。用“I am”。
@@ -289,8 +289,8 @@ You need to know when to use a sentence.
 A sentence that is correct in a textbook might be weird in a real conversation.
 课本里正确的句子，在真实的对话中可能会很奇怪。
 
-B: You need to know, is it formal? Is it for friends?
-你需要知道，它是正式的吗？是给朋友用的吗？
+B: You need to know, is it **formal**? Is it for friends?
+你需要知道，它是**正式**的吗？是给朋友用的吗？
 
 Is it for your boss? Is it for your family?
 是给你老板用的吗？是给家人用的吗？
@@ -313,8 +313,8 @@ And this is a fun one. It is called immersion.
 B: Immersion. It means to be completely inside something.
 沉浸。意思是完全置身于某事之中。
 
-Like jumping into a swimming pool. You are immersed in water.
-就像跳进游泳池。你浸泡在水中。
+Like jumping into a swimming pool. You are **immersed** in water.
+就像跳进游泳池。你**浸泡**在水中。
 
 The water is all around you. Here you are immersed in English.
 水包围着你。在这里你是沉浸在英语中。
@@ -331,8 +331,8 @@ Because not everyone can do that. Moving is expensive.
 B: No, you do not need to move. You do not need to buy a plane ticket.
 不，你不需要搬家。你不需要买机票。
 
-You can create an immersion environment right here, in your own home.
-你可以在这里，在你自己的家里，创造一个沉浸式的环境。
+You can create an **immersion environment** right here, in your own home.
+你可以在这里，在你自己的家里，创造一个**沉浸式的环境。**
 
 The source material suggests some very accessible, very easy ways to do this.
 素材建议了一些非常容易获得、非常简单的方法。
@@ -349,8 +349,8 @@ TV shows. And music.
 I love listening to music in English. I listen to pop music all the time.
 我喜欢听英文音乐。我一直在听流行音乐。
 
-But here is the thing. Sometimes I do not understand the lyrics.
-但问题是这样。有时候我听不懂歌词（lyrics）。
+But here is the thing. Sometimes I do not understand the **lyrics**.
+但问题是这样。有时候我听不懂**歌词**（lyrics）。
 
 The words of the song.
 也就是歌曲里的词。
@@ -385,13 +385,13 @@ B: Feeling the language. That sounds much better than just thinking about gramma
 Grammar is important, we need grammar. But feeling is what makes you fluent.
 语法很重要，我们需要语法。但语感才是让你流利的原因。
 
-When you listen to a song, you learn the melody. You learn the music.
-当你听一首歌时，你在学习旋律。你在学习它的音乐性。
+When you listen to a song, you learn the **melody**. You learn the music.
+当你听一首歌时，你在学习**旋律**。你在学习它的音乐性。
 
 English has a melody too.
 英语也是有旋律的。
 
-A: English has a music. And immersion helps you hear that melody.
+A: English has a music. And **immersion** helps you hear that melody.
 英语有它的音乐性。沉浸式学习帮助你听出那种旋律。
 
 It is like how a baby learns. A baby does not study a book.
@@ -424,8 +424,8 @@ You have to touch the keys. You have to move your fingers.
 A: In language, you have to speak. You have to move your mouth.
 在语言学习中，你必须开口说。你得动嘴。
 
-And this brings us to the power of repetition. Doing it again and again.
-这就引出了重复的力量。一遍又一遍地做。
+And this brings us to the power of **repetition**. Doing it again and again.
+这就引出了**重复**的力量。一遍又一遍地做。
 
 Repetition is the mother of skill. That is a famous saying.
 “重复是技能之母。”这是一句名言。
@@ -439,14 +439,14 @@ B: You must say the sentences out loud. Not in your head, out loud.
 Why out loud? Why can't I just say it in my mind?
 为什么要大声说？为什么我不能只在心里默念？
 
-Because your mouth has muscles. Your tongue is a muscle, your lips are muscles.
-因为你的嘴巴有肌肉。你的舌头是肌肉，你的嘴唇也是肌肉。
+Because your mouth has muscles. Your **tongue** is a muscle, your **lips** are muscles.
+因为你的嘴巴有肌肉。你的**舌头**是肌肉，你的formal也是肌肉。
 
 A: Your tongue needs to learn where to go. Your lips need to learn how to move.
 你的舌头需要学习该放在哪里。你的嘴唇需要学习如何移动。
 
-English sounds are different from your native language sounds. The only way to train muscles is to use them.
-英语的发音和你母语的发音是不同的。训练肌肉的唯一方法就是去使用它们。
+English sounds are different from your native language sounds. The only way to **train** muscles is to use them.
+英语的发音和你母语的发音是不同的。**训练**肌肉的唯一方法就是去使用它们。
 
 It is like going to the gym for your mouth.
 这就像你的嘴巴去健身房一样。
@@ -466,20 +466,20 @@ When it feels boring, that means you have learned it. If it is difficult, you ha
 A: I like that. If you are bored, you are learning.
 我喜欢这个说法。如果你觉得无聊，你就在学习。
 
-That is a new way to think about it. Okay, so we have immersion.
+That is a new way to think about it. Okay, so we have **immersion.**
 这是一种思考的新方式。好了，我们有沉浸式学习了。
 
 Now let's talk about strategy number two. This one is really interesting.
 现在我们来谈谈第二个策略。这个真的很有趣。
 
-It's called mimicry.
-叫做模仿（mimicry）。
+It's called **mimicry**.
+叫做**模仿**（mimicry）。ˈmiməkrē
 
 B: Mimicry. To mimic means to copy.
 模仿（Mimicry）。Mimic 意味着复制。
 
-To copy exactly. Like a parrot.
-原封不动地复制。就像鹦鹉。
+To copy exactly. Like a **parrot**.
+原封不动地复制。就像**鹦鹉。**
 
 A parrot is a bird that repeats words. A little bit like a parrot, yes, but a smart parrot.
 鹦鹉是会学舌的鸟。有点像鹦鹉，是的，但是一只聪明的鹦鹉。
@@ -505,8 +505,8 @@ B: There are three key elements, three parts. First, there is rhythm.
 This is the beat. Da-da-da-da.
 这是节拍。哒-哒-哒-哒。
 
-English has a specific heartbeat, it is like a drum. Okay, rhythm, the drumbeat.
-英语有特定的心跳，就像鼓点一样。好的，节奏，鼓点。
+English has a specific heartbeat, it is like a drum. Okay, rhythm, the **drumbeat**.
+英语有特定的心跳，就像鼓点一样。好的，节奏，**鼓点**。
 
 What is next?
 接下来是什么？
@@ -517,14 +517,14 @@ A: Next is speed. How fast or slow does the speaker go?
 Do they rush through some words, do they slow down on others? Native speakers are not robots, they change their speed.
 他们是一带而过某些词，还是在另一些词上慢下来？母语人士不是机器人，他们会改变语速。
 
-B: And the third one is intonation. This is the voice going up and down.
-第三个是语调（intonation）。这是声音的起伏。
+B: And the third one is **intonation**. This is the voice going up and down.
+第三个是**语调**（intonation）。这是声音的起伏。
 
 Does the voice go up at the end? Does it go down?
 声音在结尾是上扬的吗？还是下降的？
 
-This changes the meaning, it changes the emotion. So when we mimic, we try to match all of these things.
-这会改变意思，改变情感。所以当我们模仿时，我们试图匹配所有这些东西。
+This changes the meaning, it changes the emotion. So when we **mimic**, we try to match all of these things.
+这会改变意思，改变情感。所以当我们**模仿**时，我们试图匹配所有这些东西。
 
 We copy the beat, the speed, and the melody.
 我们复制它的节拍、语速和旋律。
@@ -559,8 +559,8 @@ A: Exactly. It builds confidence.
 Actors are confident. When you pretend to be confident, eventually you become confident.
 演员都是自信的。当你假装自信时，最终你就会变得自信。
 
-You trick your brain. So don't just say the sentence.
-你欺骗了你的大脑。所以别只是把句子说出来。
+You **trick** your brain. So don't just say the sentence.
+你**欺骗**了你的大脑。所以别只是把句子说出来。
 
 Perform the sentence. Be dramatic.
 要去表演这个句子。夸张一点。
@@ -568,8 +568,8 @@ Perform the sentence. Be dramatic.
 B: Yes. Perform it with feeling.
 是的。带着感情去表演。
 
-Put emotion into it. Okay, we have the strategies, we have immersion, we have mimicry.
-注入情感。好了，我们有策略了，我们有沉浸，我们有模仿。
+Put emotion into it. Okay, we have the strategies, we have immersion, we have **mimicry**.
+注入情感。好了，我们有策略了，我们有沉浸，我们有**模仿。**
 
 Now I think it is time to get practical. Our listeners want to learn some real sentences.
 现在我想是时候来点实用的了。我们的听众想学一些实用的句子。
@@ -577,14 +577,14 @@ Now I think it is time to get practical. Our listeners want to learn some real s
 They want to start building their wall.
 他们想开始砌他们的墙。
 
-A: Let's do it. We will go through some key categories mentioned in our source text.
-开始吧。我们将过一遍素材文本里提到的一些关键类别。
+A: Let's do it. We will go through some key **categories** mentioned in our source text.
+开始吧。我们将过一遍素材文本里提到的一些关键**类别。**
 
 We should practice these together. Great idea.
 我们应该一起练习这些。好主意。
 
-We will pronounce them clearly and slowly. Listeners, you can repeat after us.
-我们会发音清晰且缓慢。听众朋友们，你们可以跟着我们重复。
+We will **pronounce** them clearly and slowly. Listeners, you can repeat after us.
+我们会**发音**清晰且缓慢。听众朋友们，你们可以跟着我们重复。
 
 Listen to us, then you say it. Let's start with the basics.
 听我们说，然后你跟着说。让我们从最基础的开始。
@@ -616,8 +616,8 @@ B: Yes.
 But if you see your friend the next day, and you say "Nice to meet you," they will think you have forgotten them.
 但如果你第二天见到你的朋友，你还说“Nice to meet you”，他们会以为你把他们忘了。
 
-They will think you have a bad memory. That would be awkward.
-他们会觉得你记性不好。那将会很尴尬。
+They will think you have a bad memory. That would be **awkward**.
+他们会觉得你记性不好。那将会**很尴尬。**
 
 It would be uncomfortable.
 会让人很不舒服。
@@ -628,8 +628,8 @@ A: So only for the first time. Correct.
 After that, for the second time, or the third time, you say "Good to see you.
 在那之后，第二次或第三次见面，你得说“Good to see you（见到你很高兴）”。
 
-" But for the first meeting, "Nice to meet you. " Okay, let's move to another category.
-但第一次见面，说“Nice to meet you”。好的，让我们进入另一个类别。
+" But for the first meeting, "Nice to meet you. " Okay, let's move to another **category**.
+但第一次见面，说“Nice to meet you”。好的，让我们进入另一个**类别。**
 
 Asking for information. This is essential for travel.
 询问信息。这对旅行至关重要。
@@ -655,11 +655,11 @@ B: Simple. Effective.
 You do not need to worry about the grammar of "is" or "the.
 你不需要担心“is”或“the”的语法。
 
-" Do not think about the grammar rules. Just memorize the phrase as one block.
+" Do not think about the grammar rules. Just memorize the phrase as **one block.**
 不要去想语法规则。只需把这个短语当作一个整体块来记。
 
-One piece. Here is another one for shopping.
-一块。这里有一个关于购物的。
+**One piece.** Here is another one for shopping.
+**一块**。这里有一个关于购物的。
 
 You are in a store. You see a nice shirt.
 你在商店里。你看到一件漂亮的衬衫。
@@ -667,11 +667,11 @@ You are in a store. You see a nice shirt.
 You want to buy it. You need to know the price.
 你想买下它。你需要知道价格。
 
-You say, "How much does it cost? "
-你说，“How much does it cost?（这多少钱？）”
+You say, **"How much does it cost? "**
+你说，**“How much does it cost?（这多少钱？）”**
 
-A: "How much does it cost? " "How much does it cost? " Again, this is a fixed phrase. It never changes. You will use this a thousand times. You don't need to analyze the auxiliary verb "does", just say the phrase. That is the beauty of these daily sentences. They are ready to use. You just pull them out of your pocket, you don't have to build them. Exactly, they are tools. You pick up the tool, and you use it.
-“How much does it cost?” “How much does it cost?” 再说一次，这是一个固定短语。它永远不变。你会用它一千次。你不需要分析助动词“does”，直接说出这个短语。这就是这些日常用语的魅力。它们是现成的。你直接从口袋里掏出来用，不用去拼凑它们。完全正确，它们是工具。你拿起工具，使用它。
+A: "How much does it cost? " "How much does it cost? " Again, this is a **fixed phrase**. It never changes. You will use this a thousand times. You don't need to analyze the **auxiliary** verb "does", just say the phrase. That is the beauty of these daily sentences. They are ready to use. You just pull them out of your pocket, you don't have to build them. Exactly, they are tools. You pick up the tool, and you use it.
+“How much does it cost?” “How much does it cost?” 再说一次，这是一个**固定短语**。它永远不变。你会用它一千次。你不需要分析**auxiliary辅助的**助动词**“does”，直接说出这个短语。这就是这些日常用语的魅力。它们是现成的。你直接从口袋里掏出来用，不用去拼凑它们。完全正确，它们是工具。你拿起工具，使用它。
 
 B: Now, let's move to part two of our practical practice. This section is very important to me.
 现在，我们进入实用练习的第二部分。这部分对我来说非常重要。
@@ -706,8 +706,8 @@ How do we ask for something? How do we ask for help?
 A beginner might say "Give me the salt. " Ooh.
 一个初学者可能会说“Give me the salt（把盐给我）”。哦。
 
-That sounds harsh. That sounds hard.
-听起来很刺耳。听起来很生硬。
+That sounds **harsh**. That sounds hard.
+听起来很**刺耳**。听起来很生硬。
 
 "Give me the salt. " It sounds like a command.
 “把盐给我。”听起来像是个命令。
@@ -715,20 +715,20 @@ That sounds harsh. That sounds hard.
 Like "I am a soldier" or like a king talking to a servant.
 就像“我是个士兵”，或者像国王在对仆人说话。
 
-A: Yes. It is too strong. It is not polite. To sound like a native speaker, to sound friendly, we use "Could you. " So the phrase becomes "Could you please pass the salt? " Listen to the difference. Listen to the music. "Could you please pass the salt? "
+A: Yes. It is too strong. It is not polite. To sound like a native speaker, to sound friendly, we use **"Could you.** " So the phrase becomes "Could you please pass the salt? " Listen to the difference. Listen to the music. "Could you please pass the salt? "
 是的。它太强硬了。这不礼貌。为了听起来像母语人士，听起来友好，我们使用“Could you（你能...吗）”。所以这个短语变成了“Could you please pass the salt?（能请你把盐递给我吗？）”听听区别。听听它的乐感。“Could you please pass the salt?”
 
 B: It is so much softer. It is friendly. "Could you please pass the salt? " It shows respect for the other person. You are asking, not demanding. You are giving them a choice. Let's look at offers. You have a guest in your house. You want to give them coffee. You want to be a good host.
 这听起来温和多了。这很友好。“Could you please pass the salt?” 这表达了对对方的尊重。你在请求，而不是命令。你在给他们选择的余地。我们来看看提供（帮助/物品）。你家里有位客人。你想给他们咖啡。你想做个好主人。
 
-A: Do not say "Do you want coffee? " It is okay. It is not terrible. But it is a little blunt. It is a little too direct. The better way is "Would you like some coffee? " "Would you like...? " This is the magic phrase. "Would you like? " "Would you like some coffee? " "Would you like a glass of water? " "Would you like to sit down? "
-不要说“Do you want coffee?（你要咖啡吗？）” 这也行。不至于糟透。但有点太生硬。有点太直接了。更好的说法是“Would you like some coffee?（您想喝点咖啡吗？）”“Would you like...?” 这是一句神奇的话。“你想...吗？”“您想喝点咖啡吗？”“您想喝杯水吗？”“您想坐下吗？”
+A: Do not say "Do you want coffee? " It is okay. It is not **terrible**. But it is a little **blunt**. It is a little too direct. The better way is "Would you like some coffee? " "**Would you like...?** " This is the magic phrase. "Would you like? " "Would you like some coffee? " "Would you like a glass of water? " "Would you like to sit down? "
+不要说“Do you want coffee?（你要咖啡吗？）” 这也行。不至于**糟透**。但有点太**生硬**。有点太直接了。更好的说法是“Would you like some coffee?（您想喝点咖啡吗？）”“Would you like...?” 这是一句神奇的话。“**你想...吗？**”“您想喝点咖啡吗？”“您想喝杯水吗？”“您想坐下吗？”
 
-B: It is elegant. It is polite. It makes the guest feel special, it makes them feel comfortable. And what about when we are ordering food at a restaurant? I hear people say "I want the chicken. "
-听起来很优雅。有礼貌。它让客人觉得受到优待，让他们感到舒服。那我们在餐厅点餐时该怎么说呢？我听到人们说“I want the chicken（我要鸡肉）”。
+B: It is **elegant**. It is polite. It makes the guest feel special, it makes them feel comfortable. And what about when we are ordering food at a restaurant? I hear people say "I want the chicken. "
+听起来很**优雅**。有礼貌。它让客人觉得受到优待，让他们感到舒服。那我们在餐厅点餐时该怎么说呢？我听到人们说“I want the chicken（我要鸡肉）”。
 
-A: "I want" is perfectly correct grammar. The grammar is fine. But again, it sounds like a child. Yeah. A little baby says "I want, I want, I want. " We want to sound like adults. We want to sound mature. So we use "I'd like. " This is short for "I would like. " "I'd like the chicken salad. " "I'd like the chicken salad. "
-“I want”在语法上绝对正确。语法没问题。但它又听起来像个孩子。是啊。小宝宝才说“我要，我要，我要”。我们希望听起来像个成年人。听起来成熟点。所以我们用“I'd like”。这是“I would like”的缩写。“我想要鸡肉沙拉（I'd like the chicken salad.）”“我想要鸡肉沙拉。”
+A: "I want" is **perfectly** correct grammar. The grammar is fine. But again, it sounds like a child. Yeah. A little baby says "I want, I want, I want. " We want to sound like adults. We want to sound **mature**. So we use "I'd like. " This is short for "I would like. " "I'd like the chicken salad. " "I'd like the chicken salad. "
+“I want”在语法上**绝对**正确。语法没问题。但它又听起来像个孩子。是啊。小宝宝才说“我要，我要，我要”。我们希望听起来像个成年人。听起来**成熟**点。所以我们用“I'd like”。这是“I would like”的缩写。“我想要鸡肉沙拉（I'd like the chicken salad.）”“我想要鸡肉沙拉。”
 
 B: It is smooth, it flows. "I'd like.
 听起来很顺，很流畅。“我想要”。
@@ -736,13 +736,13 @@ B: It is smooth, it flows. "I'd like.
 " Using "I'd like" instead of "I want" instantly upgrades your English. It makes your English better immediately.
 用“I'd like”代替“I want”会立刻提升你的英语水平。它立刻让你的英语变得更好。
 
-It moves you from beginner level to intermediate level, just with one phrase.
-只需一个短语，它就能把你从初级提升到中级。
+It moves you from **beginner** level to **intermediate** level, just with one phrase.
+只需一个**短语**，它就能把你从初级提升到**中级**。
 
 That is a great tip. Small change, big result.
 那是个很好的提示。小改变，大效果。
 
-A: Now, we need to talk about something difficult. Disagreeing.
+A: Now, we need to talk about something difficult. **Disagreeing**.
 现在，我们需要谈论一些困难的事情了。表达不同意见（反对）。
 
 When you do not agree with someone. Oh, this is hard.
@@ -751,8 +751,8 @@ When you do not agree with someone. Oh, this is hard.
 How do you say no without making people angry? How do you say no without losing a friend?
 你怎么能在不激怒别人的情况下说不？你怎么能拒绝而不失去朋友？
 
-This touches on the concept of social harmony. Social harmony.
-这触及到了社会和谐的概念。社会和谐。
+This touches on the **concept** of **social harmony**. Social harmony.
+这触及到了**社会和谐**的**概念**。社会和谐。
 
 That sounds nice. What does it mean?
 听起来不错。这是什么意思？
@@ -778,14 +778,14 @@ It can feel like a slap in the face if the topic is sensitive.
 It is too hard.
 太生硬了。
 
-A: So we need soft alternatives. We need softer ways to say no.
-所以我们需要柔和的替代方案。我们需要用更委婉的方式说不。
+A: So we need soft **alternatives**. We need softer ways to say no.
+所以我们需要柔和的**替代**方案。我们需要用更委婉的方式说不。
 
 Yes. We need to be gentle.
 是的。我们需要温和些。
 
-Instead of saying "No, you are wrong", you can say "I'm not sure about that.
-你不要说“不，你错了”，你可以说“我对此不太确定（I'm not sure about that）”。
+Instead of saying "No, you are wrong", you can say "**I'm not sure about that.**
+你不要说“不，你错了”，你可以说“**我对此不太确定**（I'm not sure about that）”。
 
 " "I'm not sure about that. " It means no.
 “我对此不太确定。”它的意思就是不。
@@ -793,8 +793,8 @@ Instead of saying "No, you are wrong", you can say "I'm not sure about that.
 It really means no. But it sounds like you are thinking about it.
 它的真实意思就是拒绝。但听起来好像你还在考虑。
 
-It sounds polite. It is less aggressive.
-听起来很有礼貌。没那么有攻击性。
+It sounds polite. It is less **aggressive**.
+听起来很有礼貌。没那么**有攻击性**。
 
 B: I use that all the time. If someone says something crazy, I say "Hmm, I'm not sure about that. " Here is another one. This is very useful. If someone gives an opinion, and you disagree, you can say "I see your point, but... "
 我一直在用这句话。如果有人说了什么疯狂的话，我就说“嗯，我对此不太确定”。这里还有一个。这个非常有用。如果有人提出意见，而你不同意，你可以说“我明白你的意思，但是...（I see your point, but...）”
@@ -820,8 +820,8 @@ But hearing them once is not enough. We need to remember them.
 We need to keep them in our brains.
 我们需要把它们装在脑子里。
 
-A: This brings us to our tools for success. What can our listeners do to make sure these phrases stick?
-这把我们引向了成功的工具。我们的听众能做什么来确保牢记这些短语？
+A: This brings us to our tools for success. What can our listeners do to make sure these phrases **stick**?戳
+这把我们引向了成功的工具。我们的听众能做什么来确保**牢记**这些短语？
 
 How can they remember them tomorrow? The first tool is simple but powerful.
 他们明天怎么能记住它们？第一个工具简单却强大。
@@ -844,8 +844,8 @@ B: Why is writing helpful? Why not just type it on my phone?
 When you write with a pen, you slow down. You see the spelling.
 当你用笔写字时，你慢了下来。你看到了拼写。
 
-You connect your hand to your brain. It reinforces the memory.
-你的手和大脑连接了起来。这强化了记忆。
+You connect your hand to your brain. It **reinforces** the memory.
+你的手和大脑连接了起来。这**强化**了记忆。
 
 It makes the memory stronger.
 让记忆更深刻。
@@ -859,11 +859,11 @@ Immediately. Stop the movie, write it down.
 Review it later, read it later.
 稍后复习，稍后阅读。
 
-A: And speaking of reviewing, there is a fancy term for this. Spaced repetition.
+A: And speaking of reviewing, there is a fancy term for this. **Spaced repetition.**
 说到复习，有一个关于这个的高级术语。间隔重复（Spaced repetition）。
 
-Spaced repetition. It sounds technical, it sounds complicated.
-间隔重复。听起来很专业，很复杂。
+Spaced repetition. It sounds **technical**, it sounds complicated.
+间隔重复。听起来很**专业**，很复杂。
 
 But the idea is simple. Explain it to us simply.
 但理念很简单。给我们简单解释一下吧。
@@ -907,8 +907,8 @@ B: This tells your brain, this information is important, keep it. Do not throw i
 It moves the information into long-term memory. It stays there forever.
 这把信息转移到了长期记忆里。它永远留在那儿了。
 
-Yes. Flashcards are great for this.
-是的。抽认卡（单词卡）在这方面非常好用。
+Yes. **Flashcards** are great for this.
+是的。**抽认卡**（单词卡）在这方面非常好用。
 
 You can use paper flashcards.
 你可以用纸质的卡片。
@@ -925,11 +925,11 @@ Space it out. Do not do it all at once.
 A: We have given you the strategies. We have given you the phrases.
 我们给了你策略。我们给了你短语。
 
-We have given you the tools. Now we need to talk about the mindset.
-我们给了你工具。现在我们需要谈谈心态。
+We have given you the tools. Now we need to talk about the **mindset.**
+我们给了你工具。现在我们需要谈谈**心态**。
 
-How you think. The mindset.
-你是怎么想的。心态（The mindset）。
+How you think. The **mindset.**
+你是怎么想的。**心态（**The mindset）。
 
 How you think about learning. This is perhaps the most important part.
 你是如何看待学习的。这也许是最重要的部分。
@@ -952,8 +952,8 @@ They rush, they stress, they run too fast. And when they don't learn everything 
 They get sad. You cannot learn a language in a day.
 他们会难过。你不可能在一天之内学会一门语言。
 
-It is impossible. It is a biological process.
-那是不可能的。这是一个生理过程。
+It is impossible. It is a **biological** process.
+那是不可能的。这是一个**生理**过程。
 
 A: Your brain needs time to grow. It is like a tree.
 你的大脑需要时间来生长。就像一棵树。
@@ -1000,11 +1000,11 @@ You can perfect the pronunciation. You can understand the context.
 You can learn it deeply.
 你可以深入地学习它。
 
-A: Slow progress is still progress. Moving slow is better than stopping.
-缓慢的进步也是进步。走得慢总比停下好。
+A: Slow progress is still **progress**. Moving slow is better than stopping.
+缓慢的进步也是**进步**。走得慢总比停下好。
 
-Exactly. Small steps lead to big destinations.
-没错。小步子能走到大目的地。
+Exactly. Small steps lead to big **destinations**.
+没错。小步子能走到大**目的地。**
 
 Just keep walking. And finally, we have to talk about fear.
 继续走就好。最后，我们必须谈谈恐惧。
@@ -1012,8 +1012,8 @@ Just keep walking. And finally, we have to talk about fear.
 The fear of making mistakes. The fear of being wrong.
 对犯错的恐惧。对做错的恐惧。
 
-This is the biggest enemy of learning. Fear stops you.
-这是学习最大的敌人。恐惧会阻止你。
+This is the biggest **enemy** of learning. Fear stops you.
+这是学习最大的**敌人**。恐惧会阻止你。
 
 Fear paralyzes you.
 恐惧使你瘫痪。
@@ -1021,14 +1021,14 @@ Fear paralyzes you.
 B: I know so many people who are afraid to speak because they might say the wrong word.
 我认识很多人因为怕说错词而不敢开口。
 
-They are silent because they are scared. Listen to me closely.
-他们因为害怕而保持沉默。请仔细听我说。
+They are silent because they are **scared**. Listen to me closely.
+他们因为害怕而保持**沉默**。请仔细听我说。
 
 Mistakes are not bad. Mistakes are good.
 犯错不是坏事。犯错是好事。
 
-How can a mistake be good? We are taught that mistakes are bad.
-犯错怎么会是好事？我们被教导犯错是坏事。
+How can a mistake be good? We are **taught** that mistakes are bad.
+犯错怎么会是好事？我们被**教导**犯错是坏事。**教授**
 
 A mistake shows that you are trying. A mistake is a lesson.
 错误表明你在尝试。错误就是一堂课。
@@ -1042,8 +1042,8 @@ So if I say "I have hunger" and someone laughs, I will never forget to say "I am
 Exactly. That moment of embarrassment is actually a strong memory hook.
 完全正确。那个尴尬的时刻实际上是一个很强的记忆钩子。
 
-It helps you remember. Embrace it.
-它帮你记住。拥抱它吧。
+It helps you remember. **Embrace** it.
+它帮你记住。**拥抱**它吧。
 
 Accept it. Laugh at yourself.
 接受它。嘲笑一下自己。
@@ -1093,8 +1093,8 @@ Being an actor. We practiced some essential phrases.
 " "How much does it cost? "
 ”“这多少钱？”
 
-A: And we learned how to be polite. "Could you please? " "I'd like. " "I see your point, but... " These are the keys to social harmony. And finally we talked about the tools. Journals and spaced repetition. And the mindset of taking it one day at a time. One sentence at a time. It is a complete package for improving your speaking. It is everything you need.
-我们还学习了如何保持礼貌。“能请你...吗？”“我想要...”“我明白你的意思，但是...” 这些都是维持社会和谐的关键。最后我们讨论了工具。日记和间隔重复。还有一天一步的心态。一次学一个句子。这是一套提升你口语的完整方案。这就是你需要的一切。
+A: And we learned how to be polite. "Could you please? " "I'd like. " "I see your point, but... " These are the keys to social **harmony**. And finally we talked about the tools. **Journals** and spaced repetition. And the **mindset** of taking it one day at a time. One sentence at a time. It is a complete package for improving your speaking. It is everything you need.
+我们还学习了如何保持礼貌。“能请你...吗？”“我想要...”“我明白你的意思，但是...” 这些都是维持社会**和谐**的关键。最后我们讨论了工具。日记和间隔重复。还有一天一步的**心态**。一次学一个句子。这是一套提升你口语的完整方案。这就是你需要的一切。
 
 B: So, listeners, we have a challenge for you. We want you to do something.
 那么，听众朋友们，我们对你们有个挑战。我们希望你们做件事。

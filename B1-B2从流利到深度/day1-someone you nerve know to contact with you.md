@@ -1,8 +1,8 @@
-A: Hello everyone, welcome to the English podcast journey. It is genuinely wonderful to be here with all of you today.
-大家好，欢迎来到英语播客之旅。今天能和大家在这里真是太棒了。
+A: Hello everyone, welcome to the English podcast journey. It is **genuinely** wonderful to be here with all of you today.
+大家好，欢迎来到英语播客之旅。今天能和大家在这里真是太棒了。真的ˈjenyəwənlē
 
-B: I um, I want to start our time together today by asking you, our listener, to visualize a highly specific, but probably very familiar scenario.
-我，嗯，我想以一个问题来开始我们今天的共度时光，请我们的听众想象一个非常具体，但可能非常熟悉的场景。
+B: I um, I want to start our time together today by asking you, our listener, to **visualize** a highly specific, but probably very familiar scenario.
+我，嗯，我想以一个问题来开始我们今天的共度时光，请我们的听众想象一个非常具体，**可视化**的；但可能非常熟悉的场景。
 
 A: Oh, setting the scene right away.
 哦，马上就开始设定场景了。
@@ -10,8 +10,8 @@ A: Oh, setting the scene right away.
 B: Exactly.
 完全正确。
 
-So, imagine you are at a social event, it could be an international industry conference, a mutual friend's birthday party, or honestly you could just be standing in line at a local coffee shop waiting for a latte.
-所以，想象一下你正在参加一个社交活动，它可能是一个国际行业会议，一个共同朋友的生日派对，或者说实话，你可能只是在当地一家咖啡店排队等拿铁。
+So, imagine you are at a social event, it could be an international **industry** **conference**, a **mutual** friend's birthday party, or honestly you could just be standing in line at a local coffee shop waiting for a latte.
+所以，想象一下你正在参加一个社交活动，它可能是一个国际**行业**会议**，一个**共同，相互**朋友的生日派对，或者说实话，你可能只是在当地一家咖啡店排队等拿铁。
 
 Happens all the time. Right.
 这种事经常发生。对。
@@ -19,26 +19,26 @@ Happens all the time. Right.
 And someone you have absolutely never crossed paths with before turns to you, makes eye contact, smiles, and starts speaking to you in English.
 然后一个你以前绝对从未有过交集的人转向你，与你眼神交流，微笑着，开始用英语和你说话。
 
-Ah. What is your immediate physiological reaction?
-啊。你最直接的生理反应是什么？
+Ah. What is your immediate **physiological reaction**?
+啊。你最直接的**生理反应**是什么？
 
-A: For a vast majority of language learners, even those who have successfully reached a strong upper intermediate or B2 level, that immediate physical reaction is uh, it's pure unadulterated panic.
-对于绝大多数语言学习者来说，即使是那些已经成功达到较强中高级或B2水平的人，那种直接的生理反应是，呃，是纯粹的、十足的恐慌。
+A: For **a vast majority of** language learners, even those who have successfully reached a strong upper intermediate or B2 level, that immediate physical reaction is uh, it's **pure unadulterated** panic. ˌənəˈdəltəˌrādəd
+对于**绝大多数**语言学习者来说，即使是那些已经成功达到较强中高级或B2水平的人，那种直接的生理反应是，呃，**是纯粹的**、十足的恐慌。
 
-Complete panic. We actually see a documented physiological response.
-完全的恐慌。我们实际上看到了一种有据可查的生理反应。
+Complete panic. We actually see a **documented** physiological response.
+完全的恐慌。我们实际上看到了一种**有据可查**的生理反应。
 
 B: Mm.
 嗯。
 
-Your amygdala, the fear center of your brain fires up, your heart rate elevates, your palms might get a light sheen of sweat, your breathing becomes shallow.
-你的杏仁核，也就是大脑的恐惧中心启动了，你的心率升高，你的手掌可能会出一点汗，你的呼吸变浅。
+Your **amygdala** *əˈmiɡdələ*, the fear center of your brain **fires up**, your heart rate **elevates**, your palms might get **a light sheen of** sweat, your breathing becomes shallow.
+你的**杏仁核əˈmiɡdələ**，也就是大脑的恐惧中心**启动**了，你的心率**升高**，你的手掌可能会出一点汗， a light **sheen** of一层淡淡的光泽（汗）你的呼吸变浅。
 
 I know that exact feeling.
 我太了解那种感觉了。
 
-And the most frustrating part: suddenly all of that sophisticated vocabulary and those complex grammar structures you have dedicated years to studying just evaporate from your working memory.
-而最令人沮丧的部分是：突然之间，你花了好几年时间学习的所有那些高级词汇和复杂的语法结构，就这样从你的工作记忆中蒸发了。
+And the most frustrating part: suddenly all of that **sophisticated** vocabulary and those complex grammar structures you have dedicated years to studying just evaporate from your working memory.
+而最令人沮丧的部分是：突然之间，你花了好几年时间学习的所有那些**高级词汇和复杂的**语法结构，就这样从你的工作记忆中蒸发了。
 
 They are just gone.
 它们就这么消失了。

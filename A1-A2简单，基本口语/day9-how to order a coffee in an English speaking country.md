@@ -22,8 +22,8 @@ Sometimes the uh, the smallest things in life are actually the most complicated.
 A: Definitely.
 绝对的。
 
-Today we are talking about coffee, specifically how to order a coffee in an English speaking country without feeling completely panicked.
-今天我们要谈论的是咖啡，具体来说，就是如何在英语国家点咖啡而不感到完全惊慌失措。
+Today we are talking about coffee, specifically how to order a coffee in an English speaking country without feeling completely **panicked**.
+今天我们要谈论的是咖啡，具体来说，就是如何在英语国家点咖啡而不感到完全**惊慌失措。**
 
 B: Yes, panicked is a great word for it.
 是的，惊慌失措这个词用得太好了。
@@ -40,8 +40,8 @@ They study English grammar for years, they can read whole books in English.
 But then they walk into a busy coffee shop in London or New York and they just freeze.
 但是当他们走进伦敦或纽约一家繁忙的咖啡店时，他们就僵住了。
 
-B: Right. It is what we call threshold anxiety.
-对。这就是我们所说的“门槛焦虑”。
+B: Right. It is what we call **threshold** anxiety.
+对。这就是我们所说的“**门槛**焦虑”。
 
 A: Threshold anxiety?
 门槛焦虑？
@@ -55,14 +55,14 @@ You cross the threshold, you walk through the door of the shop, and your brain j
 A: Oh absolutely.
 哦，绝对是这样。
 
-You smell the roasted coffee beans, you hear the really loud music, the espresso machine is hissing and steaming, and suddenly, your mind goes completely blank.
-你闻到烤咖啡豆的香味，听到非常吵闹的音乐，浓缩咖啡机发出嘶嘶的声音并冒着热气，突然，你的大脑一片空白。
+You smell the **roasted** coffee beans, you hear the really loud music, the **espresso** machine is **hissing** and **steaming**, and suddenly, your mind goes completely blank.
+你闻到**烤**咖啡豆的香味，听到非常吵闹的音乐，**浓缩咖啡机发eˈspresō**（易式浓缩咖啡）出**嘶嘶的声音**并**冒着热气**，突然，你的大脑一片空白。
 
 B: Exactly. My mind goes blank.
 完全正确。我的大脑一片空白。
 
-I forget my own name. So I definitely forget how to say uh oat milk in English.
-我连自己的名字都忘了。所以我肯定也忘了怎么用英语说，呃，燕麦奶。
+I forget my own name. So I definitely forget how to say uh **oat** milk in English.
+我连自己的名字都忘了。所以我肯定也忘了怎么用英语说，呃，**燕麦**奶。
 
 A: And that is exactly what we are going to fix today. We are going to break down this whole interaction.
 而这正是我们今天要解决的问题。我们要拆解这整个互动过程。
@@ -79,8 +79,8 @@ B: So, by the end of this deep dive, you, our listener, will have a plan.
 A very simple, polite script you can use.
 一个你可以使用的、非常简单礼貌的脚本（话术）。
 
-A: A script is like a safety net. When you are nervous, you do not want to invent new sentences.
-脚本就像一张安全网。当你紧张时，你不会想去发明新句子。
+A: A script is like a safety net. When you are nervous, you do not want to **invent** new sentences.
+脚本就像一张安全网。当你紧张时，你不会想去**发明**新句子。
 
 You just want to use a pattern that you already know.
 你只想使用一个你已经掌握的句型。
@@ -88,8 +88,8 @@ You just want to use a pattern that you already know.
 B: Exactly. So, let's set the scene.
 完全正确。那么，让我们来设定场景。
 
-You are walking up to the counter. The barista, the person making the coffee, is standing right there.
-你正走向柜台。咖啡师，也就是煮咖啡的人，就站在那里。
+You are walking up to the counter. The **barista**, the person making the coffee, is standing right there.
+你正走向柜台。**咖啡师**，也就是煮咖啡的人，就站在那里。
 
 Right. They look very busy, maybe they even look a little impatient.
 对。他们看起来很忙，也许甚至看起来有点不耐烦。
@@ -154,8 +154,8 @@ B: You sound a bit like a boss giving an order. Or maybe like a child.
 "I want this. " It is a demand, not a request.
 “我要这个。”这是一种要求，而不是请求。
 
-A: And we want to be polite. We want the barista to have a good interaction with us.
-我们想保持礼貌。我们希望咖啡师和我们有一次愉快的互动。
+A: And we want to be polite. We want the barista to have a good **interaction** with us.
+我们想保持礼貌。我们希望咖啡师和我们有一次愉快的**互动**。
 
 B: Exactly.
 完全正确。
@@ -169,8 +169,8 @@ We need to use softer language.
 A: Softer language. I like that.
 更温和的语言。我喜欢。
 
-So what are the better alternatives? Our source material gives us two really good options.
-那么更好的选择是什么呢？我们的素材给了我们两个非常好的选项。
+So what are the better **alternatives**? Our source material gives us two really good options.
+那么更好的**选择**是什么呢？我们的素材给了我们两个非常好的选项。
 
 B: The first option is very polite. It is the phrase "I'd like".
 第一个选项非常有礼貌。就是“我想要（I'd like）”这个短语。
@@ -181,8 +181,8 @@ A: "I'd like. " Yeah.
 Let's stop right there for a second.
 让我们先在这里停一下。
 
-Because that little sound in the middle, the 'd' sound, can be very tricky for learners.
-因为中间那个小小的声音，‘d’的音，对学习者来说可能非常棘手。
+Because that little sound in the middle, the 'd' sound, can be very **tricky** for learners.
+因为中间那个小小的声音，‘d’的音，对学习者来说可能非常**棘手**。
 
 B: It is tricky. That 'd' is a short way of saying 'would'.
 确实很棘手。那个‘d’是‘would’的缩写。
@@ -223,8 +223,8 @@ Okay, so that is our first great option, "I'd like". What is the second option?
 A: Option two is turning your order into a question. You ask the barista, "Can I have".
 第二个选项是把你的点单变成一个问题。你问咖啡师，“能给我...吗（Can I have）”。
 
-B: "Can I have. " I feel like I hear this all the time in American movies and TV shows. It is everywhere. "Can I have a latte? " or sometimes people say "Can I get a latte? "
-“能给我...吗”。我感觉我在美国电影和电视节目里经常听到这个。它无处不在。“能给我一杯拿铁吗？”或者有时人们会说“我能要一杯拿铁吗（Can I get a latte?）”
+B: "Can I have. " I feel like I hear this all the time in American movies and TV shows. It is everywhere. "Can I have a **latte**? " or sometimes people say "Can I get a latte? "
+“能给我...吗”。我感觉我在美国电影和电视节目里经常听到这个。它无处不在。“能给我一杯**拿铁**吗？”或者有时人们会说“我能要一杯拿铁吗（Can I get a latte?）”
 
 A: You know, I remember an old English teacher telling me that "can" is only for ability.
 你知道，我记得一位老英语老师告诉我，“can”只用于表示能力。
@@ -250,8 +250,8 @@ B: That is a big relief.
 So I do not need to say something very formal like "May I please have".
 所以我不需要说像“我能请你给我...吗（May I please have）”这样非常正式的话了。
 
-A: You can say that, but it sounds a little too formal for a casual coffee shop.
-你可以那样说，但对于一家休闲咖啡店来说听起来有点太正式了。
+A: You can say that, but it sounds a little too formal for a **casual** coffee shop.
+你可以那样说，但对于一家休闲咖啡店来说听起来有点太**正式**了。
 
 "Can I have" is friendly and natural.
 “Can I have”很友好也很自然。
@@ -262,8 +262,8 @@ But, and this is very important, you must add the magic word at the end.
 B: Oh I know this one. Please.
 哦，我知道这个。请（Please）。
 
-A: Please. It is absolutely required. If you just say "Can I have a coffee" and then stop, it still sounds a little rude. Right. But if you say "Can I have a coffee, please? ", then you are perfectly polite.
-请。这是绝对必需的。如果你只说“我能要杯咖啡吗”然后就停了，听起来还是有点粗鲁。对。但如果你说“能给我一杯咖啡吗，谢谢（Can I have a coffee, please?）”，那就非常有礼貌了。
+A: Please. It is **absolutely** **required**. If you just say "Can I have a coffee" and then stop, it still sounds a little rude. Right. But if you say "Can I have a coffee, please? ", then you are perfectly polite.
+请。这是**绝对**必需**的。如果你只说“我能要杯咖啡吗”然后就停了，听起来还是有点粗鲁。对。但如果你说“能给我一杯咖啡吗，谢谢（Can I have a coffee, please?）”，那就非常有礼貌了。
 
 B: It also gives the sentence a nice rhythm. It shows the barista that you have finished speaking.
 这也给句子带来了一个很好的节奏。它向咖啡师表明你已经说完了。
@@ -274,8 +274,8 @@ That is a great point. It tells them it is their turn to talk.
 A: So we have two excellent phrases to start our order. "I'd like" and "Can I have".
 所以我们有两个极好的短语来开始点单。“I'd like”和“Can I have”。
 
-Let's do a quick practice right now so the listener can hear how it flows.
-让我们现在做一个快速练习，让听众听听它是如何流畅表达的。
+Let's do a quick practice right now so the listener can hear how it **flows**.
+让我们现在做一个快速练习，让听众听听它是如何**流畅**表达的。
 
 B: Let's do it. I will be the barista.
 来吧。我来当咖啡师。
@@ -283,8 +283,8 @@ B: Let's do it. I will be the barista.
 I am looking at you. Hi there, what can I get for you today?
 我看着你。你好，今天想喝点什么？
 
-A: I'd like a medium latte, please. Perfect.
-我想要一杯中杯拿铁，谢谢。完美。
+A: I'd like a medium **latte**, please. Perfect.
+我想要一杯中杯**拿铁**，谢谢。完美。
 
 See how smooth that was? It felt very easy.
 看这有多顺畅？感觉非常简单。
@@ -307,8 +307,8 @@ If you use one of those two phrases, you are already doing better than many cust
 That gives me a lot of confidence.
 这给了我很大的信心。
 
-B: Okay, so we have the opening phrase. But a latte or a coffee is just the noun.
-好的，我们有了开场白。但拿铁或咖啡只是名词。
+B: Okay, so we have the opening phrase. But a latte or a coffee is just the **noun**.
+好的，我们有了开场白。但拿铁或咖啡只是**名词**。
 
 We usually need to describe the drink more. Yes.
 我们通常需要进一步描述饮料。是的。
@@ -340,8 +340,8 @@ Small, medium, and large.
 A: Now I have to ask you about this. What about the fancy words?
 现在我得问问你这个。那那些花哨的词呢？
 
-Like tall, or grande, or venti? Ah, the famous coffee shop marketing words.
-比如中杯（tall）、大杯（grande）或超大杯（venti）？啊，著名的咖啡店营销词汇。
+Like tall, or **grande**, or **venti**? Ah, the famous coffee shop marketing words.
+比如中杯（tall）、**大杯（grande**）或**超大杯（venti）**？啊，著名的咖啡店营销词汇。
 
 Yes. The names seem to change in every single shop.
 是的。在每一家店，这些名字似乎都不一样。
@@ -358,14 +358,14 @@ So if I walk into a random cafe and ask for a grande, will they know what I mean
 A: They will probably guess you mean medium or large.
 他们可能会猜你是要中杯或大杯。
 
-But if it is a small independent cafe, they might find it a bit annoying.
-但如果是一家独立的独立小咖啡馆，他们可能会觉得有点烦人。
+But if it is a small **independent** cafe, they might find it a bit **annoying**.
+但如果是一家独立的**独立**小咖啡馆，他们可能会觉得有点**烦人**。
 
 So what is the best strategy for an English learner? How do we keep it simple?
 那么对于英语学习者来说最好的策略是什么？我们如何保持简单？
 
-B: Stick to the basic English words. Small, medium, large.
-坚持使用基本的英语单词。小，中，大。
+B: **Stick to** the basic English words. Small, medium, large.
+**坚持**使用基本的英语单词。小，中，大。
 
 Just those three? Yes.
 就这三个？是的。
@@ -412,14 +412,14 @@ B: Iced. With an E and a D at the end.
 Yes, it is an adjective.
 是的，它是个形容词。
 
-But when we speak at normal speed, that D sound at the end blends right into the next word.
-但当我们以正常语速说话时，结尾那个D音会直接融入下一个词中。
+But when we speak at normal speed, that D sound at the end **blends** right **into** the next word.
+但当我们以正常语速说话时，结尾那个D音会直接**融入**下一个词中。
 
 A: So if I say iced latte, it sounds a bit like ice latte.
 所以如果我说冰拿铁（iced latte），听起来有点像 ice latte。
 
-Sort of.
-有点像。
+**Sort of.**
+**有点像。**
 
 You make the D sound very quickly and move right into the L of latte.
 你非常快地发出D的音，然后直接过渡到拿铁的L音。
@@ -487,20 +487,20 @@ Large iced latte flows much better.
 B: Okay, so now my drink is ordered.
 好的，现在我的饮料点好了。
 
-But imagine I am standing there, and I look down at the glass case next to the cash register.
-但想象一下我站在那里，低头看着收银机旁边的玻璃柜。
+But imagine I am standing there, and I look down at the **glass** case next to the **cash register.**
+但想象一下我站在那里，低头看着**收银机**旁边的**玻璃**柜。
 
-Ah, the pastry case. It is very dangerous.
-啊，糕点柜。它非常危险（诱人）。
+Ah, the **pastry** case. It is very dangerous.
+啊，**糕点**柜。它非常危险（诱人）。
 
-A: Yes. I see a delicious muffin.
-是的。我看到一个美味的玛芬蛋糕。
+A: Yes. I see a delicious **muffin**.
+是的。我看到一个美味的**玛芬蛋糕**。
 
 Or a huge chocolate chip cookie. And suddenly I realize, I am very hungry.
 或者一块巨大的巧克力豆饼干。我突然意识到，我很饿。
 
-How do I add food to my order without panicking and starting all over again?
-我要如何在点单里加上食物而不感到惊慌，且不需要从头再来呢？
+How do I add food to my order without **panicking** and starting all over again?
+我要如何在点单里加上食物而不感到**惊慌**，且不需要从头再来呢？
 
 B: This is a very common moment where learners get stressed.
 这是学习者常感到有压力的时刻。
@@ -535,8 +535,8 @@ It means in addition to the coffee. Exactly.
 So listen to how nice this sounds. I'd like a large coffee.
 所以听听这听起来有多棒。我想要一杯大杯咖啡。
 
-And can I also have a blueberry muffin?
-我还能再要一个蓝莓玛芬吗？
+And can I also have a **blueberry muffin**?
+我还能再要一个**蓝莓玛芬**吗？
 
 A: Sounds like a real conversation. It does not sound like you were just reading a list.
 听起来像是一场真正的对话。听起来不像你只是在读清单。
@@ -556,8 +556,8 @@ Then you need to ask a question to see if they have any more in the back.
 A: So I use the phrase "Do you have any". Yes. Do you have any cookies? Or do you have any sandwiches? Did you have any... That is a phrase you can use everywhere, not just in a coffee shop.
 所以我用“你们有...吗（Do you have any）”这个短语。是的。你们有饼干吗？或者你们有三明治吗？你们有... 这句话你在任何地方都可以用，不仅仅是在咖啡店。
 
-B: It is a universal phrase. You can use it at a hotel.
-这是一个通用的短语。你可以在酒店里用。
+B: It is a **universal phrase.** You can use it at a hotel.
+这是一个**通用的短语**。你可以在酒店里用。
 
 Do you have any rooms? At a train station, do you have any tickets?
 你们还有房间吗？在火车站，你们还有票吗？
@@ -580,8 +580,8 @@ Oh no. What did I forget?
 B: You are about to hit the biggest trap for English beginners. We call it the speed round.
 你即将掉进英语初学者的最大陷阱。我们称之为“快问快答环节”。
 
-A: The speed round.
-快问快答环节。
+A: The **speed round.**
+**快问快答环节**。
 
 This is this when the barista suddenly asks you a question very, very quickly.
 这就是咖啡师突然非常非常快地问你一个问题的时候。
@@ -613,8 +613,8 @@ B: They are asking five words. "For here or to go".
 Okay, "for here" means you want to stay inside the cafe. You want to sit at a table.
 好的，“在这吃（for here）”意味着你想待在咖啡馆里。你想坐在桌子旁。
 
-You want them to put your coffee in a real ceramic mug.
-你想让他们把咖啡装在真正的陶瓷杯里。
+You want them to put your coffee in a real **ceramic** **mug.**
+你想让他们把咖啡装在真正的**陶瓷**杯**里。马克杯
 
 A: And "to go" means I am leaving immediately. I am in a rush.
 而“带走（to go）”意味着我马上要离开。我很赶时间。
@@ -692,22 +692,22 @@ Customization. Changing the normal recipe to match exactly what you like.
 客制化。改变常规配方来完全匹配你的喜好。
 
 Yes. For example, maybe you do not drink regular cow's milk.
-是的。例如，也许你不喝普通的牛奶。
+是的。例如，也许你不喝**普通的牛奶**。
 
-That is true for me. I usually prefer oat milk in my coffee.
-我就是这样。我通常更喜欢在咖啡里加燕麦奶。
+That is true for me. I usually prefer **oat** milk in my coffee.
+我就是这样。我通常更喜欢在咖啡里加**燕麦**奶。
 
-B: And many people do. There is oat milk, almond milk, soy milk.
-很多人也是如此。有燕麦奶，杏仁奶，豆奶。
+B: And many people do. There is oat milk, **almond** milk, **soy** milk.
+很多人也是如此。有燕麦奶，**杏仁**奶，**豆**奶。
 
 Or maybe you want extra sugar, or no sugar at all.
 或者也许你想要多加糖，或者完全不加糖。
 
-A: How do I ask for these special changes? I don't want to ruin my perfect sentence structure.
-我该怎么要求这些特殊的改变呢？我不想破坏我完美的句子结构。
+A: How do I ask for these special changes? I don't want to **ruin** my perfect sentence structure.
+我该怎么要求这些特殊的改变呢？我不想**破坏**我完美的句子结构。
 
-It is actually very simple. We just use the preposition "with".
-其实很简单。我们只用介词“加/带着（with）”。
+It is actually very simple. We just use the **preposition** "with".
+其实很简单。我们只用**介词**“加/带着（with）”。
 
 The structure is "Can I have that with" and then your special option.
 结构是“我可以加...吗（Can I have that with）”，然后跟上你的特殊选项。
@@ -724,8 +724,8 @@ Or you can build it right into your first sentence. "I'd like a medium latte wit
 A: "I'd like a medium latte with oat milk, please. " It still sounds very smooth.
 “我想要一杯中杯拿铁加燕麦奶，谢谢。”听起来还是很顺畅。
 
-The word "with" is the signal. It tells the barista, "I am adding a special instruction".
-“with”这个词就是信号。它告诉咖啡师，“我要添加一个特殊要求”。
+The word "with" is the signal. It tells the barista, "I am adding a special **instruction**".
+“with”这个词就是信号。它告诉咖啡师，“我要添加一个特殊**要求**”。
 
 B: What if I want to talk about sugar? You do the same thing. "Can I have that with two sugars? " Or if you want the opposite, "Can I have that with no sugar? "
 如果我想说关于糖的要求怎么办？你用同样的方法。“我可以加两份糖吗（Can I have that with two sugars?）”或者你想要相反的，“我可以不要糖吗（Can I have that with no sugar?）”
@@ -739,8 +739,8 @@ Why would I say "with no sugar"?
 B: That is true for hot coffee.
 对于热咖啡是这样的。
 
-But if you order an iced coffee or a special cold drink, they sometimes pump liquid sugar syrup into it automatically.
-但如果你点冰咖啡或特殊的冷饮，他们有时会自动泵入液态糖浆。
+But if you order an iced coffee or a special cold drink, they sometimes pump liquid sugar **syrup** into it automatically.
+但如果你点冰咖啡或特殊的冷饮，他们有时会自动泵入液态**糖浆**。ˈsirəp
 
 A: So if you want to be safe, it is good to say "with no sugar".
 所以为了保险起见，最好说“不要糖”。
@@ -796,8 +796,8 @@ A very short verb. "Tap".
 Ah, yes. Tap.
 啊，是的。Tap。
 
-This is essential English vocabulary for modern life. It means using contactless payment.
-这是现代生活必不可少的英语词汇。意思是使用非接触式支付。
+This is essential English vocabulary for modern life. It means using **contactless payment**.
+这是现代生活必不可少的英语词汇。意思是使用**非接触式支付**。
 
 B: So I don't insert the card into the machine. I just touch the machine with the card.
 所以我不把卡插进机器。我只是用卡碰一下机器。
@@ -817,7 +817,7 @@ B: Can I tap? And then the machine goes beep.
 And we are finished. Well, almost.
 我们就完成了。嗯，差不多了。
 
-Sometimes there is an awkward pause. You tap the machine and then nothing happens for a few seconds.
+Sometimes there is an awkward **pause**. You tap the machine and then nothing happens for a few seconds.
 有时候会有一段尴尬的停顿。你碰了机器，然后几秒钟什么反应都没有。
 
 Oh I hate that. The machine says "processing".
@@ -832,8 +832,8 @@ Don't pull your phone away too quickly. Just wait for the final beep.
 Okay, good advice. Now let's imagine I have paid.
 好的，好建议。现在我们想象我已经付钱了。
 
-I answered "for here" earlier. So I am waiting for my nice ceramic cup.
-我之前回答了“在这儿喝”。所以我在等我漂亮的陶瓷杯。
+I answered "for here" earlier. So I am waiting for my nice **ceramic** cup.
+我之前回答了“在这儿喝”。所以我在等我漂亮的**陶瓷**杯。
 
 B: But I look around the room, and the cafe is completely full.
 但我环顾四周，咖啡馆全满了。
@@ -910,8 +910,8 @@ B: We talked about saying please. And of course saying thank you when they hand 
 These words make social interactions feel warm and friendly.
 这些词让社交互动感觉温暖和友好。
 
-A: But there is one more tool that is incredibly helpful for anyone learning a language.
-但是还有一个工具，对任何学习语言的人来说都非常有帮助。
+A: But there is one more tool that is **incredibly** helpful for anyone learning a language.
+但是还有一个工具，对任何学习语言的人来说都**非常**有帮助。
 
 A smile. A smile.
 那就是微笑。微笑。
@@ -949,8 +949,8 @@ They do. Most baristas are very kind.
 A: But we should talk about the worst-case scenario. The moment every language learner fears.
 但我们应该谈谈最坏的情况。每个语言学习者都害怕的时刻。
 
-The panic moment.
-恐慌时刻。
+The **panic** moment.
+**恐慌**时刻。
 
 The barista asks me a long question and I have absolutely no idea what they said.
 咖啡师问了我一个很长的问题，而我完全不知道他们说了什么。
@@ -958,8 +958,8 @@ The barista asks me a long question and I have absolutely no idea what they said
 B: Yes.
 是的。
 
-Maybe they are asking something complicated like, "Do you want to join our loyalty program today and get 10% off a bag of beans?
-也许他们在问一些复杂的问题，比如，“您今天想加入我们的忠诚度计划（会员），购买一袋咖啡豆享受九折优惠吗？
+Maybe they are asking something **complicated** like, "Do you want to join our loyalty program today and get 10% off a bag of beans?
+也许他们在问一些**复杂**的问题，比如，“您今天想加入我们的忠诚度计划（会员），购买一袋咖啡豆享受九折优惠吗？
 
 "
 ”
@@ -1000,14 +1000,14 @@ Or an even more natural phrase is, "Sorry, I didn't catch that. Could you say it
 "
 （Sorry, I didn't catch that. Could you say it again?）”
 
-A: "I didn't catch that. " That is a great idiom.
-“我没听清（I didn't catch that）。”这是一个很棒的习语。
+A: "I didn't catch that. " That is a great **idiom**.
+“我没听清（I didn't catch that）。”这是一个很棒的**习语**。
 
 It means my ears did not catch the words. Exactly.
 意思是我的耳朵没有捕捉到那些词。没错。
 
-And saying "I didn't catch that" is very polite because you are taking the blame.
-说“我没听清”非常礼貌，因为你把责任揽到了自己身上。
+And saying "I didn't catch that" is very polite because you are taking the **blame**.
+说“我没听清”非常礼貌，因为你把**责任**揽到了自己身上。
 
 You are not saying the barista spoke badly, you are saying you just missed it.
 你不是在说咖啡师说得不好，你是在说你自己没听清。
@@ -1024,8 +1024,8 @@ Coffee shops are incredibly loud. The machines are screaming, the music is playi
 Native English speakers ask "Sorry, what was that? " all the time in cafes.
 说英语的母语人士在咖啡馆里也经常问“抱歉，你说什么？（Sorry, what was that?）”。
 
-A: That is really good to know. So asking for clarification is just a normal part of life.
-知道这点真好。所以要求澄清（听清）只是生活中的正常部分。
+A: That is really good to know. So asking for **clarification** is just a normal part of life.
+知道这点真好。所以要求**澄清**（听清）只是生活中的正常部分。
 
 It is completely normal. There is zero shame in it.
 完全正常。这没什么丢人的。
@@ -1054,8 +1054,8 @@ If you have the right script in your mind, your confidence naturally goes up.
 B: Let's do a quick review.
 让我们快速复习一下。
 
-Let's recap the whole script for our listeners so they can really memorize the steps.
-让我们为听众回顾一下整个话术流程，这样他们才能真正记住这些步骤。
+Let's **recap** the whole script for our listeners so they can really memorize the steps.
+让我们为听众**回顾**一下整个话术流程，这样他们才能真正记住这些步骤。
 
 Okay. Step one is the opening phrase.
 好的。第一步是开场短语。
@@ -1105,14 +1105,14 @@ B: And finally, step seven is the recovery plan. If you do not understand the ba
 Just say, "Sorry, could you please repeat that? " There you go.
 只要说，“抱歉，能请您重复一遍吗？（Sorry, could you please repeat that?）”好了。
 
-You have the complete toolkit now. You are fully ready to order.
-你现在拥有完整的工具包了。你完全准备好点单了。
+You have the complete **toolkit** now. You are fully ready to order.
+你现在拥有完整的**工具包**了。你完全准备好点单了。
 
-A: You know, talking about all this delicious coffee, I am actually getting a craving right now.
-你知道，聊了这么多美味的咖啡，我现在其实很嘴馋了。
+A: You know, talking about all this delicious coffee, I am actually getting a **craving** right now.
+你知道，聊了这么多美味的咖啡，我现在其实很**嘴馋**了。
 
-A craving. That means a very strong desire for something, right?
-嘴馋（A craving）。意思是某种非常强烈的渴望，对吧？
+A craving. That means a very strong **desire** for something, right?
+嘴馋（A craving）。意思是某种非常强烈的**渴望**，对吧？
 
 Yes. My mouth is watering.
 是的。我都要流口水了。
@@ -1120,11 +1120,21 @@ Yes. My mouth is watering.
 I really want a coffee now.
 我现在真的很想喝杯咖啡。
 
-B: The source material actually mentioned a croissant. A warm, buttery, flaky croissant. Oh please stop. Now I have to go find a bakery immediately. Can I have a chocolate croissant, please?
-素材里其实提到了羊角面包。一个温暖的、黄油味十足、酥脆的羊角面包。哦快别说了。我现在必须马上找家面包店。“能给我一个巧克力羊角面包吗，谢谢？（Can I have a chocolate croissant, please?）”
+B: The source material actually mentioned a **croissant**. A warm, buttery, **flaky** croissant. Oh please stop. Now I have to go find a bakery immediately. Can I have a chocolate croissant, please?
+素材里其实提到了**羊角面包**。一个温暖的、黄油味十足、**酥脆**的羊角面包。哦快别说了。我现在必须马上找家面包店。“能给我一个巧克力羊角面包吗，谢谢？（Can I have a chocolate croissant, please?）”**croissant
+英音： /ˈkrwæsɒ̃/
+美音： /kwɑːˈsɑːn/ 或 /krəˈsɑːnt/
 
-A: See? You are practicing the script beautifully.
-瞧？你把这段话术练习得漂亮极了。
+解释：
+可颂 / 牛角包 / 羊角包——一种外层酥脆、内部柔软、呈月牙形的法式黄油酥皮面包。
+
+例句：
+
+· I’d like a butter croissant and an espresso.
+  我要一个原味可颂和一杯意式浓缩。**
+
+A: See? You are practicing the **script** beautifully.
+瞧？你把这段**话术**练习得漂亮极了。
 
 I am going to try it today. I will use these exact phrases.
 我今天就要去试试。我就会用这些一模一样的话。
@@ -1135,8 +1145,8 @@ B: And that is our challenge to you, the listener. Do not just listen to this de
 You have to use the words. Go to a coffee shop today or tomorrow.
 你必须使用这些词。今天或明天去一家咖啡店。
 
-Even if you do not live in an English speaking country, maybe you can find a cafe with tourists and practice listening.
-即使你不住在英语国家，也许你能找到一家有游客的咖啡馆练习听力。
+Even if you do not live in an English speaking country, maybe you can find a cafe with **tourists** and practice listening.
+即使你不住在英语国家，也许你能找到一家有**游客**的咖啡馆练习听力。
 
 Or just practice speaking in your own kitchen. Practice with your dog.
 或者就在你自己的厨房里练习说话。和你的狗练习。
@@ -1162,7 +1172,7 @@ And remember, every single mistake you make is just one step closer to fluency.
 B: If you say the wrong word, just smile, drink your coffee, and try again the next day.
 如果你说错了词，只需微笑，喝你的咖啡，第二天再试一次。
 
-We really hope this deep dive has helped you feel a little less anxious and a lot more prepared.
+We really hope this deep dive has helped you feel a little less **anxious** and a lot more prepared.
 我们真的希望这次深度探索能帮你减少焦虑，让你准备得更充分。
 
 Yes.
@@ -1171,8 +1181,8 @@ Yes.
 The next time you walk through that cafe door, we want you to have your head held high.
 下次你走进咖啡馆的门时，我们希望你昂首挺胸。
 
-Happy ordering everyone. Go get that caffeine.
-祝大家点单愉快。去获取咖啡因吧。
+Happy ordering everyone. Go get that **caffeine**.
+祝大家点单愉快。去获取**咖啡因**吧。
 
 A: Enjoy your coffee. See you next time.
 享受你的咖啡。下次见。

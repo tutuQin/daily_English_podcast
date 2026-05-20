@@ -10,8 +10,8 @@ B: Yes, everyone.
 It does not matter where you live, it does not matter what job you want.
 无论你住在哪里，无论你想要什么工作都没关系。
 
-Eventually you will have to face this situation. Today, we are talking about job interviews.
-最终你都将不得不面对这种情况。今天，我们要谈论的是求职面试。
+Eventually you will have to face this situation. Today, we are talking about **job interviews.**
+最终你都将不得不面对这种情况。今天，我们要谈论的是**求职面试**。
 
 A: Job interviews, just um, just hearing those words can make people feel a little bit uncomfortable.
 求职面试，只是，嗯，仅仅听到这些词就能让人感到有点不舒服。
@@ -40,10 +40,10 @@ A: I am happy to hear that. It is nice to know I am not alone.
 You are definitely not alone. There is a great word for this feeling in English.
 你绝对不是一个人。英语中有一个很好的词来形容这种感觉。
 
-We call it nerve-wracking.
-我们称之为令人伤脑筋的（nerve-wracking）。
+We call it **nerve-wracking.**
+我们称之为令**人伤脑筋**的（nerve-wracking）。
 
-B: Nerve-wracking. Let us pause on that word for a moment.
+B: Nerve-wracking. Let us **pause** on that word for a moment.
 令人伤脑筋的。让我们在这个词上稍微停顿一下。
 
 It is a little long. Nerve-wracking.
@@ -64,8 +64,8 @@ When something is nerve-wracking, it makes your nerves feel bad. It makes you fe
 B: I see. So a job interview is a nerve-wracking situation.
 我明白了。所以求职面试是一个令人伤脑筋的情境。
 
-You feel like you are being judged. Yes.
-你感觉自己正在被评判。是的。
+You feel like you are being **judged**. Yes.
+你感觉自己正在被**评判**。是的。
 
 Being judged is never a nice feeling.
 被评判从来都不是一种好的感觉。
@@ -88,8 +88,8 @@ We have a solution for this nervous feeling.
 B: We do. The solution is actually quite simple.
 我们确实有。这个解决办法其实很简单。
 
-Simple is good, what is the solution? The solution is preparation.
-简单就好，解决办法是什么？解决办法就是准备。
+Simple is good, what is the solution? The solution is **preparation**.
+简单就好，解决办法是什么？解决办法就是**准备**。
 
 Being ready. Preparation.
 做好准备。准备。
@@ -100,8 +100,8 @@ Yes. Preparation.
 Think about it like a test at school. If you study for the test, you feel okay.
 把它想象成学校里的考试。如果你为考试学习了，你就会觉得没问题。
 
-A: That makes sense. If you do not study, you feel scared.
-这有道理。如果你不学习，你就会感到害怕。
+A: **That makes sense.** If you do not study, you feel scared.
+**这有道理**。如果你不学习，你就会感到害怕。
 
 Right. An interview is just a test where you speak.
 对。面试只是一场你开口说话的考试。
@@ -136,8 +136,8 @@ B: Exactly. When you understand the reason, finding the answer becomes much easi
 A: It is almost always the same question, isn't it? It is.
 几乎总是同一个问题，不是吗？是的。
 
-Most interviews start with this short phrase. Tell me about yourself.
-大多数面试都以这个简短的短语开始。请做一下自我介绍（Tell me about yourself）。
+Most interviews start with this short phrase. **Tell me about yourself.**
+大多数面试都以这个简短的短语开始。请做一下**自我介绍**（Tell me about yourself）。
 
 B: Tell me about yourself. It sounds so simple.
 请做一下自我介绍。听起来很简单。
@@ -148,14 +148,14 @@ Yes it does. It sounds like meeting a new friend.
 "Hi, tell me about yourself. " It sounds very friendly, it sounds open.
 “嗨，跟我说说你自己吧。”听起来很友好，很开放。
 
-But this is a tricky question.
-但这是一个棘手的问题。
+But this is a **tricky** question.
+但这是一个**棘手**的问题。
 
 A: Tricky. Meaning, it is not as simple as it looks.
 棘手的。意思是，它并不像看起来那么简单。
 
-Right. It has a specific purpose.
-对。它有特定的目的。
+Right. It has a **specific purpose.**
+对。它有**特定的目的。**
 
 They are not asking you to tell them your whole life story.
 他们不是在要求你告诉他们你一生的故事。
@@ -172,8 +172,8 @@ They hear "tell me about yourself" and they think, okay, I will tell you everyth
 A: Exactly. They start with where they were born. Right. They talk about when they were a child, they talk about their hobbies. Like "I was born in a small town, I like to play football, I have two cats and a dog... "
 完全正确。他们从自己出生在哪里开始说起。对。他们谈论自己小时候的事情，谈论自己的爱好。比如“我出生在一个小镇，我喜欢踢足球，我有两只猫和一只狗……”
 
-B: And that is exactly what you should not do. Let us break that down.
-而这正是你不应该做的。让我们来拆解一下。
+B: And that is exactly what you should not do. Let us **break that down.**
+而这正是你不应该做的。让我们来**拆解**一下。
 
 Why is talking about my cats a bad idea? Because the interviewer is at work.
 为什么谈论我的猫是个坏主意？因为面试官在工作。
@@ -181,8 +181,8 @@ Why is talking about my cats a bad idea? Because the interviewer is at work.
 They are doing a job. Ah, I see.
 他们在执行一份工作。啊，我明白了。
 
-A: They are hiring a professional person, they have limited time. So they do not have time to hear about my dog.
-他们在招聘一名专业人员，他们的时间有限。所以他们没时间听我说我的狗。
+A: They are hiring a **professional** person, they have limited time. So they do not have time to hear about my dog.
+他们在招聘一名**专业**人员，他们的时间有限。所以他们没时间听我说我的狗。
 
 No.
 是的。
@@ -193,8 +193,8 @@ When you talk about your cats, or your favorite food, you are talking about your
 B: Personal life. Yes.
 私人生活。是的。
 
-But the interviewer wants to know about your work life. That is a great rule to remember.
-但面试官想知道的是你的工作生活。这是一条值得记住的好规则。
+But the interviewer wants to know about your **work life**. That is a great rule to remember.
+但面试官想知道的是你的**工作生活**。这是一条值得记住的好规则。
 
 Personal life versus work life. Always choose work life.
 私人生活对比工作生活。永远选择工作生活。
@@ -205,8 +205,8 @@ A: So, if I start talking about how much I love pizza, I am wasting their time.
 Sadly, yes.
 遗憾的是，是的。
 
-Unless you want a job as a pizza chef, your love of pizza does not matter.
-除非你想找一份披萨厨师的工作，否则你对披萨的热爱无关紧要。
+**Unless** you want a job as a pizza chef, your love of pizza does not matter.
+**除非**你想找一份披萨厨师的工作，否则你对披萨的热爱无关紧要。
 
 It is not related to the job. Right.
 它与工作无关。对。
@@ -310,8 +310,8 @@ If you do that, you start the interview in a very strong way, you look professio
 A: Okay, so we have introduced ourselves, the interviewer is happy. Now they move to the second question.
 好的，我们已经做了自我介绍，面试官很满意。现在他们转向了第二个问题。
 
-Yes. This next question is usually about motivation.
-是的。下一个问题通常是关于动机。
+Yes. This next question is usually about **motivation**.
+是的。下一个问题通常是关于**动机**。
 
 Motivation. That means the reason why you want to do something.
 动机。意思是你想做某事的原因。
@@ -385,8 +385,8 @@ So, before I go to the interview, I should look at the company website.
 A: Absolutely. You must look at their website on the internet.
 绝对的。你必须在网上看看他们的网站。
 
-You need to understand their mission. Mission.
-你需要了解他们的使命。使命。
+You need to understand their **mission**. Mission.
+你需要了解他们的**使命**。使命。
 
 That is an important business word. It means the main goal of the company.
 这是一个重要的商业词汇。它指的是公司的主要目标。
@@ -412,8 +412,8 @@ Hard work, new ideas. So how do we use this in an answer?
 We do not want to just say "I know your mission". No, you want to show that you match.
 我们不能只是说“我知道你们的使命”。不，你要展示你们是相匹配的。
 
-You want to show alignment.
-你要展示一种契合度（一致性）。
+You want to show **alignment**.
+你要展示一种**契合度**（一致性）。əˈlīnmənt
 
 B: Alignment. To align.
 一致性。Align。
@@ -490,7 +490,7 @@ Now the interviewer gets a little bit deeper.
 They want to know more about us, what we are good at and what we are bad at.
 他们想更多地了解我们，我们擅长什么，不擅长什么。
 
-B: Ah, yes. Strengths and weaknesses.
+B: Ah, yes. **Strengths and weaknesses.**
 啊，是的。优势和劣势。
 
 Strengths and weaknesses, this is a very common part of an interview. Yes.
@@ -502,8 +502,8 @@ What are your strengths, and what are your weaknesses? Let us start with the hap
 Strengths.
 优势。
 
-A: A strength is something you are good at, it is a positive quality.
-优势就是你擅长的事情，是一种积极的品质。
+A: A strength is something you are good at, it is a **positive quality.**
+优势就是你擅长的事情，是一种**积极的品质**。
 
 Right.
 对。
@@ -550,8 +550,8 @@ Bosses love people who are organized. Every boss wants an organized worker.
 That is a very safe, strong word to use. What is another word?
 这是一个非常安全、强有力的词。另一个词是什么？
 
-A: Communicator. You can say "I am a great communicator".
-沟通者。你可以说“我是一个出色的沟通者（communicator）”。
+A: **Communicator**. You can say "I am a great communicator".
+**沟通者**。你可以说“我是一个出色的沟通者（communicator）”。
 
 Communicator. That is about speaking and listening, right?
 沟通者。那是关于说和听的，对吧？
@@ -589,14 +589,14 @@ But now we have to talk about the difficult part.
 B: The weakness question. What is your greatest weakness?
 关于劣势的问题。你最大的劣势是什么？
 
-A weakness is something you are bad at. This is a very tricky question.
-劣势就是你不擅长的事情。这是一个非常棘手的问题。
+A weakness is something you are bad at. This is a very **tricky** question.
+劣势就是你不擅长的事情。这是一个非常**棘手**的问题。
 
 It is. Many people feel afraid when they hear this.
 确实是。许多人听到这个都会感到害怕。
 
-A: It feels like a trick.
-感觉像个陷阱。
+A: It feels like a **trick**.
+感觉像个**陷阱**。
 
 If I tell them I am bad at something, they will not give me the job.
 如果我告诉他们我不擅长某事，他们就不会给我这份工作。
@@ -634,8 +634,8 @@ A: Right, these are very bad mistakes, they will stop the interview. So we canno
 But we also cannot say "I have no weaknesses". Correct.
 但我们也不能说“我没有劣势”。正确。
 
-If you say "I am perfect", you look arrogant, it looks like you do not know yourself.
-如果你说“我很完美”，你看起来就很傲慢，看起来你一点都不了解自己。
+If you say "I am perfect", you look **arrogant**, it looks like you do not know yourself.
+如果你说“我很完美”，你看起来就很**傲慢**，看起来你一点都不了解自己。
 
 You do not know yourself. Yes.
 你不了解你自己。是的。
@@ -643,8 +643,8 @@ You do not know yourself. Yes.
 B: So what is the best plan? How do we answer this safely?
 那么最好的计划是什么？我们如何安全地回答这个问题？
 
-The best plan is a strategy called the twist. The twist, like turning something around.
-最好的计划是一个叫做“反转（the twist）”的策略。反转，就像把某样东西转过来。
+The best plan is a strategy called the **twist**. The twist, like turning something around.
+最好的计划是一个叫做“反转（the twist）”的**策略**。反转，就像把某样东西转过来。
 
 Exactly. You choose a real weakness, but a small one.
 完全正确。你选择一个真实的劣势，但是个小缺点。
@@ -760,7 +760,7 @@ What do they want? Do they want a very long, detailed plan?
 No, they do not want a complex plan. So what are they really asking?
 不，他们不想要一个复杂的计划。那么他们到底在问什么？
 
-A: They are checking for two simple things. Ambition and loyalty.
+A: They are checking for two simple things. **Ambition and loyalty.**
 他们在考察两件简单的事情。抱负和忠诚。
 
 Ambition and loyalty, let us define those words. Ambition.
@@ -916,8 +916,8 @@ You still find a polite, positive way to say it. You can say "I am looking for a
 " A better fit. Like clothes that fit well, a job that fits well.
 ”更好的契合（A better fit）。就像衣服合身一样，一份合适的工作。
 
-That is a very useful phrase. It is very neutral, it does not blame anyone.
-那是一个非常有用的短语。它非常中立，不指责任何人。
+That is a very useful phrase. It is very **neutral**, it does not blame anyone.
+那是一个非常有用的短语。它非常**中立**，不指责任何人。
 
 It keeps the room feeling happy and professional.
 它能保持房间里愉快和专业的氛围。
@@ -1018,7 +1018,7 @@ A: The customers got their coffee, and they were happy because I gave them a fre
 Perfect story. It shows you stay calm, it shows you solve problems.
 完美的故事。这表明你能保持冷静，表明你能解决问题。
 
-This connects to another question they often ask, "How do you handle stress?
+This connects to another question they often ask, "How do you **handle stress**?
 这与他们经常问的另一个问题相关，“你如何应对压力？
 
 " Yes. Stress and pressure.
@@ -1042,8 +1042,8 @@ So what is the good answer? You need to talk about your strategies.
 A strategy is a plan. How do you manage the stress?
 策略就是一个计划。你是如何管理压力的？
 
-A: For example, what is a good plan? Making priority lists.
-比如，什么是好计划？制定优先事项清单。
+A: For example, what is a good plan? Making **priority** lists.
+比如，什么是好计划？制定**优先**事项清单。
 
 Priority lists, writing down what is most important. Yes.
 优先事项清单，写下最重要的事情。是的。
@@ -1072,8 +1072,8 @@ It is. If you look at everything at once, it is very scary.
 If you do just one thing, it is easy.
 如果你只做一件事，就很简单。
 
-It tells the interviewer that in a crisis, you will be steady, you will be reliable.
-这告诉面试官，在危机中，你会很沉稳，很可靠。
+It tells the interviewer that in a crisis, you will be **steady**, you will be reliable.
+这告诉面试官，在危机中，你会很**沉稳**，很可靠。
 
 A: Exactly. Okay, we are reaching the end of the interview.
 完全正确。好的，我们快到面试的尾声了。
@@ -1108,8 +1108,8 @@ If you say no, it sends a bad signal. It signals that you are not curious.
 It looks like you are not really interested in the job.
 看起来你对这份工作并不是真的感兴趣。
 
-A: Right. It looks passive, you are just waiting.
-对。这显得很被动，你只是在等待。
+A: Right. It looks **passive**, you are just waiting.
+对。这显得很**被动**，你只是在等待。**positive**积极
 
 Companies want active people. They want people who are interested.
 公司想要积极主动的人。他们想要感兴趣的人。
@@ -1192,8 +1192,8 @@ Turn your small weakness into an improvement. Fourth, the future.
 The five year plan. Show ambition to grow, but show loyalty to stay at the company.
 五年计划。展示成长的抱负，但也要展示留在公司的忠诚。
 
-B: Fifth, leaving your old job. The most important rule. No negative words, be positive. Sixth, problems and stress. Use the simple structure. Challenge, solution, result. And have a strategy for stress, like making a list. And finally ask questions at the end, be curious, never say no. This is a lot of information, I hope our listeners are feeling good. I hope they feel prepared and confident. Do you have any final words of encouragement for them?
-第五，离开上一份工作。最重要的一条规则。不要有负面的词，保持积极。第六，问题和压力。使用简单的结构：挑战，解决方案，结果。并且要有一个应对压力的策略，比如列清单。最后，在结尾提问，保持好奇，千万别说没有问题。这是大量的信息，我希望我们的听众感觉良好。我希望他们感到准备充分且自信。你对他们有什么最后的鼓励之词吗？
+B: Fifth, leaving your old job. The most important rule. No **negative words**, be positive. Sixth, problems and stress. Use the simple structure. Challenge, solution, result. And have a strategy for stress, like making a list. And finally ask questions at the end, be curious, never say no. This is a lot of information, I hope our listeners are feeling good. I hope they feel prepared and confident. Do you have any final words of encouragement for them?
+第五，离开上一份工作。最重要的一条规则。不要有**负面的词**，保持积极。第六，问题和压力。使用简单的结构：挑战，解决方案，结果。并且要有一个应对压力的策略，比如列清单。最后，在结尾提问，保持好奇，千万别说没有问题。这是大量的信息，我希望我们的听众感觉良好。我希望他们感到准备充分且自信。你对他们有什么最后的鼓励之词吗？
 
 A: Yes. My final advice is simply to practice.
 有的。我最后的建议就是去练习。
@@ -1237,8 +1237,8 @@ Even if you are nervous. Even if it is a phone interview and they cannot see you
 Does smiling really help? It does.
 微笑真的有帮助吗？有帮助。
 
-When you smile, your voice sounds friendlier, you feel more confident inside. And people want to hire friendly people.
-当你微笑时，你的声音听起来会更友善，你内心会感到更自信。而人们想雇佣友善的人。
+When you smile, your voice sounds **friendlier**, you feel more confident inside. And people want to hire friendly people.
+当你微笑时，你的声音听起来会更**友善**，你内心会感到更自信。而人们想雇佣友善的人。
 
 That is exactly right. That is wonderful advice.
 完全正确。那是很棒的建议。
@@ -1270,8 +1270,8 @@ To all our listeners, good luck with your interviews, we know you can do it.
 You have the tools now. Go out there and show them what you can do.
 你们现在拥有了工具。去那里向他们展示你们的能力吧。
 
-Good luck everyone. See you in the next episode.
-祝大家好运。下期节目见。
+Good luck everyone. See you in the next **episode**.
+祝大家好运。**下期节目见**。**插曲，剧集**
 
 Enjoy your coffee. See you next time.
 享受你的咖啡。下次见。

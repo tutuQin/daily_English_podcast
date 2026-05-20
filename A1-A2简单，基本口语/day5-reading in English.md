@@ -7,7 +7,7 @@ B: Hello. It is really great to be here today.
 A: Yes.
 是的。
 
-And today we are doing a deep dive into our source materials about a very special topic.
+And today we are doing a deep dive into our **source materials** about a very special topic.
 今天我们要深入探讨一个非常特别的话题。
 
 We are talking about reading in English.
@@ -34,11 +34,11 @@ That can feel very stressful.
 A: But our research today shows that reading is not just homework. It is actually a secret superpower for learning.
 但我们今天的研究表明，阅读不仅仅是家庭作业。它实际上是学习的一种秘密超能力。
 
-B: I love that phrase, a secret superpower. Because it really is.
+B: I love that phrase, **a secret superpower.** Because it really is.
 我喜欢这个词，“秘密超能力”。因为它真的是。
 
-Let us start with why reading matters. Usually learners focus so much on speaking and listening.
-让我们从为什么阅读很重要开始。通常学习者非常关注说和听。
+Let us start with why reading **matters**. Usually learners focus so much on speaking and listening.
+让我们从为什么阅读很重要开始，**事情**。通常学习者非常关注说和听。
 
 A: Yes, they do.
 是的。
@@ -79,23 +79,28 @@ It helps with vocabulary, yes, but it helps with so much more than just learning
 Which brings us to our first main point. Section one, the benefits of reading.
 这就引出了我们的第一个要点。第一部分，阅读的好处。
 
-The research calls this a passive grammar lesson.
-研究称之为“被动语法课”。
+The research calls this a **passive** grammar lesson.
+研究称之为“**被动**语法课”。
 
-B: Passive learning. That is a great concept.
-被动学习。这是一个很棒的概念。
+B: Passive learning. That is a great **concept**.
+被动学习。这是一个很棒的**概念**。
 
-Passive means you are learning without trying hard, right? You're not sitting there memorizing rules.
-被动意味着你在不费力地学习，对吧？你不是坐在那里死记硬背规则。
+**Passive** means you are learning without trying hard, right? You're not sitting there **memorizing rules.**
+被动意味着你在不费力地学习，对吧？你不是坐在那里**死记硬背规则**。
 
 A: No. Think about how children learn their first language.
 不是的。想想孩子们是如何学习母语的。
 
-They do not study grammar books. They just listen to their parents and notice the patterns.
-他们不学语法书。他们只是听父母说话，然后注意到其中的规律。
+They do not study grammar books. They just listen to their parents and notice the **patterns**.
+他们不学语法书。他们只是听父母说话，然后注意到其中的**规律**（- 模式, 
+- 图案, 
+- 格局, 
+- 方式, 
+- 型, 
+- 样式）。
 
-B: Yes. And reading does the exact same thing for you.
-是的。阅读对你来说也是一样的。
+B: Yes. And reading does the **exact** same thing for you.
+是的。阅读对你来说也是一样的。**精确的**
 
 When you read, you see grammar rules in action. You see how the words fit together perfectly.
 当你阅读时，你能看到语法规则在实际中的应用。你能看到词语是如何完美组合在一起的。
@@ -124,8 +129,8 @@ A: Context is very important. Context means the other words around a new word.
 Right? Because learning a word from a dictionary is not always helpful.
 对吧？因为从字典里学一个词并不总是有帮助。
 
-B: Not at all. A dictionary just gives you a definition.
-完全没有帮助。字典只是给你一个定义。
+B: Not at all. A dictionary just gives you a **definition**.
+完全没有帮助。字典只是给你一个**定义**。
 
 It tells you what the word means alone. But words are almost never alone.
 它告诉你这个词单独的意思。但词语几乎从来都不是孤立存在的。
@@ -193,8 +198,8 @@ A: Oh, English spelling. It could be so confusing.
 B: It is very confusing. Words like though and through.
 是非常令人困惑。像though and through这样的词。
 
-They look similar but sound different. It is a nightmare to remember.
-它们看起来很像，但发音不同。记住它们简直是一场噩梦。
+They look similar but sound different. It is a **nightmare** to remember.
+它们看起来很像，但发音不同。记住它们简直是一场**噩梦**。
 
 But reading helps improve your spelling naturally.
 但是阅读有助于自然而然地提高你的拼写能力。
@@ -217,17 +222,17 @@ A: Right. Your visual memory tells you it is spelled wrong.
 And reading also helps with sentence structure.
 阅读也有助于句子结构。
 
-You mean how sentences are built, like putting the subject first, then the verb.
-你是说句子是如何构建的，比如把主语放在前面，然后是动词。
+You mean how sentences are built, like putting the **subject** first, then the verb.
+你是说句子是如何构建的，比如把**主语**放在前面，然后是动词。
 
 B: Yes.
 是的。
 
-The more you read, the more you feel how a correct English sentence should look and sound.
-你读得越多，你就越能感觉到正确的英语句子看起来和听起来应该是什么样的。
+The more you read, the more you feel how a **correct** English sentence should look and sound.
+你读得越多，你就越能感觉到**正确**的英语句子看起来和听起来应该是什么样的。
 
-A: So reading really is a complete package.
-所以阅读真的是个全能套餐。
+A: So reading really is a **complete package**.
+所以阅读真的是个**全能套餐**。
 
 It helps grammar, vocabulary, spelling, and structure all at the same time while you are just enjoying a good story.
 它能同时帮助你提高语法、词汇、拼写和结构，而你所做的只是享受一个好故事。
@@ -268,7 +273,7 @@ You feel discouraged. You think I am not good at this and you quit.
 A: Exactly. So, our research strongly suggests something else.
 完全正确。所以，我们的研究强烈建议另一种选择。
 
-Recommendation one, children's books.
+**Recommendation** one, children's books.
 推荐一：儿童读物。
 
 B: Children's books.
@@ -277,8 +282,8 @@ B: Children's books.
 I know some adults might think I do not want to read a book for a six-year-old.
 我知道有些成年人可能会想，我才不想读写给六岁小孩的书。
 
-A: It is true some people feel silly, but children's books are brilliant for adults learning English.
-确实有些人会觉得傻，但儿童读物对于学习英语的成年人来说是非常棒的。
+A: It is true some people feel silly, but children's books are **brilliant** for adults learning English.
+确实有些人会觉得傻，但儿童读物对于学习英语的成年人来说是**非常棒**的。
 
 Why are they so good? First, they use very simple sentences, short sentences.
 为什么它们这么好？首先，它们使用非常简单的句子、短句。
@@ -301,8 +306,8 @@ If you read the sentence, the dog is hiding under the bed, and you do not know t
 Yeah. You see the dog under the bed.
 对。你看到狗在床底下。
 
-B: Exactly. You understand the meaning instantly.
-完全正确。你瞬间就能明白意思。
+B: Exactly. You understand the meaning **instantly**.
+完全正确。你**瞬间**就能明白意思。
 
 You do not have to translate the word into your native language. That is great because translating everything takes too much time.
 你不需要把这个词翻译成你的母语。这太棒了，因为把所有东西都翻译一遍太费时间了。
@@ -310,13 +315,13 @@ You do not have to translate the word into your native language. That is great b
 A: It does. Pictures help you understand English in English.
 确实如此。图片能帮助你用英语理解英语。
 
-Okay. So, children's books are highly recommended.
-好的。所以，我们强烈推荐儿童读物。
+Okay. So, children's books are highly **recommended**.
+好的。所以，我们强烈**推荐**儿童读物。
 
 But what if someone really wants a story without pictures? What is the next step?
 但如果有人真的想看没有图片的故事呢？下一步是什么？
 
-B: Recommendation two is my favorite. Graded readers.
+B: Recommendation two is my favorite. **Graded readers.**
 推荐二是我的最爱。分级读物。
 
 Graded readers. Can you explain what a graded reader is?
@@ -337,8 +342,8 @@ B: Exactly. Sometimes they are famous stories but the author only uses simple wo
 They use different levels like A1 or A2.
 他们使用不同的级别，比如A1或A2。
 
-So an A1 book uses very basic words and an A2 book uses slightly more words.
-所以A1级别的书使用非常基础的词汇，而A2级别的书使用稍微多一点的词汇。
+So an A1 book uses very basic words and an A2 book uses **slightly more** words.
+所以A1级别的书使用非常基础的词汇，而A2级别的书使用**稍微多**一点的词汇。
 
 A: Right? The vocabulary is carefully chosen.
 对吧？词汇是经过精心挑选的。
@@ -346,8 +351,8 @@ A: Right? The vocabulary is carefully chosen.
 It is, you know, just right for your level like shoes that fit perfectly.
 它，你知道的，刚好适合你的水平，就像一双完美的鞋子。
 
-B: Yes. If the book is just right, you do not feel overwhelmed.
-是的。如果这本书刚刚好，你就不会感到有压力。
+B: Yes. If the book is just right, you do not feel **overwhelmed**.
+是的。如果这本书刚刚好，你就不会感到**有压力。不堪重负**
 
 You can read the whole story and understand it. Finishing a whole book in English must feel amazing.
 你能读完整个故事并理解它。用英语读完一整本书的感觉一定很棒。
@@ -358,8 +363,8 @@ It gives you so much confidence. You feel like a real reader.
 A: Okay, we have children's books and graded readers. But what if the listener does not like stories at all?
 好的，我们有儿童读物和分级读物。但如果听众根本不喜欢故事怎么办？
 
-B: That is recommendation three, non-fiction and interests. Not everyone likes fiction, right?
-那就是推荐三，非虚构类读物和兴趣爱好。不是每个人都喜欢虚构小说，对吧？
+B: That is recommendation three, **non-fiction** and interests. Not everyone likes fiction, right?
+那就是推荐三，**非虚构类**读物和兴趣爱好。不是每个人都喜欢虚构小说，对吧？
 
 Some people just want facts. They want to learn about the real world.
 有些人只是想要了解事实。他们想了解真实的世界。
@@ -376,8 +381,8 @@ B: That is a great idea.
 You can read about what is happening in the world, but with simple English.
 你可以了解世界上正在发生的事情，但用的是简单的英语。
 
-A: Exactly. Or you can read blogs about your hobbies.
-完全正确。或者你可以读关于你爱好的博客。
+A: Exactly. Or you can read blogs about your **hobbies**.
+完全正确。或者你可以读关于你**爱好**的博客。
 
 Hobbies like cooking or sports or photography.
 比如烹饪、运动或摄影。
@@ -391,11 +396,11 @@ You already know a lot about cooking. Oh, I see.
 Because I know how to cook, the English is easier to guess.
 因为我知道怎么做饭，所以英语更容易猜出来。
 
-A: Exactly. You already understand the ideas, so the words make sense faster.
+A: Exactly. You already understand the ideas, so the **words make sense faster.**
 完全正确。你已经理解了其中的概念，所以词语的意思你能更快明白。
 
-And there is a psychological benefit to this, right?
-这还有一个心理上的好处，对吧？
+And there is a **psychological** benefit to this, right?
+这还有一个**心理上**的好处，对吧？
 
 B: Yes. Reading about things you like makes it feel less like homework.
 是的。阅读你喜欢的东西会让你觉得这不像是做作业。
@@ -505,8 +510,8 @@ The more you practice guessing, the better you get at it. But wait, are we sayin
 A: No. No.
 不。不是的。
 
-Dictionaries are still useful. But we have a rule for when to look words up.
-字典仍然是有用的。但是我们对于何时查单词有一条规则。
+Dictionaries are still useful. But we have a rule for when to l**ook words up.**
+字典仍然是有用的。但是我们对于何时**查单词**有一条规则。
 
 There are two conditions.
 有两个条件。
@@ -520,8 +525,8 @@ A: Condition one. You have seen the word many times.
 Ah like it keeps appearing on every page.
 啊，比如它在每一页上都不断出现。
 
-B: Right. If you see a word once, skip it.
-对。如果你只看到一个词一次，跳过它。
+B: Right. If you see a word once, **skip it.**
+对。如果你只看到一个词一次，**跳过它**。
 
 But if you see it five times, the author is using it a lot.
 但如果你看到了它五次，说明作者用得很多。
@@ -535,20 +540,20 @@ A: Exactly.
 So that is a good time to stop and look it up because you will definitely see it again.
 所以这时候停下来查查它是个好时机，因为你肯定还会再看到它。
 
-That makes perfect sense. What is the second condition?
-这非常有道理。第二个条件是什么？
+That makes perfect **sense**. What is the second condition?
+这非常有**道理**。第二个条件是什么？
 
 B: Condition two, you still do not understand the main point of the story.
 条件二，你仍然不理解故事的主要内容。
 
-Like you are totally lost, right? Let us say you're reading a mystery.
-比如你完全迷失了，对吧？假设你正在读一本悬疑小说。
+Like you are totally lost, right? Let us say you're reading a **mystery**.
+比如你完全迷失了，对吧？假设你正在读一本悬疑**神秘**小说。
 
 The sentence says, "The detective found the blank and solved the crime. " And you do not know the blank word.
 句子上写着，“侦探找到了____，然后破了案。”而你不知道空白处那个词的意思。
 
-A: If you guess and you still have no idea how the detective solved the crime, then you must look it up because it is a roadblock.
-如果你猜了，却仍然不知道侦探是如何破案的，那你就必须查字典，因为它是一个路障。
+A: If you guess and you still have no idea how the detective solved the crime, then you must look it up because it is a **roadblock**.
+如果你猜了，却仍然不知道侦探是如何破案的，那你就必须查字典，因为它是一个**路障。**
 
 You cannot move forward without it.
 没有它你无法前进。
@@ -559,8 +564,8 @@ B: Exactly.
 If the word blocks you from understanding the big picture, look it up.
 如果这个词阻碍了你理解大意，那就查查它。
 
-Otherwise, just guess and keep enjoying the story. Yes.
-否则，就猜一猜，继续享受故事吧。是的。
+**Otherwise**, just guess and keep enjoying the story. Yes.
+**否则**，就猜一猜，继续享受故事吧。是的。
 
 Let the dictionary be your last option, not your first option.
 让字典成为你最后的选择，而不是首选。
@@ -583,8 +588,8 @@ Right?
 If you only read one book a year, it will not help much.
 如果你一年只读一本书，那不会有多大帮助。
 
-No. Consistency versus intensity.
-是的。坚持与高强度。
+No. Consistency **versus** intensity.
+是的。坚持与高强度。**相对**
 
 We need to compare those two things.
 我们需要比较这两件事。
@@ -595,8 +600,8 @@ A: Okay. What does that mean?
 Consistency versus intensity.
 坚持与高强度。
 
-B: Intensity is like reading for two hours on a Sunday. You read a lot all at once. like a big heavy workout at the gym. Yes. And then you do not read again until next Sunday. That is intensity and consistency.
-高强度就像星期天读两个小时的书。你一次性读了很多。就像在健身房进行了一次大强度的锻炼。是的。然后直到下个星期天你才再读书。那就是高强度。那一长串一致性（坚持）呢？
+B: Intensity is like reading for two hours on a Sunday. You read a lot all at once. like a big heavy **workout** at the gym. Yes. And then you do not read again until next Sunday. That is intensity and consistency.
+高强度就像星期天读两个小时的书。你一次性读了很多。就像在健身房进行了一次大强度的**锻炼**。是的。然后直到下个星期天你才再读书。那就是高强度。那一长串一致性（坚持）呢？
 
 A: Consistency is reading for just 10 or 15 minutes, but doing it every single day.
 坚持是指只读10或15分钟，但每天都读。
@@ -616,7 +621,7 @@ Why is that? 2 hours sounds like a lot of reading.
 A: It is, but the brain prefers daily practice. Simply put, your memory needs to be refreshed.
 是的，但是大脑更喜欢日常练习。简单地说，你的记忆需要被刷新。
 
-Like watering a plant. Yes.
+Like **watering a plan**t. Yes.
 就像给植物浇水一样。是的。
 
 If you give a plant a huge bucket of water once a month, it might die.
@@ -679,8 +684,8 @@ When you try to speak from your own head, you might stop and say um or worry abo
 But when you read, the grammar is already perfect. You just say the words.
 但是当你阅读时，语法已经是完美的了。你只需把词读出来。
 
-A: Yes. And the second benefit is practicing the rhythm of English.
-是的。第二个好处是练习英语的节奏。
+A: Yes. And the second benefit is practicing the **rhythm** of English.
+是的。第二个好处是练习英语的**节奏**。
 
 Like the music of the language, right? English goes up and down.
 就像语言的音乐，对吧？英语有抑扬顿挫。
@@ -724,8 +729,8 @@ It will change everything.
 A: Okay, we have covered so much amazing information in this deep dive.
 好了，我们在这个深入探讨中涵盖了这么多惊人的信息。
 
-Let us do a quick summary of the key points in our outro.
-让我们在结尾部分快速总结一下要点。
+Let us do a quick summary of **the key points in our outro.**
+让我们在**结尾部分快速总结一下要点。**
 
 A quick review is always good to remember what we learned.
 快速复习总是有助于记住我们学到的东西。
@@ -793,11 +798,12 @@ B: You can comment if you are on a platform that allows it or just think about y
 Choose that graded reader or that children's book. Just start.
 选择那本分级读物或儿童读物。开始读就行。
 
-A: Now, before we say goodbye, here is a final thought for you to explore on your own.
-现在，在我们说再见之前，最后给大家留个思考题让你们自己去探索。
+A: Now, before we say goodbye, here is a final **thought** for you to explore on your own.
+现在，在我们说再见之前，最后给大家留个**思考题**让你们自己去探索。
 
-Something provocative to think about.
-一些能引发思考的东西。
+Something **provocative** to think about.
+一些能引发思考的东西。**- 挑衅,** 
+- **气人的**
 
 B: Yes. Think about this.
 是的。想想这个。
@@ -808,8 +814,8 @@ As you read aloud in English and practice these new words, do you feel like you 
 Oh, that is very interesting.
 哦，那非常有趣。
 
-A: Does your English reading voice feel more confident or maybe more dramatic than your native language voice?
-你的英语朗读声是否感觉比你的母语声更自信，或者更戏剧化？
+A: Does your English reading voice feel more confident or maybe more **dramatic** than your native language voice?
+你的英语朗读声是否感觉比你的母语声更自信，或者更**戏剧化？**
 
 That is a fun thing to notice about yourself when you practice. Reading might just bring out a whole new side of you.
 这是你在练习时可以注意的一个有趣的现象。阅读可能刚好能激发出你全新的一面。

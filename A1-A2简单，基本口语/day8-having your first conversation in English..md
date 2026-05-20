@@ -7,8 +7,8 @@ It is it is so wonderful to be here with you today.
 B: I am your friendly guide for this deep dive. And I am so happy you are listening to us.
 我是你们这次深度探索的友好向导。我很高兴你们在收听我们的节目。
 
-And I am your helpful partner. We want to make your English journey fun, easy, and interesting.
-我是你们得力的伙伴。我们想让你们的英语学习之旅变得有趣、轻松且引人入胜。
+And I am your helpful **partner**. We want to make your English journey fun, easy, and interesting.
+我是你们得力的**伙伴**。我们想让你们的英语学习之旅变得有趣、轻松且引人入胜。
 
 A: Today we have a very special deep dive. We are looking very closely at one big topic.
 今天我们有一个非常特别的深度探索。我们将非常仔细地探讨一个大话题。
@@ -91,8 +91,8 @@ A: No, it is not grammar or words. The first thing is the mindset.
 Right, the mindset. That means how you think, it is your attitude.
 对，心态。这意味着你如何思考，它是你的态度。
 
-B: Exactly. There is a core philosophy in our research today.
-完全正确。我们今天的研究中有一个核心理念。
+B: Exactly. There is a core **philosophy** in our research today.
+完全正确。我们今天的研究中有一个核心**理念**。**philosophy：哲学，原理**
 
 It is a very simple phrase, but it is very powerful. What is the phrase?
 这是一个非常简单的短语，但它非常有力量。是什么短语？
@@ -112,8 +112,8 @@ Let us talk about perfection first. What does a perfectionist do in a conversati
 B: Well, a perfectionist wants everything to be 100% correct. Right.
 嗯，完美主义者希望一切都百分之百正确。对。
 
-They want the perfect verb. They want the perfect preposition.
-他们想要完美的动词。他们想要完美的介词。
+They want the perfect verb. They want the perfect **preposition**.
+他们想要完美的动词。他们想要完美的**介词**。
 
 They want to sound exactly like a grammar textbook.
 他们希望自己听起来完全像一本语法教科书。
@@ -157,8 +157,8 @@ Even if your grammar is terrible. Can you give me an example of connection with 
 A: Sure. Imagine you are very hungry.
 当然可以。想象你非常饿。
 
-You go to a food shop. You look at the shopkeeper and you say "me, hungry, sandwich, want".
-你走进一家食品店。你看着店主说“我，饿，三明治，要”。
+You go to a food shop. You look at the **shopkeeper** and you say "me, hungry, sandwich, want".
+你走进一家食品店。你看着**店主**说“我，饿，三明治，要”。
 
 Wow. That is very bad grammar.
 哇。那语法真是太差了。
@@ -190,8 +190,8 @@ And you do not need to be perfect to make a friend either.
 B: People care about your ideas, not your grammar rules.
 人们在乎的是你的想法，而不是你的语法规则。
 
-To help us understand this, our source material uses a really wonderful analogy.
-为了帮助我们理解这一点，我们的素材使用了一个非常棒的比喻。
+To help us understand this, our source material uses a really wonderful **analogy**.
+为了帮助我们理解这一点，我们的素材使用了一个非常棒的比喻。əˈnaləjē
 
 An analogy is a comparison. It helps us see the idea in our mind.
 比喻就是一种比较。它能帮助我们在脑海中把这个想法具象化。
@@ -316,8 +316,8 @@ A: Yes.
 In some cultures, when you ask "how are you", people give a very long answer.
 在一些文化中，当你问“你好吗”时，人们会给出一个很长的回答。
 
-Right, they talk about their health, they talk about their back pain, they talk about their bad sleep.
-对，他们谈论自己的健康，谈论他们的背痛，谈论他们糟糕的睡眠。
+Right, they talk about their health, they talk about their **back pain**, they talk about their bad sleep.
+对，他们谈论自己的健康，谈论他们的**背痛**，谈论他们糟糕的睡眠。
 
 B: But in English, "how are you" is usually just a greeting. It is like saying hello again.
 但在英语中，“你好吗”通常只是一句问候。就像是再说了一次你好。
@@ -439,8 +439,8 @@ B: Okay, so we have started, we said hello, we asked how they are.
 Now we are in section three. Section three is what to talk about.
 现在我们进入第三部分。第三部分是聊些什么。
 
-This is the panic moment. You think, oh no, what do I say next?
-这就是恐慌时刻了。你在想，哦不，接下来我该说什么？
+This is the **panic** moment. You think, oh no, what do I say next?
+这就是**恐慌**时刻了。你在想，哦不，接下来我该说什么？
 
 A: We need topics. We need safe topics.
 我们需要话题。我们需要安全的话题。
@@ -478,14 +478,14 @@ B: We might be from different countries, we might have very different jobs.
 But we are both standing in the same rain. Right.
 但我们都站在同一场雨中。对。
 
-Or we are both sweating in the same hot sun. It connects us instantly.
-或者我们都在同一个烈日下流汗。它立刻把我们联系在了一起。
+Or we are both **sweating** in the same hot sun. It connects us instantly.
+或者我们都在同一个烈日下**流汗**。它立刻把我们联系在了一起。
 
 So, how do we start a conversation about weather?
 那么，我们如何开始一个关于天气的对话呢？
 
-A: You can just make a simple observation.
-你可以只做一个简单的观察。
+A: You can just make a simple **observation**.
+你可以只做一个简单的**观察**。
 
 If it is sunny, you can say "It is a beautiful day, isn't it?
 如果是晴天，你可以说“今天天气真好，不是吗？
@@ -604,11 +604,11 @@ So simplify it. Make it easy.
 Instead of the long title, you can just say "I work in a business office".
 你可以不说那一长串头衔，只说“我在一家商务办公室工作”。
 
-Or "I work in logistics".
-或者“我从事物流工作”。
+Or "I work in **logistics**".
+或者“我从事物流工作”。**后勤，物流**
 
-B: If you are a specialized brain surgeon, just say "I am a doctor".
-如果你是一名专业的脑外科医生，直接说“我是一名医生”。
+B: If you are a specialized brain **surgeon**, just say "I am a doctor".
+如果你是一名专业的脑**外科医生**，直接说“我是一名医生”。
 
 Start with the big category. Start simple.
 从大类别开始。简单开始。
@@ -637,8 +637,8 @@ B: But please be careful, we mean light current events. Light means not heavy.
 Not sad. Not serious.
 不悲伤。不严肃。
 
-Do not talk about politics. Do not talk about war.
-不要谈论政治。不要谈论战争。
+Do not talk about **politics**. Do not talk about war.
+不要谈论**政治**。ˈpäləˌtiks不要谈论战争。
 
 Do not talk about sad news in the beginning. Talk about things that are fresh and fun.
 一开始不要谈论悲伤的新闻。谈论新鲜有趣的事情。
@@ -697,8 +697,8 @@ I turned to the person next to me, and I just asked "Do you like pizza?
 A: And what happened? We talked for 20 minutes about pizza.
 然后发生了什么？我们聊了20分钟的披萨。
 
-We talked about the best cheese. We talked about our favorite toppings.
-我们聊了最好的奶酪。我们聊了我们最喜欢的配料。
+We talked about the best cheese. We talked about our favorite **toppings**.
+我们聊了最好的奶酪。我们聊了我们最喜欢的**配料**。
 
 It saved the conversation completely. That is wonderful.
 它彻底拯救了那场对话。那太棒了。
@@ -721,8 +721,8 @@ Yes.
 We do not want to just jump from one topic to another topic very fast.
 我们不想非常快地从一个话题跳到另一个话题。
 
-That feels like a job interview. Or a police interrogation.
-那感觉像是在面试工作。或者是警察审问。
+That feels like a job interview. Or a police **interrogation**.
+那感觉像是在面试工作。或者是警察**审问**。
 
 Name. John.
 姓名。约翰。
@@ -751,8 +751,8 @@ A: This is like magic. A follow-up question is a question you ask after the firs
 It connects to what the person just said. Think of a tree.
 它与那个人刚才说的话相连。想象一棵树。
 
-The first question is the big trunk of the tree. The follow-up questions are the smaller branches.
-第一个问题是树的粗树干。后续问题是较小的树枝。
+The first question is the big **trunk** of the tree. The follow-up questions are the smaller branches.
+第一个问题是树的粗**树干**。后续问题是较小的树枝。
 
 We want a big tree with many branches.
 我们想要一棵有很多树枝的大树。
@@ -796,11 +796,11 @@ We climbed the tree, we went deeper into the branches. This is great for you, th
 Because you do not need to think of a new topic. You just ask more about the same topic.
 因为你不需要去想一个新话题。你只需就同一个话题问更多问题。
 
-B: It takes the pressure off you. You just need to be curious.
-它减轻了你的压力。你只需要保持好奇。
+B: It takes the pressure off you. You just need to be **curious**.
+它减轻了你的压力。你只需要保持**好奇**。
 
-Curiosity is the fuel. If you are interested in the person, the questions come naturally.
-好奇心就是燃料。如果你对这个人感兴趣，问题自然而然就来了。
+Curiosity is the **fuel**. If you are interested in the person, the questions come naturally.
+好奇心就是**燃料**。如果你对这个人感兴趣，问题自然而然就来了。
 
 Really? Tell me more.
 “真的吗？多跟我说说（Tell me more）。
@@ -841,8 +841,8 @@ We call this non-verbal communication. This means body language.
 Communication without using words. What is the most important movement?
 不使用语言的交流。最重要的动作是什么？
 
-The head nod. Yes.
-点头。是的。
+The head **nod**. Yes.
+**点头**。是的。
 
 Nodding your head.
 点头。
@@ -862,8 +862,8 @@ Look at their eyes. Do not look at your shoes.
 Do not look at your phone. And smile.
 不要看你的手机。微笑。
 
-A: A smile is international. It says "I am friendly. " But we can also use small sounds. We call these verbal fillers. These are very small words or sounds. They are not full sentences. Sounds like "uh-huh". Or "hmm". Or short words like "really? " or "wow". Or "nice".
-微笑是国际通用的。它在说“我很友好”。但我们也可以使用一些小声音。我们称之为语气词（填充词）。这些是非常小的词或声音。它们不是完整的句子。像“嗯哼（uh-huh）”这样的声音。或者“嗯（hmm）”。或者简短的词如“真的吗（really?）”或“哇（wow）”。或“不错（nice）”。
+A: A smile is international. It says "I am friendly. " But we can also use small sounds. We call these verbal **fillers**. These are very small words or sounds. They are not full sentences. Sounds like "uh-huh". Or "hmm". Or short words like "really? " or "wow". Or "nice".
+微笑是国际通用的。它在说“我很友好”。但我们也可以使用一些小声音。我们称之为语气词（**填充词**）。这些是非常小的词或声音。它们不是完整的句子。像“嗯哼（uh-huh）”这样的声音。或者“嗯（hmm）”。或者简短的词如“真的吗（really?）”或“哇（wow）”。或“不错（nice）”。
 
 B: These small sounds are very powerful. They keep the energy up.
 这些小声音非常有力量。它们能保持聊天的能量。
@@ -937,8 +937,8 @@ So section six is overcoming challenges. We call this troubleshooting.
 A: Troubleshooting means fixing problems. Let us look at the biggest fears from our sources.
 故障排除就是解决问题。让我们看看我们素材里最大的恐惧。
 
-The first fear is the accent. Many learners worry about this.
-第一个恐惧是口音。很多学习者担心这个。
+The first fear is the **accent**. Many learners worry about this.
+第一个恐惧是**口音**。很多学习者担心这个。
 
 They say "I sound French. I sound Spanish.
 他们说“我听起来像法国口音。我听起来像西班牙口音。
@@ -1006,8 +1006,8 @@ Your brain goes completely blank. You do not understand any words.
 What do you do?
 你该怎么做？
 
-A: The most important rule is do not pretend. Do not just nod and smile and say yes.
-最重要的规则是不要假装听懂。不要只是点头微笑说“yes”。
+A: The most important rule is do not **pretend**. Do not just nod and smile and say yes.
+最重要的规则是不要**假装**听懂。不要只是点头微笑说“yes”。
 
 Imagine they asked "Did you steal my car? " And you smiled and said yes.
 想象一下他们问“你偷了我的车吗？”然后你微笑着说yes。
@@ -1018,8 +1018,8 @@ That would be a complete disaster.
 B: So, you must stop the conversation. It is okay to stop.
 所以，你必须停下这段对话。停下来没关系。
 
-You need repair phrases. Phrases to fix the problem.
-你需要修复短语。用来解决问题的短语。
+You need **repair** phrases. Phrases to fix the problem.
+你需要**修复**短语。用来解决问题的短语。
 
 Phrase number one. Could you please repeat that?
 短语一。你能重复一遍吗？
@@ -1102,8 +1102,8 @@ Exactly. The umbrella.
 Thank you. "
 谢谢。”
 
-B: You solved the puzzle together. You kept the ball in play.
-你们一起解开了谜题。你让球保持了运动状态。
+B: You solved the **puzzle** together. You kept the ball in play.
+你们一起解开了**谜题**。你让球保持了运动状态。
 
 This is a very important skill. It means talking around the word.
 这是一项非常重要的技能。意味着绕着那个词解释。
@@ -1111,8 +1111,8 @@ This is a very important skill. It means talking around the word.
 You can practice this creative skill at home.
 你可以在家练习这个创造性的技能。
 
-A: Look at a lamp in your room. If you forget the word lamp, how do you describe it?
-看看你房间里的灯。如果你忘了“lamp”这个词，你怎么描述它？
+A: Look at a **lamp** in your room. If you forget the word lamp, how do you describe it?
+看看你房间里的**灯**。如果你忘了“lamp”这个词，你怎么描述它？
 
 I would say "the thing that makes light". Look at a chair.
 我会说“那个发光的东西”。看一把椅子。
@@ -1165,8 +1165,8 @@ A: Takeaway number four is listen actively. Nod your head.
 Smile. Say "uh-huh".
 微笑。说“嗯哼”。
 
-Takeaway number five is troubleshoot calmly. Do not worry about your accent.
-要点五是冷静地解决问题。不要担心你的口音。
+Takeaway number five is troubleshoot **calmly**. Do not worry about your **accent**.
+要点五是**冷静**地解决问题。不要担心你的**口音**。
 
 Ask people to repeat, describe the words you forget.
 请别人重复，描述你忘记的词。
@@ -1190,7 +1190,7 @@ Talk in your car. Talk to your pet dog.
 在车里说话。跟你的宠物狗说话。
 
 Stand in front of a mirror in your house. Look at yourself.
-站在你家里的镜子前。看着你自己。
+站在你家里的镜子前。看着你自己。ˈmirər****
 
 Say out loud "Hello. How are you?
 大声说“你好。你好吗？
@@ -1207,8 +1207,8 @@ I work in an office.
 " It helps your mouth muscles, it helps your brain remember the words.
 ”这能锻炼你嘴部的肌肉，能帮助你的大脑记住这些词。
 
-And remember our big motto today. Every short conversation is a victory.
-记住我们今天伟大的座右铭。每一次简短的对话都是一场胜利。
+And remember our big **motto** today. Every short conversation is a victory.
+记住我们今天伟大的**座右铭**ˈmädō。每一次简短的对话都是一场胜利。
 
 A: If you speak for 30 seconds, you won. If you speak for 2 minutes, you won.
 如果你说了30秒，你赢了。如果你说了2分钟，你赢了。

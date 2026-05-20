@@ -58,8 +58,8 @@ B: Exactly. So, we will speak at a comfortable pace today.
 It will be easy to follow. Very easy.
 这会很容易跟上。非常容易。
 
-Please, just sit back. Relax, maybe get a cup of tea or some coffee.
-请往后靠。放松一下，也许可以拿杯茶或咖啡。
+Please, just **sit back.** Relax, maybe get a cup of tea or some coffee.
+**请往后靠**。放松一下，也许可以拿杯茶或咖啡。
 
 Let's just enjoy this time together.
 让我们一起享受这段时光。
@@ -94,8 +94,8 @@ Yes, balance.
 We try to balance our job with our free time, we try to balance our hard effort with our rest.
 我们试图在工作和空闲时间之间找到平衡，我们试图在努力付出和休息之间找到平衡。
 
-B: So in the material we have today, we are following two characters.
-所以在今天的素材中，我们要关注两个人物。
+B: So in the material we have today, we are following two **characters**.
+所以在今天的素材中，我们要关注两个**人物**。
 
 Paul, and Emily. They are just normal people.
 保罗和艾米丽。他们只是普通人。
@@ -136,8 +136,8 @@ We will start with a character named Paul.
 B: Paul. Yes, Paul.
 保罗。是的，保罗。
 
-He is reflecting on his week. He is looking back at the past few days.
-他在回顾他的一周。他在回顾过去的几天。
+He is **reflecting** on his week. He is looking back at the past few days.
+他在**回顾**他的一周。他在回顾过去的几天。
 
 And how was his week? Was it a calm week?
 他这周过得怎么样？是平静的一周吗？
@@ -187,8 +187,8 @@ What is the detail?
 A: It makes me feel tired just thinking about it. He says the project involved a lot of numbers.
 只是想想就让我觉得累。他说这个项目涉及大量的数字。
 
-Oh numbers. That gives us a clue about his job.
-哦，数字。这为我们提供了关于他工作的线索。
+Oh numbers. That gives us a **clue** about his job.
+哦，数字。这为我们提供了关于他工作的**线索。**
 
 Maybe he works in a bank.
 也许他在银行工作。
@@ -199,14 +199,14 @@ B: Yeah, maybe a bank. Or maybe he is an engineer.
 Dealing with a lot of numbers can be very tiring for the brain.
 处理大量数字对大脑来说会非常累。
 
-It is mental work. It requires a lot of focus.
-这是脑力劳动。这需要高度的专注。
+It is **mental** work. It requires a lot of focus.
+这是**脑力**劳动。这需要高度的专注。
 
 A: That is true. When you work with numbers all day, your brain feels heavy.
 那是真的。当你一整天都在处理数字时，你的大脑会感到沉重。
 
-Heavy and tired. We call this mental fatigue.
-沉重又疲惫。我们称之为脑力疲劳。
+Heavy and tired. We call this mental **fatigue**.
+沉重又疲惫。我们称之为脑力**疲劳。**
 
 You are not tired because you ran a fast race, you are tired because you thought too hard.
 你不是因为跑得快而累，你是因为思考过度而累。
@@ -229,8 +229,8 @@ The work is finished, it is in the past. Yes.
 But now, in the present, he feels better.
 但现在，在当下，他感觉好多了。
 
-B: He did something interesting to help himself feel better though. He needed to find a balance.
-不过，他做了一些有趣的事情来让自己感觉好点。他需要找到一种平衡。
+B: He did something interesting to help himself feel better **though**. He needed to find a balance.
+**不过**，他做了一些有趣的事情来让自己感觉好点。他需要找到一种平衡。
 
 Balance is so important.
 平衡太重要了。
@@ -241,8 +241,8 @@ So on Monday evening, after a very hard day, he went to the gym.
 A: The gym. That is a place to exercise.
 健身房。那是一个锻炼身体的地方。
 
-A place to run on a machine or lift heavy weights. Now this is fascinating to me.
-一个在机器上跑步或举重的地方。这让我很着迷。
+A place to run on a machine or lift heavy weights. Now this is **fascinating** to me.
+一个在机器上跑步或举重的地方。这让我很**着迷**。
 
 Why do you think he went to the gym after a hard day of work?
 你认为他为什么在辛苦工作一天后去健身房？
@@ -253,8 +253,8 @@ B: That is a good question.
 Because if I am tired, I usually want to sit on the sofa.
 因为如果我累了，我通常想坐在沙发上。
 
-I think it is because he needed to change his focus. Yes, we call this switching contexts.
-我想是因为他需要转移注意力。是的，我们称之为切换语境（转换环境）。
+I think it is because he needed to change his focus. Yes, we call this **switching contexts.**
+我想是因为他需要转移注意力。是的，我们称之为**切换语境**（转换环境）。
 
 A: His brain was tired from the numbers. But his body was not tired.
 他的大脑因为数字而疲惫。但他的身体并不累。
@@ -280,14 +280,14 @@ A: Now let's look at Emily. Her week was a little different.
 Emily also had a busy week, but she tells a funny story about it.
 艾米丽也度过了忙碌的一周，但她讲了一个关于它的有趣故事。
 
-She calls it a supermarket adventure.
-她称之为超市大冒险。
+She calls it a supermarket **adventure**.
+她称之为超市大**冒险**。
 
 B: I really love that phrase. Supermarket adventure.
 我真的很喜欢那个短语。超市大冒险。
 
-Usually the supermarket is boring. It is a chore.
-通常去超市很无聊。这是一项家务。
+Usually the supermarket is boring. It is a **chore**.
+通常去超市很无聊。这是一项**家务**。
 
 Right. It is not an adventure.
 对。这不是什么冒险。
@@ -319,14 +319,14 @@ Yes, usually. It is usually in the back of the store.
 But not this time.
 但这次不一样。
 
-A: Emily says she ended up in the juice aisle. The juice aisle.
-艾米丽说她最后去了果汁通道。果汁通道。
+A: Emily says she ended up in the juice aisle. The juice **aisle**.
+艾米丽说她最后去了果汁通道。果汁**通道**。īl
 
 That is the wrong place. Very wrong.
 那是错的地方。大错特错。
 
-Milk is in the dairy section, juice is in a completely different section.
-牛奶在乳制品区，果汁在一个完全不同的区。
+Milk is in the **dairy** section, juice is in a completely different section.
+牛奶在**乳制品区**，果汁在一个完全不同的区。
 
 She was lost.
 她迷路了。
@@ -334,8 +334,8 @@ She was lost.
 B: She admits she was lost. She uses a great phrase here.
 她承认她迷路了。她在这里用了一个很棒的短语。
 
-She says she walked in circles. Walked in circles.
-她说她在原地兜圈子。原地兜圈子（walked in circles）。
+She says she walked in circles. **Walked in circles**.
+她说她在原地兜圈子。**原地兜圈子**（walked in circles）。
 
 I can picture this in my mind. Just walking around and around.
 我可以在脑海中想象出这个画面。就是一圈又一圈地走。
@@ -373,8 +373,8 @@ B: No, she did not. She said a nice lady helped her.
 A nice lady. That is sweet.
 一位好心的女士。真贴心。
 
-Sometimes we just need to ask for help. This is a key insight for our listeners.
-有时我们只需要寻求帮助。这对我们的听众来说是一个关键的见解。
+Sometimes we just need to ask for help. This is a key **insight** for our listeners.
+有时我们只需要寻求帮助。这对我们的听众来说是一个关键的**见解。洞察力**
 
 A: It is a funny relatable story about a simple task. She went for milk, she got lost, she got help.
 这是一个关于简单任务的有趣且能引起共鸣的故事。她去买牛奶，她迷路了，她得到了帮助。
@@ -415,8 +415,8 @@ You can say, I am going on a coffee adventure. It makes life sound more exciting
 And circles describes the movement, walking round and round.
 而兜圈子描述了这种一圈圈走的动作。
 
-A: It paints a very clear picture.
-它描绘了一幅非常清晰的画面。
+A: It **paints** a very clear picture.
+它**描绘**了一幅非常清晰的画面。
 
 So we have covered the work and the shopping, but the week is not just about chores.
 所以我们讲了工作和购物，但一周不仅仅是琐事。
@@ -427,8 +427,8 @@ No it is not. It is also about food.
 Food is a very important part of culture and daily life. It brings people together.
 食物是文化和日常生活中非常重要的一部分。它把人们聚在一起。
 
-B: Let's move to part two of our deep dive. Let's talk about cooking and decompressing.
-让我们进入深度探索的第二部分。让我们谈谈做饭和减压。
+B: Let's move to part two of our deep dive. Let's talk about cooking and **decompressing**.
+让我们进入深度探索的第二部分。让我们谈谈做饭和**减压。**
 
 Decompressing. That is a big word.
 减压（Decompressing）。这是个大词。
@@ -442,8 +442,8 @@ A: Of course. To decompress means to relax.
 It means to release pressure. Release pressure.
 它的意思是释放压力。释放压力。
 
-Think of a balloon.
-想象一个气球。
+Think of a **balloon**.
+想象一个**气球**。bəˈlo͞on
 
 If a balloon has too much air inside, it is tight and hard.
 如果一个气球里面有太多的空气，它就很紧很硬。
@@ -475,26 +475,26 @@ B: On Monday, she cooked a new recipe. Cooking can be a wonderful way to relax.
 It is creative. You use your hands.
 它具有创造性。你使用你的双手。
 
-You smell the food, you taste the fresh ingredients.
-你闻到食物的香味，你品尝新鲜的食材。
+You smell the food, you taste the fresh **ingredients**.
+你闻到食物的香味，你品尝新鲜的**食材。**原料
 
-A: She made a vegetable curry. Curry is a very popular dish.
-她做了一道蔬菜咖喱。咖喱是一道非常受欢迎的菜。
+A: She made a vegetable **curry**. Curry is a very popular dish.
+她做了一道蔬菜**咖喱**。咖喱是一道非常受欢迎的菜。
 
-It usually has a rich sauce and many spices. It is warm and comforting.
-它通常有浓郁的酱汁和许多香料。它是温暖且令人感到安慰的。
+It usually has a rich sauce and many **spices**. It is warm and comforting.
+它通常有浓郁的酱汁和许多**香料**。它是温暖且令人感到安慰的。
 
 Emily describes the taste of her curry. She says it was spicy but delicious.
 艾米丽描述了她的咖喱的味道。她说它很辣但很美味。
 
-B: Spicy. That means it had a strong flavor.
-辣的（Spicy）。意思是它味道很重。
+B: Spicy. That means it had a strong **flavor**.
+辣的（Spicy）。意思是它**味道**很重。
 
-Maybe it was hot, like a chili pepper. It makes your mouth feel warm.
-也许它很辣，像辣椒一样。它让你的嘴里感觉火辣辣的。
+Maybe it was hot, like a **chili pepper**. It makes your mouth feel warm.
+也许它很辣，像**辣椒**一样。它让你的嘴里感觉火辣辣的。 pepper.胡椒
 
-Some people really love spicy food. Some people do not like it at all.
-有些人非常喜欢辛辣的食物。有些人则一点也不喜欢。
+Some people really love **spicy** food. Some people do not like it at all.
+有些人非常喜欢**辛辣**的食物。有些人则一点也不喜欢。
 
 A: Emily seems to like it. She says cooking is so relaxing for me.
 艾米丽似乎很喜欢。她说做饭对我来说太放松了。
@@ -511,8 +511,8 @@ B: Right. But for Emily, it is a joy.
 It helps her forget about the supermarket. It helps her forget the busy week.
 这帮她忘记了超市的事。这帮她忘记了忙碌的一周。
 
-When she is cooking, she is only thinking about the food. It is a form of mindfulness.
-当她做饭时，她只想着食物。这是一种正念（专注于当下）的形式。
+When she is cooking, she is only thinking about the food. It is a form of **mindfulness**.
+当她做饭时，她只想着食物。这是一种**正念**（专注于当下）的形式。
 
 A: She is present in the moment. It is a nice contrast to Paul.
 她活在当下。这和保罗形成了很好的对比。
@@ -520,8 +520,8 @@ A: She is present in the moment. It is a nice contrast to Paul.
 Yes it is. Paul used his body at the gym to get rid of stress.
 是的。保罗在健身房利用身体来消除压力。
 
-Emily used her creativity in the kitchen to get rid of stress. Both are valid ways to relax.
-艾米丽在厨房利用创造力来消除压力。两者都是放松的有效方式。
+Emily used her creativity in the kitchen to get **rid** of stress. Both are valid ways to relax.
+艾米丽在厨房利用创造力来**消除**压力。两者都是放松的有效方式。
 
 There is no right or wrong way.
 没有对错之分。
@@ -577,11 +577,11 @@ But on Saturday, he hopes to sleep until 9 or 10 in the morning.
 B: That sounds lovely. Just staying in bed, resting.
 听起来真好。就待在床上休息。
 
-It is a true luxury. He mentions a specific detail that I really love.
-这真是个奢侈的享受。他提到了一个我非常喜欢的具体细节。
+It is a true **luxury**. He mentions a specific detail that I really love.
+这真是个**奢侈**的享受。他提到了一个我非常喜欢的具体细节。
 
-He talks about his favorite soft pillow. His favorite soft pillow.
-他谈到了他最喜欢的柔软的枕头。他最喜欢的柔软的枕头。
+He talks about his favorite soft **pillow**. His favorite soft pillow.
+他谈到了他最喜欢的柔软的**枕头**。他最喜欢的柔软的枕头。
 
 A: That detail makes the story very real. We all have a favorite pillow.
 那个细节让故事变得非常真实。我们都有一个最喜欢的枕头。
@@ -592,20 +592,20 @@ Or maybe a favorite warm blanket. It makes us feel safe, it makes us feel comfor
 It emphasizes how much he wants to rest.
 它强调了他有多想休息。
 
-B: He wants comfort, he wants to recharge his battery. And after he finally wakes up, does he run a fast marathon?
-他想要舒适，他想要给自己充电。在终于醒来后，他去跑马拉松了吗？
+B: He wants comfort, he wants to **recharge** his **battery**. And after he finally wakes up, does he run a fast marathon?
+他想要舒适，他想要给自己充电。**电池。**在终于醒来后，他去跑马拉松了吗？
 
 Does he go back to the gym? No.
 他回健身房了吗？没有。
 
-He keeps his day very slow. He plans to read a mystery book.
+He keeps his day very slow. He plans to read a **mystery** book.
 他把这一天安排得很慢节奏。他打算读一本悬疑小说。
 
 A: A mystery book. That is a specific genre of book.
 一本悬疑小说。这是一种特定的书籍类型。
 
-It is a story where you have to find the answer. Usually there is a puzzle.
-它是一个你需要去寻找答案的故事。通常会有一个谜题。
+It is a story where you have to find the answer. Usually there is a **puzzle**.
+它是一个你需要去寻找答案的故事。通常会有一个**谜题。**
 
 Or a crime to solve. You read and you wonder, who did it?
 或者一桩需要侦破的犯罪案件。你一边读一边纳闷：是谁干的？
@@ -649,8 +649,8 @@ It is a productive Saturday. Yes, a productive Saturday.
 A: Yeah. She has chores.
 是的。她有家务要做。
 
-She says, I have to clean my apartment. Cleaning, washing the floors, dusting the shelves, organizing clothes.
-她说，我必须打扫我的公寓。打扫，洗地板，给架子除尘，整理衣服。
+She says, I have to clean my apartment. Cleaning, washing the floors, **dusting the shelves,** organizing clothes.
+她说，我必须打扫我的公寓。打扫，洗地板，**给架子除尘**，整理衣服。
 
 Most people do not find this relaxing.
 大多数人并不觉得这很让人放松。
@@ -658,8 +658,8 @@ Most people do not find this relaxing.
 B: No, they do not. But Emily has a trick to make it better.
 不，他们不这么认为。但艾米丽有个窍门能让这件事变得更好。
 
-She wants to make it fun. She says she will blast some happy pop music.
-她想让它变得有趣。她说她会大声播放一些欢快的流行音乐。
+She wants to make it fun. She says she will **blast** some happy pop music.
+她想让它变得有趣。她说她会大声播放一些欢快的流行音乐。blast爆炸
 
 To blast music means to play it very loud, high volume.
 大声播放音乐（blast music）的意思是把它放得很大声、高音量。
@@ -724,8 +724,8 @@ Emily's Saturday is about action. It is loud with music, it is social.
 It is about getting things done.
 是关于把事情做完的。
 
-B: Which one sounds better to you? Ideally I like a mix of both.
-哪一个听起来更合你心意？理想情况下，我喜欢两者的结合。
+B: Which one sounds better to you? **Ideally** I like a mix of both.
+哪一个听起来更合你心意？**理想情况下**，我喜欢两者的结合。
 
 But if I had a week with a lot of numbers like Paul, I think I would choose the pillow.
 但如果我像保罗一样经历了一个充满数字的一周，我想我会选择枕头。
@@ -754,8 +754,8 @@ You are still resting, but you are starting to think about Monday. Let's see how
 Paul focuses on preparation.
 保罗专注于做准备。
 
-A: He talks about a concept called meal prepping. Meal prepping.
-他谈到了一个叫做“备餐（meal prepping）”的概念。备餐。
+A: He talks about a **concept** called meal prepping. Meal prepping.
+他谈到了一个叫做“备餐（meal prepping）”的**概念**。备餐。
 
 Can we explain this for our listeners? Certainly.
 我们能给听众解释一下吗？当然。
@@ -781,11 +781,11 @@ Like a big pot of food.
 A: He cooks a lot of food on Sunday to eat later in the week.
 他在星期天做很多食物，留到本周晚些时候吃。
 
-For example, he makes chicken and rice. Or a hearty soup.
-例如，他做鸡肉和米饭。或者一锅丰盛的汤。
+For example, he makes chicken and rice. Or a **hearty** soup.
+例如，他做鸡肉和米饭。或者一锅丰盛的汤。**爽朗**
 
-A hearty soup means a thick, warm soup with many ingredients. It makes you feel very full.
-丰盛的汤（hearty soup）指的是一种由很多原料熬制成的浓稠温暖的汤。它会让你觉得很饱。
+A hearty soup means a **thick**, warm soup with many **ingredients**. It makes you feel very full.
+丰盛的汤（hearty soup）指的是一种由很多**原料**熬制成的浓稠温暖的汤。它会让你觉得很饱。**thick：厚的**
 
 B: Exactly. He cooks all this food on Sunday.
 完全正确。他在星期天把这些食物全做了。
@@ -817,14 +817,14 @@ B: Now, let's look at Emily's Sunday. Is she meal prepping too?
 No. Emily did her work on Saturday, she cleaned her apartment then.
 没有。艾米丽在周六完成了她的工作，那时她打扫了公寓。
 
-So Sunday is her day for pure fun. She deserves it.
-所以星期天是她纯粹享受乐趣的日子。这是她应得的。
+So Sunday is her day for **pure fun**. She **deserves** it.
+所以星期天是她**纯粹享受**乐趣的日子。这是她**应得**的。**值得**
 
 What is her plan?
 她的计划是什么？
 
-A: She is going to the cinema. She is going to watch a movie.
-她要去电影院。她要去看电影。
+A: She is going to the **cinema**. She is going to watch a movie.
+她要去**电影院。**她要去看电影。
 
 Going to the cinema is a classic Sunday activity. It is a great way to escape reality for a few hours.
 去电影院是经典的周日活动。这是逃避现实几个小时的绝佳方式。
@@ -850,14 +850,14 @@ A: She really likes to be around people. And after the movie.
 Do they just go home? No.
 她们就直接回家了吗？不。
 
-This is actually my favorite part of her weekend. She says they will have chocolate mint ice cream.
-这其实是我最喜欢她周末的一点。她说她们会吃薄荷巧克力冰淇淋。
+This is actually my favorite part of her weekend. She says they will have **chocolate mint ice cream.**
+这其实是我最喜欢她周末的一点。她说她们会吃**薄荷巧克力冰淇淋**。
 
-B: That is a very specific detail. Chocolate mint.
-这是一个非常具体的细节。薄荷巧克力。
+B: That is a very specific detail. **Chocolate mint**.
+这是一个非常具体的细节。**薄荷巧克力**。
 
-It is a sweet treat. It sounds delicious.
-这是一份甜点。听起来很美味。
+It is a **sweet treat**. It sounds delicious.
+这是一份**甜点**。听起来很美味。
 
 So let's look at the difference again between the two characters. Paul uses Sunday to prepare.
 所以让我们再次看看两个人物之间的区别。保罗利用星期天来做准备。
@@ -868,8 +868,8 @@ He is being practical. He is thinking about his future week.
 A: Emily uses Sunday to enjoy the last moments of freedom. She is having fun.
 艾米丽利用星期天来享受自由的最后时刻。她在玩乐。
 
-She is thinking about the present moment. One is sensible, one is fun.
-她关注的是当下的时刻。一个是理智的，一个是贪玩的。
+She is thinking about the **present moment.** One is sensible, one is fun.
+她关注的是**当下的时刻。**一个是理智的，一个是贪玩的。
 
 Both are very necessary in life.
 两者在生活中都是非常必要的。
@@ -883,8 +883,8 @@ So between Paul and Emily, they cover everything. They show us two different way
 A: Now we are reaching the end of the conversation. Let's move to part five.
 现在我们快到谈话的尾声了。让我们进入第五部分。
 
-Looking ahead and finding balance. The characters take a moment to look at the future.
-展望未来，寻找平衡。人物们花了一点时间来展望未来。
+**Looking ahead** and finding balance. The characters take a moment to look at the future.
+**展望未来**，寻找平衡。人物们花了一点时间来展望未来。
 
 They look at their schedule for the next week.
 他们看了看下周的日程安排。
@@ -937,7 +937,7 @@ She wants to clear her head. Clear her head.
 That is a beautiful phrase. What does it mean?
 这是一个优美的短语。它是什么意思？
 
-B: It means to let go of thoughts. To stop thinking so hard.
+B: It means to let go of **thoughts**. To stop thinking so hard.
 意思是放下思绪。停止过度思考。
 
 When you study a language, your brain gets full. You focus on grammar and vocabulary.
@@ -976,8 +976,8 @@ Like Paul sleeping in with his soft pillow.
 B: Or Emily cooking spicy vegetable curry. Or eating chocolate mint ice cream.
 或者艾米丽做辣味蔬菜咖喱。或者吃薄荷巧克力冰淇淋。
 
-Yes, ice cream is definitely self care. Paul says something very wise at the end of the script.
-是的，冰淇淋绝对是自我关怀。保罗在讲稿的最后说了一句非常明智的话。
+Yes, ice cream is definitely self care. Paul says something very **wise** at the end of the script.
+是的，冰淇淋绝对是自我关怀。保罗在讲稿的最后说了一句非常**明智**的话。
 
 What does he say?
 他说了什么？
@@ -1036,8 +1036,8 @@ You can talk about your tired feet.
 B: These small topics are the building blocks of fluency. We have covered a lot today.
 这些小话题正是流利表达的基石。我们今天讲了很多。
 
-Let's do a quick review in our outro. We talked about work and the feeling of finishing a big project.
-让我们在结尾做一个快速的回顾。我们谈论了工作以及完成一个大项目后的感觉。
+Let's do a quick review **in our outro**. We talked about work and the feeling of finishing a big project.
+让我们**在结尾**做一个快速的回顾。我们谈论了工作以及完成一个大项目后的感觉。
 
 A: We talked about shopping adventures and the funny experience of getting lost.
 我们谈论了购物大冒险和迷路的有趣经历。
@@ -1054,8 +1054,8 @@ B: We talked about Sunday routines. Meal prepping for the future versus going to
 And finally, we talked about finding balance in the week ahead. It is a full picture of a normal life.
 最后，我们谈论了在接下来的一周中寻找平衡。这就是普通生活的全貌。
 
-A: It really is. Now I have a provocative question for you, the listener.
-确实如此。现在我有一个启发性的问题要问听众。
+A: It really is. Now I have a **provocative** question for you, the listener.
+确实如此。现在我有一个**启发性**的问题要问听众。**provocative挑衅**
 
 I want you to think about this carefully. What is the question?
 我希望你们仔细思考一下。什么问题？
